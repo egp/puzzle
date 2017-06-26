@@ -36,7 +36,7 @@ class Puzzle() {
     val fileSource = Source.fromFile(fullPathName)
     val linesFromFile = try {
       val rawLines = fileSource.getLines.toSeq
-//      println(s"rawLines.length=${rawLines.length}")
+      println(s"rawLines.length=${rawLines.length}")
         rawLines.map(_.trim.toLowerCase).filter(_.nonEmpty)
     } finally {
       fileSource.close()

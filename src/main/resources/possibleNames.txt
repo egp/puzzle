@@ -1,2 +1,10 @@
 
-xform=0, result=List(saxhorns, safetied, evolvers, misparse, pooftahs, acoustic, tailpipe, hornpipe, yodelers, hoosegow, offstage, podocarp, earwaxes)
+xform=0, result=List(saxhorns, safetied, evolvers, misparse, prefight, acoustic, tailpipe, hornpipe, yodelers, horsepox, offstage, podocarp, earwaxes)
+
+xform=0, result=List(feedbags, infantry, neonates, acridest, neediest, coverups, ideation, acridest, loyalest, phonemic, renminbi, obeyable)
+xform=0, result=List(menseful, easiness, coexerts, raptness, enchants, deifical, influent, taboured, kilomole, acarpous, ranchman, madonnas, abundant)
+xform=0, result=List(ostracode, bigeneric, exanimate, sticklike, cheerlead, affrayers, algorisms, cocobolas, cosmetics, crenation, occasions, premodify, bedeviled)
+xform=0, result=List(residuary, abilities, fixations, antiknock, rehearsed, affirmers, palominos, adoration, dioecisms, aureoling, accentual, birdfarms, beefeater)
+xform=0, result=List(garfishes, reliquefy, emanation, sclaffers, sadnesses, placative, obligated, sclaffers, spillways, inspector, barraging, laborites)
+xform=0, result=List(kerchiefs, anorexies, absenters, handwheel, tariffing, bootblack, backbones, belabours, boardroom, mummichog, paraforms, apishness)
+xform=0, result=List(censusing, kerchiefs, anorexies, absenters, handwheel, tariffing, bootblack, backbones, belabours, boardroom, mummichog, paraforms)
