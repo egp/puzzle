@@ -12,7 +12,8 @@ class PuzzleSpec extends FlatSpec with Matchers {
   }
 
   "findAllWords" should "return a list" in {
-    puzzle.findAllWords("podocarp", "PRO")(Context(0, (3, 6, 0), Seq())) should be(List("abcdefg"))
+    puzzle.findAllWords("podocarp", "PRO")(Context(0, (3, 6, 0), Seq())) should be(List("podocarp"))
+    puzzle.findAllWords("podocarp", "PRO")(Context(0, (3, 6, 0), Seq())) should be(List("podocarp"))
   }
 
 }
