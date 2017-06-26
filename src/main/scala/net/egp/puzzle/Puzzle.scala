@@ -76,7 +76,7 @@ class Puzzle() {
   }
 
   def solve(): Seq[List[String]] =  for {
-      curLen <- 3 to 28
+      curLen <- 8 to 12
       currentRot <- 0 until 26
       currentSet: (Int, Int, Int) <- for {
         i <- 0 until curLen

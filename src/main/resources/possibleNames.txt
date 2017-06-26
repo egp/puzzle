@@ -8,3 +8,5 @@ xform=0, result=List(residuary, abilities, fixations, antiknock, rehearsed, affi
 xform=0, result=List(garfishes, reliquefy, emanation, sclaffers, sadnesses, placative, obligated, sclaffers, spillways, inspector, barraging, laborites)
 xform=0, result=List(kerchiefs, anorexies, absenters, handwheel, tariffing, bootblack, backbones, belabours, boardroom, mummichog, paraforms, apishness)
 xform=0, result=List(censusing, kerchiefs, anorexies, absenters, handwheel, tariffing, bootblack, backbones, belabours, boardroom, mummichog, paraforms)
+xform=0, result=List(silicifying, experienced, stagecrafts, chandleries, aficionadas, blastocoele, bookkeepers, cockatrices, arteriogram, accommodate, nonharmonic, unresistant)
+xform=0, result=List(famishments, enchiridion, relaxations, electrotype, nonthinking, chiffchaffs, equilibrant, rhizotomies, ochlocratic, outpreached, monochromat, scherzandos)
