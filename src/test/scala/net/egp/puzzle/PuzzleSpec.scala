@@ -11,10 +11,10 @@ class PuzzleSpec extends FlatSpec with Matchers {
     puzzle.rot("ABC")(Context(26 - 6, (0, 1, 2), Seq())) should be("uvw")
   }
 
-  "findAllWords for earwaxes" should "return a list" in {
+  "findAllWords for Context(0, (3, 6, 0))" should "return lists" in {
     puzzle.findAllWords("saxhorns")(Context(0, (3, 6, 0), Seq())) should be(List("sighting", "saxhorns"))
     puzzle.findAllWords("safetied")(Context(0, (3, 6, 0), Seq())) should be(List(
-      "sweeties", "sweepier", "sweenies", "sureties", "supersex", "superset", "supermen", "superjet", "superber",
+      "sweeties", "sweepier", "sweenies", "sureties", "superset", "supermen", "superjet", "superber",
       "streusel", "stresses", "stressed", "streeled", "streeker", "streeked", "streamer", "streamed", "streaker",
       "streaked", "steeples", "steepled", "steelies", "steelier", "squegged", "squeezes", "squeezer", "squeezed",
       "squeegee", "squealer", "squealed", "squeaker", "squeaked", "spreader", "spherier", "speedier", "speeches",
@@ -37,5 +37,6 @@ class PuzzleSpec extends FlatSpec with Matchers {
   }
 
 }
+
 //case class Context(rot: Int, columns: (Int, Int, Int), dictList: Seq[String])
 // TODO

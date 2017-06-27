@@ -14,35 +14,32 @@ class Puzzle() {
    * assumes three vertical columns contain the goal phrase.
    * Goal phrase length must be multiple of three
    */
+  val requiredColumns = 3
+  // read all the files
+  val phraseList: Seq[Seq[Char]] = readLinesFromFile("phrases.txt").map(_.toSeq)
+  phraseList.foreach(p => assert(0 == p.length % requiredColumns))
+  val exclusionlist: Seq[String] = readLinesFromFile("exclusions.txt")
+  val dictLines: Seq[String] = readLinesFromFile("words.txt")
+  val rawDictList: Seq[String] = dictLines.filterNot(exclusionlist.contains)
+  println(s"read ${phraseList.length} phrases, ${exclusionlist.length} exclusions, and ${dictLines.length} words")
 
-  lazy val phraseList: Seq[Seq[Char]] = readLinesFromFile("phrases.txt").map(_.toSeq)
-  phraseList.foreach(p => assert(0 == p.length % 3))
-  lazy val exclusionlist: Seq[String] = readLinesFromFile("exclusions.txt")
-  lazy val dictLines: Seq[String] = readLinesFromFile("words.txt")
-  lazy val rawDictList = dictLines.filterNot(exclusionlist.contains)
-  println(s"read ${phraseList.length} phrases, ${exclusionlist.length} exclusions and ${dictLines.length} words")
-
+  def readLinesFromFile(fn: String): Seq[String] = {
+    val fileSource = Source.fromResource(fn)
+    val linesFromFile = try {
+      val rawLines = fileSource.getLines.toSeq
+      println(s"${fn}\t\tlines=${rawLines.length}")
+      rawLines.map(_.trim.toLowerCase).filter(_.nonEmpty)
+    } finally {
+      fileSource.close()
+    }
+    linesFromFile
+  }
 
   def rot(s: String)(implicit xform: Context): String = {
     assert(0 <= xform.rot && xform.rot < 26)
     val ls = s.toLowerCase
     ls.map { c => (c.toInt - 'a'.toInt + xform.rot) % 26 }
       .map(i => (i + 'a').toChar).mkString
-  }
-
-  def readLinesFromFile(fn: String): Seq[String] = {
-    val resourceDir = "/Users/edward.prentice/egp/puzzle/src/main/resources/"
-    val fullPathName = s"$resourceDir$fn"
-    val fileSource = Source.fromFile(fullPathName)
-    val linesFromFile = try {
-      val rawLines = fileSource.getLines.toSeq
-      println(s"rawLines.length=${rawLines.length}")
-        rawLines.map(_.trim.toLowerCase).filter(_.nonEmpty)
-    } finally {
-      fileSource.close()
-    }
-//    println(s"read ${linesFromFile.length} lines from $fn")
-    linesFromFile
   }
 
   def cols(wd: String)(implicit cxt: Context): String =
@@ -70,42 +67,43 @@ class Puzzle() {
   @annotation.tailrec
   final def findWordSet(acc: List[String], xg: List[String])(implicit cxt: Context): List[String] =
     xg match {
-    case Nil => acc.reverse
-    case hd :: tl if findWord(hd).nonEmpty => findWordSet(findWord(hd).get :: acc, tl)
-    case _ => Nil
-  }
+      case Nil => acc.reverse
+      case hd :: tl if findWord(hd).nonEmpty => findWordSet(findWord(hd).get :: acc, tl)
+      case _ => Nil
+    }
 
   def printResults(result: List[String])(implicit cxt: Context): Unit = {
     println(cxt.toString())
     result.foreach(findAllWords)
   }
 
-  def solve(): Seq[List[String]] =  for {
-      curLen <- 7 to 14
-      currentRot <- 0 until 26
-      currentSet: (Int, Int, Int) <- for {
-        i <- 0 until curLen
-        j <- 0 until curLen if i != j
-        k <- 0 until curLen if k != i && k != j
-      } yield (i, j, k)
+  def solve(): Seq[List[String]] = for {
+    curLen <- 7 to 14
+    currentRot <- 0 until 26
+    currentSet: (Int, Int, Int) <- for {
+      i <- 0 until curLen
+      j <- 0 until curLen if i != j
+      k <- 0 until curLen if k != i && k != j
+    } yield (i, j, k)
 
-      newDict: Seq[String] = rawDictList.filter(_.length == curLen)
-      phraseCnt <- phraseList.indices
-      currentPhrase = phraseList(phraseCnt)
-      nameCount = currentPhrase.length / 3
+    newDict: Seq[String] = rawDictList.filter(_.length == curLen)
+    phraseCnt <- phraseList.indices
+    currentPhrase = phraseList(phraseCnt)
+    nameCount = currentPhrase.length / 3
 
-      goals = (0 until nameCount).map { i =>
-        s"${currentPhrase(i)}${currentPhrase(i + nameCount)}${currentPhrase(i + 2 * nameCount)}"
-      }.toList
+    goals = (0 until nameCount).map { i =>
+      s"${currentPhrase(i)}${currentPhrase(i + nameCount)}${currentPhrase(i + 2 * nameCount)}"
+    }.toList
 
-      ct = Context(currentRot, currentSet, newDict)
-      result = findWordSet(Nil, goals)(ct)
-      _ = if (result.nonEmpty) printResults(result)(ct)
+    ct = Context(currentRot, currentSet, newDict)
+    result = findWordSet(Nil, goals)(ct)
+    _ = if (result.nonEmpty) printResults(result)(ct)
   } yield result
 }
 
 case class Context(rot: Int, columns: (Int, Int, Int), dictList: Seq[String]) {
-  val (c1,c2,c3)=columns
+  val (c1, c2, c3) = columns
+
   override def toString(): String = s"c(rot=$rot,col=$c1,$c2,$c3)"
 }
 
