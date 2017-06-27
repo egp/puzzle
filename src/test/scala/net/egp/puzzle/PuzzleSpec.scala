@@ -12,6 +12,7 @@ class PuzzleSpec extends FlatSpec with Matchers {
   }
 
   "findAllWords for Context(0, (3, 6, 0))" should "return lists" in {
+    //List(saxhorns, safetied, evolvers, misparse, prefight, acoustic, tailpipe, hornpipe, yodelers, horsepox, offstage, podocarp, earwaxes)
     puzzle.findAllWords("saxhorns")(Context(0, (3, 6, 0), Seq())) should be(List("sighting", "saxhorns"))
     puzzle.findAllWords("safetied")(Context(0, (3, 6, 0), Seq())) should be(List(
       "sweeties", "sweepier", "sweenies", "sureties", "superset", "supermen", "superjet", "superber",

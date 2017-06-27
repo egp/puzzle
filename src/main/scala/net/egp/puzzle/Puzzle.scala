@@ -10,10 +10,12 @@ object Puzzle extends App {
 
 class Puzzle() {
 
-  /*
-   * assumes three vertical columns contain the goal phrase.
-   * Goal phrase length must be multiple of three
-   */
+  /**
+    * Puzzle solver
+    *
+    * assumes three vertical columns contain the goal phrase.
+    * Goal phrase length must be multiple of three
+    */
   val requiredColumns = 3
   // read all the files
   val phraseList: Seq[Seq[Char]] = readLinesFromFile("phrases.txt").map(_.toSeq)
@@ -23,6 +25,12 @@ class Puzzle() {
   val rawDictList: Seq[String] = dictLines.filterNot(exclusionlist.contains)
   println(s"read ${phraseList.length} phrases, ${exclusionlist.length} exclusions, and ${dictLines.length} words")
 
+  /**
+    * reads lines from a file
+    *
+    * @param fn - filename of file to load
+    * @return - a list of lines from the specified file
+    */
   def readLinesFromFile(fn: String): Seq[String] = {
     val fileSource = Source.fromResource(fn)
     val linesFromFile = try {
@@ -35,6 +43,13 @@ class Puzzle() {
     linesFromFile
   }
 
+  /**
+    * rotates a word, using caesar cipher method
+    *
+    * @param s - the word to be rotated
+    * @param xform - contains the required rot value
+    * @return - the rotated word
+    */
   def rot(s: String)(implicit xform: Context): String = {
     assert(0 <= xform.rot && xform.rot < 26)
     val ls = s.toLowerCase
@@ -42,9 +57,23 @@ class Puzzle() {
       .map(i => (i + 'a').toChar).mkString
   }
 
+  /**
+    * selects specified columns from a word
+    *
+    * @param wd - the word from which columns will be selected
+    * @param cxt - contains the list of columns to select
+    * @return - just the selected columns in the order specified
+    */
   def cols(wd: String)(implicit cxt: Context): String =
     s"${wd(cxt.columns._1)}${wd(cxt.columns._2)}${wd(cxt.columns._3)}"
 
+  /**
+    * finds all similar words that have the same rot and columns
+    *
+    * @param matchWord - word found by solver
+    * @param cxt - specifies the rot and columns
+    * @return - a list of similar words
+    */
   def findAllWords(matchWord: String)(implicit cxt: Context): List[String] = {
 
     @annotation.tailrec
@@ -59,6 +88,13 @@ class Puzzle() {
     allWordsLoop(rawDictList.filter(_.length == matchWord.length).toList, Nil)
   }
 
+  /**
+    * finds a word in the dictionary that matches the specified rot and columns
+    *
+    * @param matchWord - word to be matched
+    * @param cxt - specifies the rot and columns
+    * @return - a dictionary word if successful
+    */
   def findWord(matchWord: String)(implicit cxt: Context): Option[String] =
     cxt.dictList.map { dictWord =>
       if (matchWord.substring(0, 3).equalsIgnoreCase(cols(rot(dictWord)))) Some(dictWord) else None
@@ -74,9 +110,20 @@ class Puzzle() {
 
   def printResults(result: List[String])(implicit cxt: Context): Unit = {
     println(cxt.toString())
-    result.foreach(findAllWords)
+    result.foreach{ word =>
+      val wordList = findAllWords(word)
+      println(wordList)
+    }
   }
 
+  /**
+    * this method enumerates all the possible cases of:
+    *   - word length
+    *   - caesar cipher rotation
+    *   - various columns for goal phrase
+    *
+    * @return all the results for all cases
+    */
   def solve(): Seq[List[String]] = for {
     curLen <- 7 to 14
     currentRot <- 0 until 26

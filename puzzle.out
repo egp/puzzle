@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0mLoading global plugins from /Users/edward.prentice/.sbt/0.13/plugins/project[0m
+[0m[[0minfo[0m] [0mLoading global plugins from /Users/edward.prentice/.sbt/0.13/plugins[0m
+[0m[[0minfo[0m] [0mLoading project definition from /Users/edward.prentice/egp/puzzle/project[0m
+[0m[[0minfo[0m] [0mSet current project to Puzzle (in build file:/Users/edward.prentice/egp/puzzle/)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/edward.prentice/egp/puzzle/target/scala-2.12/classes...[0m
+[0m[[0minfo[0m] [0mRunning net.egp.puzzle.Puzzle [0m
+phrases.txt		lines=14
+exclusions.txt		lines=13
+words.txt		lines=167930
+read 14 phrases, 13 exclusions, and 167930 words
