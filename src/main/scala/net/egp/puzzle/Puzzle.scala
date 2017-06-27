@@ -142,16 +142,16 @@ class Puzzle() {
       s"${currentPhrase(i)}${currentPhrase(i + nameCount)}${currentPhrase(i + 2 * nameCount)}"
     }.toList
 
-    ct = Context(currentRot, currentSet, newDict)
+    ct = Context(curLen, currentRot, currentSet, newDict)
     result = findWordSet(Nil, goals)(ct)
     _ = if (result.nonEmpty) printResults(result)(ct)
   } yield result
 }
 
-case class Context(rot: Int, columns: (Int, Int, Int), dictList: Seq[String]) {
+case class Context(wordLen: Int, rot: Int, columns: (Int, Int, Int), dictList: Seq[String]) {
   val (c1, c2, c3) = columns
 
-  override def toString(): String = s"c(rot=$rot,col=$c1,$c2,$c3)"
+  override def toString(): String = s"c(l=$wordLen rot=$rot,col=$c1,$c2,$c3)"
 }
 
 // TODO: generate many more phrases (length must be 39)
