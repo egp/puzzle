@@ -154,5 +154,6 @@ case class Context(rot: Int, columns: (Int, Int, Int), dictList: Seq[String]) {
   override def toString(): String = s"c(rot=$rot,col=$c1,$c2,$c3)"
 }
 
-// TODO: generate many more phrases
+// TODO: generate many more phrases (length must be 39)
+// TODO: Constrain to 13 room names
 //eof
