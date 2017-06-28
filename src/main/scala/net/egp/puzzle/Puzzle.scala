@@ -17,13 +17,15 @@ class Puzzle() {
     * Goal phrase length must be multiple of three
     */
   val requiredColumns = 3
+  val requiredNames = 13
   // read all the files
-  val phraseList: Seq[Seq[Char]] = readLinesFromFile("phrases.txt").map(_.toSeq)
-  phraseList.foreach(p => assert(0 == p.length % requiredColumns))
+  val phraseList: Seq[Seq[Char]] = readLinesFromFile("phrases.txt").map(_.toSeq).filterNot(_.contains('0'))
+  phraseList.foreach(p => assert((requiredColumns * requiredNames) == p.length))
   val exclusionlist: Seq[String] = readLinesFromFile("exclusions.txt")
   val dictLines: Seq[String] = readLinesFromFile("words.txt")
   val rawDictList: Seq[String] = dictLines.filterNot(exclusionlist.contains)
   println(s"read ${phraseList.length} phrases, ${exclusionlist.length} exclusions, and ${dictLines.length} words")
+  val wordsByLength: Map[Int, Seq[String]] = rawDictList.groupBy(_.length)
 
   /**
     * reads lines from a file
@@ -96,10 +98,19 @@ class Puzzle() {
     * @return - a dictionary word if successful
     */
   def findWord(matchWord: String)(implicit cxt: Context): Option[String] =
+//    cxt.dictList.find(wd => matchWord.take(3).equalsIgnoreCase(cols(rot(wd))))
     cxt.dictList.map { dictWord =>
       if (matchWord.substring(0, 3).equalsIgnoreCase(cols(rot(dictWord)))) Some(dictWord) else None
     }.find(_.isDefined).flatten
 
+  /**
+    * Find a set of words such that the goal phrase is embedded in the columns
+    *
+    * @param acc - results so far
+    * @param xg - goal strings (broken by room name)
+    * @param cxt - current context
+    * @return - list of words
+    */
   @annotation.tailrec
   final def findWordSet(acc: List[String], xg: List[String])(implicit cxt: Context): List[String] =
     xg match {
@@ -108,10 +119,16 @@ class Puzzle() {
       case _ => Nil
     }
 
+  /**
+    * Format the results, showing the context
+    *
+    * @param result - the resulting list of first-found words
+    * @param cxt - the context
+    */
   def printResults(result: List[String])(implicit cxt: Context): Unit = {
     println(cxt.toString())
     result.foreach{ word =>
-      val wordList = findAllWords(word)
+      val wordList = findAllWords(word) // show similar words
       println(wordList)
     }
   }
@@ -125,23 +142,21 @@ class Puzzle() {
     * @return all the results for all cases
     */
   def solve(): Seq[List[String]] = for {
-    curLen <- 7 to 14
-    currentRot <- 0 until 26
+    curLen <- 6 to 15 // word length
     currentSet: (Int, Int, Int) <- for {
       i <- 0 until curLen
       j <- 0 until curLen if i != j
       k <- 0 until curLen if k != i && k != j
     } yield (i, j, k)
-
-    newDict: Seq[String] = rawDictList.filter(_.length == curLen)
+    currentRot <- 0 until 26
+//    newDict: Seq[String] = rawDictList.filter(_.length == curLen)
+    newDict: Seq[String] = wordsByLength(curLen)
     phraseCnt <- phraseList.indices
     currentPhrase = phraseList(phraseCnt)
     nameCount = currentPhrase.length / 3
-
     goals = (0 until nameCount).map { i =>
       s"${currentPhrase(i)}${currentPhrase(i + nameCount)}${currentPhrase(i + 2 * nameCount)}"
     }.toList
-
     ct = Context(curLen, currentRot, currentSet, newDict)
     result = findWordSet(Nil, goals)(ct)
     _ = if (result.nonEmpty) printResults(result)(ct)
@@ -154,6 +169,5 @@ case class Context(wordLen: Int, rot: Int, columns: (Int, Int, Int), dictList: S
   override def toString(): String = s"c(l=$wordLen rot=$rot,col=$c1,$c2,$c3)"
 }
 
-// TODO: generate many more phrases (length must be 39)
-// TODO: Constrain to 13 room names
+// TODO: generate many more phrases (length must be multiple of 13, i.e. 26, 39, 52)
 //eof
