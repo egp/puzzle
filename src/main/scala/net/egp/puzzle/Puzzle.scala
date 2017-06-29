@@ -98,10 +98,10 @@ class Puzzle() {
     * @return - a dictionary word if successful
     */
   def findWord(matchWord: String)(implicit cxt: Context): Option[String] =
-//    cxt.dictList.find(wd => matchWord.take(3).equalsIgnoreCase(cols(rot(wd))))
-    cxt.dictList.map { dictWord =>
-      if (matchWord.substring(0, 3).equalsIgnoreCase(cols(rot(dictWord)))) Some(dictWord) else None
-    }.find(_.isDefined).flatten
+    cxt.dictList.find(wd => matchWord.take(3).equalsIgnoreCase(cols(rot(wd))))
+//    cxt.dictList.map { dictWord =>
+//      if (matchWord.substring(0, 3).equalsIgnoreCase(cols(rot(dictWord)))) Some(dictWord) else None
+//    }.find(_.isDefined).flatten
 
   /**
     * Find a set of words such that the goal phrase is embedded in the columns
@@ -149,10 +149,10 @@ class Puzzle() {
       k <- 0 until curLen if k != i && k != j
     } yield (i, j, k)
     currentRot <- 0 until 26
-//    newDict: Seq[String] = rawDictList.filter(_.length == curLen)
     newDict: Seq[String] = wordsByLength(curLen)
     phraseCnt <- phraseList.indices
     currentPhrase = phraseList(phraseCnt)
+    _ = println(s"****** l$curLen r$currentRot c$currentSet $currentPhrase ******")
     nameCount = currentPhrase.length / 3
     goals = (0 until nameCount).map { i =>
       s"${currentPhrase(i)}${currentPhrase(i + nameCount)}${currentPhrase(i + 2 * nameCount)}"
