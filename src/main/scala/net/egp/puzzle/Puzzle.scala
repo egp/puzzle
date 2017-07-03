@@ -5,11 +5,11 @@ import org.scalactic._
 import TypeCheckedTripleEquals._
 import Util._
 
-object Puzzle extends App {
-  val puzzle = new Puzzle()
-  val solution = puzzle.solve()
-  println(solution)
-}
+//object Puzzle extends App {
+//  val puzzle = new Puzzle()
+//  val solution = puzzle.solve()
+//  println(solution)
+//}
 
 class Puzzle {
 
