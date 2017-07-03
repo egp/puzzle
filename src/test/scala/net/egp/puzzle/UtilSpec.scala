@@ -3,43 +3,42 @@ package net.egp.puzzle
 import org.scalatest.{FlatSpec, Matchers}
 import Util._
 
-class PuzzleSpec extends FlatSpec with Matchers {
-  import Util._
+class UtilSpec extends FlatSpec with Matchers {
 
   val exclusionlist: Seq[String] = readLinesFromFile("exclusions.txt")
   val dictLines: Seq[String] = readLinesFromFile("words.txt")
   val rawDictList: Seq[String] = dictLines.filterNot(exclusionlist.contains)
 
   "The rot method" should "rotate" in {
-    rot("ABC")(Context(3, 0, (0, 1, 2), Seq())) should be("abc")
-    rot("ABC")(Context(3, 6, (0, 1, 2), Seq())) should be("ghi")
-    rot("ABC")(Context(3, 26 - 6, (0, 1, 2), Seq())) should be("uvw")
+    rot("abc", 0) should be("ABC")
+    rot("abc", 6) should be("GHI")
+    rot("abc", 26 - 6) should be("UVW")
   }
 
   "findAllWords for Context(0, 0, (3, 6, 0))" should "return lists" in {
     //List(saxhorns, safetied, evolvers, misparse, prefight, acoustic, tailpipe, hornpipe, yodelers, horsepox, offstage, podocarp, earwaxes)
-    findAllWords("saxhorns", rawDictList)(Context(0, 0, (3, 6, 0), Seq())) should be(List("sighting", "saxhorns"))
-    findAllWords("safetied", rawDictList)(Context(0, 0, (3, 6, 0), Seq())) should be(List(
-      "sweeties", "sweepier", "sweenies", "sureties", "superset", "supermen", "superjet", "superber",
-      "streusel", "stresses", "stressed", "streeled", "streeker", "streeked", "streamer", "streamed", "streaker",
-      "streaked", "steeples", "steepled", "steelies", "steelier", "squegged", "squeezes", "squeezer", "squeezed",
-      "squeegee", "squealer", "squealed", "squeaker", "squeaked", "spreader", "spherier", "speedier", "speeches",
-      "somewhen", "somerset", "someones", "soleuses", "solemner", "sneezier", "sneeshes", "sleetier", "sleepier",
-      "sleekier", "sklented", "silenter", "silences", "silencer", "silenced", "sidestep", "shrewder", "shredder",
-      "shredded", "shoetree", "shlepped", "shlemiel", "shielder", "shielded", "sheetfed", "sheepmen", "sheenies",
-      "sheenier", "semester", "selectee", "selected", "secerned", "screwier", "screener", "screened", "screeded",
-      "screamer", "screamed", "screaked", "sciences", "salesmen", "safeties", "safetied"))
-    findAllWords("evolvers", rawDictList)(Context(0, 0, (3, 6, 0), Seq())) should be(List("exalters", "evolvers"))
-    findAllWords("misparse", rawDictList)(Context(0, 0, (3, 6, 0), Seq())) should be(List("mispoise", "misparse"))
-    findAllWords("prefight", rawDictList)(Context(0, 0, (3, 6, 0), Seq())) should be(List("prefight"))
-    findAllWords("acoustic", rawDictList)(Context(0, 0, (3, 6, 0), Seq())) should be(List("aequorin", "acoustic"))
-    findAllWords("tailpipe", rawDictList)(Context(0, 0, (3, 6, 0), Seq())) should be(List("trollopy", "trollops", "tailpipe"))
-    findAllWords("hornpipe", rawDictList)(Context(0, 0, (3, 6, 0), Seq())) should be(List("hornpipe"))
-    findAllWords("yodelers", rawDictList)(Context(0, 0, (3, 6, 0), Seq())) should be(List("yodelers"))
-    findAllWords("horsepox", rawDictList)(Context(0, 0, (3, 6, 0), Seq())) should be(List("housetop", "houseboy", "horsepox"))
-    findAllWords("offstage", rawDictList)(Context(0, 0, (3, 6, 0), Seq())) should be(List("outsings", "offstage"))
-    findAllWords("podocarp", rawDictList)(Context(0, 0, (3, 6, 0), Seq())) should be(List("proofers", "popovers", "podomere", "podocarp"))
-    findAllWords("earwaxes", rawDictList)(Context(0, 0, (3, 6, 0), Seq())) should be(List("eyewater", "entwines", "entwined", "ekpweles", "earwaxes"))
+    findAllWords("saxhorns", rawDictList)(PuzzleContext(0, 0, (3, 6, 0), Seq())) should be(List("SIGHTING", "SAXHORNS"))
+    findAllWords("safetied", rawDictList)(PuzzleContext(0, 0, (3, 6, 0), Seq())) should be(List(
+      "SWEETIES", "SWEEPIER", "SWEENIES", "SURETIES", "SUPERSET", "SUPERMEN", "SUPERJET", "SUPERBER",
+      "STREUSEL", "STRESSES", "STRESSED", "STREELED", "STREEKER", "STREEKED", "STREAMER", "STREAMED", "STREAKER",
+      "STREAKED", "STEEPLES", "STEEPLED", "STEELIES", "STEELIER", "SQUEGGED", "SQUEEZES", "SQUEEZER", "SQUEEZED",
+      "SQUEEGEE", "SQUEALER", "SQUEALED", "SQUEAKER", "SQUEAKED", "SPREADER", "SPHERIER", "SPEEDIER", "SPEECHES",
+      "SOMEWHEN", "SOMERSET", "SOMEONES", "SOLEUSES", "SOLEMNER", "SNEEZIER", "SNEESHES", "SLEETIER", "SLEEPIER",
+      "SLEEKIER", "SKLENTED", "SILENTER", "SILENCES", "SILENCER", "SILENCED", "SIDESTEP", "SHREWDER", "SHREDDER",
+      "SHREDDED", "SHOETREE", "SHLEPPED", "SHLEMIEL", "SHIELDER", "SHIELDED", "SHEETFED", "SHEEPMEN", "SHEENIES",
+      "SHEENIER", "SEMESTER", "SELECTEE", "SELECTED", "SECERNED", "SCREWIER", "SCREENER", "SCREENED", "SCREEDED",
+      "SCREAMER", "SCREAMED", "SCREAKED", "SCIENCES", "SALESMEN", "SAFETIES", "SAFETIED"))
+    findAllWords("evolvers", rawDictList)(PuzzleContext(0, 0, (3, 6, 0), Seq())) should be(List("EXALTERS", "EVOLVERS"))
+    findAllWords("misparse", rawDictList)(PuzzleContext(0, 0, (3, 6, 0), Seq())) should be(List("MISPOISE", "MISPARSE"))
+    findAllWords("prefight", rawDictList)(PuzzleContext(0, 0, (3, 6, 0), Seq())) should be(List("PREFIGHT"))
+    findAllWords("acoustic", rawDictList)(PuzzleContext(0, 0, (3, 6, 0), Seq())) should be(List("AEQUORIN", "ACOUSTIC"))
+    findAllWords("tailpipe", rawDictList)(PuzzleContext(0, 0, (3, 6, 0), Seq())) should be(List("TROLLOPY", "TROLLOPS", "TAILPIPE"))
+    findAllWords("hornpipe", rawDictList)(PuzzleContext(0, 0, (3, 6, 0), Seq())) should be(List("HORNPIPE"))
+    findAllWords("yodelers", rawDictList)(PuzzleContext(0, 0, (3, 6, 0), Seq())) should be(List("YODELERS"))
+    findAllWords("horsepox", rawDictList)(PuzzleContext(0, 0, (3, 6, 0), Seq())) should be(List("HOUSETOP", "HOUSEBOY", "HORSEPOX"))
+    findAllWords("offstage", rawDictList)(PuzzleContext(0, 0, (3, 6, 0), Seq())) should be(List("OUTSINGS", "OFFSTAGE"))
+    findAllWords("podocarp", rawDictList)(PuzzleContext(0, 0, (3, 6, 0), Seq())) should be(List("PROOFERS", "POPOVERS", "PODOMERE", "PODOCARP"))
+    findAllWords("earwaxes", rawDictList)(PuzzleContext(0, 0, (3, 6, 0), Seq())) should be(List("EYEWATER", "ENTWINES", "ENTWINED", "EKPWELES", "EARWAXES"))
   }
 
 }

@@ -1,4 +1,6 @@
 CreditKarmaCK
+CKCreditKarma
 SixthFloorRMS
 SixthFloorPZL
 FamousUSWomen
+USFamousWomen
