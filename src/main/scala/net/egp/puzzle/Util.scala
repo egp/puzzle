@@ -4,7 +4,6 @@ import scala.io.Source
 import org.scalactic._
 import TypeCheckedTripleEquals._
 
-
 object Util {
 
   /**
@@ -17,7 +16,7 @@ object Util {
     val fileSource = Source.fromResource(fn)
     val linesFromFile = try {
       val rawLines = fileSource.getLines.toSeq
-      println(s"${fn}\t\tlines=${rawLines.length}")
+      println(s"$fn\t\tlines=${rawLines.length}")
       rawLines.map(_.trim.toUpperCase).filter(_.nonEmpty)
     } finally {
       fileSource.close()
@@ -28,8 +27,8 @@ object Util {
   /**
     * rotates a word, using caesar cipher method
     *
-    * @param s     - the word to be rotated
-    * @param xform - contains the required rot value
+    * @param s   - the word to be rotated
+    * @param rot - contains the required rot value
     * @return - the rotated word
     */
   def rot(s: String, rot: Int): String = {
@@ -80,11 +79,7 @@ object Util {
     */
   def findWord(matchWord: String)(implicit cxt: PuzzleContext): Option[String] =
     cxt.dictList.find(wd => matchWord.take(3).equalsIgnoreCase(cols(rot(wd, cxt.rot))))
-
-  //    cxt.dictList.map { dictWord =>
-  //      if (matchWord.substring(0, 3).equalsIgnoreCase(cols(rot(dictWord)))) Some(dictWord) else None
-  //    }.find(_.isDefined).flatten
-
+  
   /**
     * Find a set of words such that the goal phrase is embedded in the columns
     *
@@ -102,28 +97,31 @@ object Util {
   }
 
 
-  def findThemeSet(wordsToFind: Int)(implicit tc: ThemeContext): List[String] = {
+  def findThemeSet(wordsToFind: Int)(implicit tc: ThemeContext): Solution = {
     //    @annotation.tailrec
-    def findThemeSetLoop(acc: List[String], numWordsFound: Int): List[String] = {
+    val unsolved = Solution(tc, List())
+    def findThemeSetLoop(acc: Solution, numWordsFound: Int): Solution = {
       numWordsFound match {
-        case _ if numWordsFound >= wordsToFind => acc.reverse
-        case _ if findThemeWord(numWordsFound).nonEmpty =>
-          val found = findThemeWord(numWordsFound).getOrElse(throw new Exception("???"))
-          findThemeSetLoop(found :: acc, numWordsFound + 1)
-        case _ => Nil
+        case _ if numWordsFound >= wordsToFind =>
+          Solution(tc, acc.solution.reverse)
+        case _ if findThemeWord(numWordsFound).names.nonEmpty =>{
+          val found = findThemeWord(numWordsFound)
+          findThemeSetLoop(Solution(tc, found :: acc.solution), numWordsFound + 1)
+        }
+        case _ =>
+          unsolved
       }
     }
 
-    val retVal = findThemeSetLoop(Nil, 0)
-    if (retVal.nonEmpty) {
-      assert(retVal.length === wordsToFind)
-      println(tc.toString, retVal)
+    val retVal = findThemeSetLoop(unsolved, 0)
+    if (retVal.isValid) {
+      println(retVal.toString)
     }
     retVal
   }
 
-  def findThemeWord(rowNum: Int)(implicit tc: ThemeContext): Option[String] =
-    tc.dictList.find(w => rot(w, tc.rot)(tc.column) === tc.currentPhase(rowNum))
+  def findThemeWord(rowNum: Int)(implicit tc: ThemeContext): RoomChoices =
+    RoomChoices(tc.dictList.filter(w => rot(w, tc.rot)(tc.column) === tc.currentPhase(rowNum)))
 
 }
 
@@ -132,7 +130,7 @@ object Util {
 case class PuzzleContext(wordLen: Int, rot: Int, columns: (Int, Int, Int), dictList: Seq[String]) {
   val (c1, c2, c3) = columns
 
-  override def toString(): String = s"c(l=$wordLen rot=$rot,col=$c1,$c2,$c3)"
+  override def toString(): String = s"c(l=$wordLen rot=$rot, col=$c1,$c2,$c3)"
 }
 
 case class ThemeContext(wordLen: Int,
@@ -143,12 +141,22 @@ case class ThemeContext(wordLen: Int,
   override def toString: ErrorMessage = s"s(l=$wordLen r=$rot c=$column, p=$currentPhase)"
 }
 
-case class Solution(cxt: PuzzleContext, solution: Seq[RoomChoices]) {
-  override def toString: String = cxt.toString() + "\n" +
-    solution.zipWithIndex.map(rci => s"${rci._2 + 1}. ${rci._1.toString()} \n")
+trait PossibleSolution {
+  def isValid: Boolean
+  override def toString: String
 }
 
-case class RoomChoices(names: List[String]) {
-  override def toString: String = names mkString("[", ",", "]")
+case class Solution(cxt: ThemeContext, solution: List[RoomChoices]) extends PossibleSolution {
+  def isValid: Boolean = solution.length === 13
+  override def toString: String = cxt.toString() + "\n" +
+    solution.zipWithIndex.map(rci => s"${rci._2 + 1}. ${rci._1.toString()} \n").mkString
+}
+case object NoSolution extends PossibleSolution {
+  val isValid = false
+  override val toString: String = "NoSolution"
+}
+
+case class RoomChoices(names: Seq[String]) {
+  override def toString: String = names mkString("[", ", ", "]")
 }
 
