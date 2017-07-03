@@ -1,9 +1,8 @@
 package net.egp.puzzle
 
-import scala.io.Source
+import net.egp.puzzle.Util._
+import org.scalactic.TypeCheckedTripleEquals._
 import org.scalactic._
-import TypeCheckedTripleEquals._
-import Util._
 
 //object Puzzle extends App {
 //  val puzzle = new Puzzle()

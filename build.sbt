@@ -4,6 +4,7 @@ lazy val puzzle = (project in file(".")).
   settings(
     inThisBuild(List(
       organization := "net.egp",
+//      scalaVersion := "2.11.11",
       scalaVersion := "2.12.2",
       version      := "0.2.0-SNAPSHOT"
     )),
@@ -13,3 +14,5 @@ lazy val puzzle = (project in file(".")).
       External.scalactic
     )
   )
+
+//enablePlugins(ScalaNativePlugin)
