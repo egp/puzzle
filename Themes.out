@@ -1,6 +1,5 @@
 [0m[[0minfo[0m] [0mLoading project definition from /Users/edwardprentice/code/puzzle/project[0m
 [0m[[0minfo[0m] [0mSet current project to Puzzle (in build file:/Users/edwardprentice/code/puzzle/)[0m
-[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/edwardprentice/code/puzzle/target/scala-2.12/classes...[0m
 [0m[[0minfo[0m] [0mRunning net.egp.puzzle.Themes [0m
 Starting: Themes 
 phrases13.txt		lines=6
@@ -93,4 +92,4 @@ read 6 phrases, 14 exclusions, and 101 words
 (s(l=7 r=12 c=3, p=FAMOUSUSWOMEN),List(WHITMAN, SOTOMAYOR, SACAGAWEA, BLACKBURN, GREIDER, KINGSTON, GREIDER, KINGSTON, DICKINSON, BLACKBURN, SACAGAWEA, CHISHOLM, LIEBOWITZ))
 (s(l=7 r=12 c=3, p=USFAMOUSWOMEN),List(GREIDER, KINGSTON, WHITMAN, SOTOMAYOR, SACAGAWEA, BLACKBURN, GREIDER, KINGSTON, DICKINSON, BLACKBURN, SACAGAWEA, CHISHOLM, LIEBOWITZ))
 Complete: Themes tried 9828 cases and found 85 solutions
-[0m[[32msuccess[0m] [0mTotal time: 20 s, completed Jul 2, 2017 9:40:28 PM[0m
+[0m[[32msuccess[0m] [0mTotal time: 5 s, completed Jul 2, 2017 9:47:12 PM[0m
