@@ -1,10 +1,29 @@
 package net.egp.puzzle
 
-import scala.io.Source
-import org.scalactic._
-import TypeCheckedTripleEquals._
+import org.scalactic.TypeCheckedTripleEquals._
+//import org.scalactic._
+
+import scala.io.{BufferedSource, Source}
 
 object Util {
+
+
+  def using[A <: {def close() : Unit}, B](resource: A)(f: A => B): B = try f(resource) finally resource.close()
+
+
+  /**
+    * Reads lines from a file in the resource directory
+    *
+    * @param fn - filename to read
+    * @return - complete file as a sequence of lines
+    */
+  def readFromResource(fn: String): Seq[String] = {
+    using(Source.fromResource(fn)) { fileReader =>
+      val rawLines: Seq[String] = fileReader.getLines().toSeq
+      val msg = s" $fn\t${rawLines.length} lines"
+      rawLines.map(_.trim.toUpperCase).filter(_.nonEmpty)
+    }
+  }
 
   /**
     * reads lines from a file
@@ -13,13 +32,17 @@ object Util {
     * @return - a list of lines from the specified file
     */
   def readLinesFromFile(fn: String): Seq[String] = {
-    val fileSource = Source.fromResource(fn)
+    val fileSource: BufferedSource = Source.fromResource(fn)
     val linesFromFile = try {
       val rawLines = fileSource.getLines.toSeq
-      println(s"$fn\t\tlines=${rawLines.length}")
       rawLines.map(_.trim.toUpperCase).filter(_.nonEmpty)
-    } finally {
-      fileSource.close()
+    } catch {
+      case e: Exception =>
+        println(s"Failed to read from $fn $e")
+        Seq()
+    }
+    finally {
+      if (null != fileSource) fileSource.close()
     }
     linesFromFile
   }
@@ -79,7 +102,7 @@ object Util {
     */
   def findWord(matchWord: String)(implicit cxt: PuzzleContext): Option[String] =
     cxt.dictList.find(wd => matchWord.take(3).equalsIgnoreCase(cols(rot(wd, cxt.rot))))
-  
+
   /**
     * Find a set of words such that the goal phrase is embedded in the columns
     *
@@ -100,11 +123,12 @@ object Util {
   def findThemeSet(wordsToFind: Int)(implicit tc: ThemeContext): Solution = {
     //    @annotation.tailrec
     val unsolved = Solution(tc, List())
+
     def findThemeSetLoop(acc: Solution, numWordsFound: Int): Solution = {
       numWordsFound match {
         case _ if numWordsFound >= wordsToFind =>
           Solution(tc, acc.solution.reverse)
-        case _ if findThemeWord(numWordsFound).names.nonEmpty =>{
+        case _ if findThemeWord(numWordsFound).names.nonEmpty => {
           val found = findThemeWord(numWordsFound)
           findThemeSetLoop(Solution(tc, found :: acc.solution), numWordsFound + 1)
         }
@@ -113,11 +137,7 @@ object Util {
       }
     }
 
-    val retVal = findThemeSetLoop(unsolved, 0)
-    if (retVal.isValid) {
-      println(retVal.toString)
-    }
-    retVal
+    findThemeSetLoop(unsolved, 0)
   }
 
   def findThemeWord(rowNum: Int)(implicit tc: ThemeContext): RoomChoices =
@@ -138,19 +158,25 @@ case class ThemeContext(wordLen: Int,
                         column: Int,
                         currentPhase: Seq[Char],
                         dictList: Seq[String]) {
-  override def toString: ErrorMessage = s"s(l=$wordLen r=$rot c=$column, p=$currentPhase)"
+  override def toString: String = s"«wordLen=$wordLen rot=$rot column=$column, currentPhase=$currentPhase»"
 }
 
 trait PossibleSolution {
   def isValid: Boolean
+
   override def toString: String
 }
 
 case class Solution(cxt: ThemeContext, solution: List[RoomChoices]) extends PossibleSolution {
-  def isValid: Boolean = solution.length === 13
+
+  import Themes.requiredNames
+
+  def isValid: Boolean = solution.length === requiredNames
+
   override def toString: String = cxt.toString() + "\n" +
     solution.zipWithIndex.map(rci => s"${rci._2 + 1}. ${rci._1.toString()} \n").mkString
 }
+
 case object NoSolution extends PossibleSolution {
   val isValid = false
   override val toString: String = "NoSolution"

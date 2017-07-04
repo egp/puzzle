@@ -11,7 +11,8 @@ lazy val puzzle = (project in file(".")).
     name := "Puzzle",
     libraryDependencies ++= Seq(
       ExternalTest.scalaTest % Test,
-      External.scalactic
+      External.scalactic,
+      External.betterFiles
     )
   )
 
