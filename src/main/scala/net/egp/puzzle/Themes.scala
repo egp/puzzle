@@ -15,7 +15,14 @@ object Themes extends App {
   val attempts = new Themes(themeFileName, phraseFileName).solve()
   val solutions = attempts.filter(_.isValid)
   val solutionFile = BFile(s"$themeName.solutions")
-  solutionFile.overwrite(solutions.mkString("\n", "\n", "\n"))
+
+  solutionFile.overwrite {
+    if (solutions.nonEmpty) {
+      solutions.mkString("\n", "\n", "\n")
+    } else {
+      "No solutions found"
+    }
+  }
   println(s"Complete: Themes tried ${attempts.length} cases. " +
     s"Wrote ${solutions.length} solutions to ${solutionFile.path}")
 }
