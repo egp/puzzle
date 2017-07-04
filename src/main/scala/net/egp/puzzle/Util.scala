@@ -1,14 +1,14 @@
 package net.egp.puzzle
 
 import org.scalactic.TypeCheckedTripleEquals._
-//import org.scalactic._
 
 import scala.io.{BufferedSource, Source}
 
 object Util {
 
 
-  def using[A <: {def close() : Unit}, B](resource: A)(f: A => B): B = try f(resource) finally resource.close()
+  def using[A <: {def close() : Unit}, B](resource: A)(f: A => B): B =
+    try f(resource) finally resource.close()
 
 
   /**
@@ -18,7 +18,7 @@ object Util {
     * @return - complete file as a sequence of lines
     */
   def readFromResource(fn: String): Seq[String] = {
-    using(Source.fromResource(fn)) { fileReader =>
+    using(Source.fromResource(fn)) { (fileReader: BufferedSource) =>
       val rawLines: Seq[String] = fileReader.getLines().toSeq
       val msg = s" $fn\t${rawLines.length} lines"
       rawLines.map(_.trim.toUpperCase).filter(_.nonEmpty)
