@@ -15,5 +15,6 @@ lazy val puzzle = (project in file(".")).
       External.betterFiles
     )
   )
+mainClass in (Compile, run) := Some("net.egp.puzzle.Themes")
 
 //enablePlugins(ScalaNativePlugin)
