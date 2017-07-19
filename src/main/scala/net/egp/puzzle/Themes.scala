@@ -13,7 +13,8 @@ object Themes extends App {
   val phraseFileName = s"$themeName.phrases"
   println(s"Starting: Themes themeFileName=$themeFileName phraseFileName=$phraseFileName")
   val attempts = new Themes(themeFileName, phraseFileName).solve()
-  val solutions = attempts.filter(_.isValid)
+  val possibleSolutions = attempts.filter(_.isComplete)
+  val solutions = possibleSolutions.filter(_.isValid)
   val solutionFile = BFile(s"$themeName.solutions")
 
   solutionFile.overwrite {
@@ -23,7 +24,7 @@ object Themes extends App {
       "No solutions found"
     }
   }
-  println(s"Complete: Themes tried ${attempts.length} cases. " +
+  println(s"Complete: Themes tried ${attempts.length} cases,  " +
     s"Wrote ${solutions.length} solutions to ${solutionFile.path}")
 }
 

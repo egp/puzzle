@@ -3,5 +3,5 @@
 project/target/
 target/
 .project
-*.solutions
+3*.solutions
 *.out

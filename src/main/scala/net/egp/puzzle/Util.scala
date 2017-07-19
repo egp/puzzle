@@ -171,7 +171,18 @@ case class Solution(cxt: ThemeContext, solution: List[RoomChoices]) extends Poss
 
   import Themes.requiredNames
 
-  def isValid: Boolean = solution.length === requiredNames
+  def isComplete: Boolean = solution.length === requiredNames
+
+  def isValid: Boolean = {
+    val stats: Map[SolutionStats, List[RoomChoices]] = solution.groupBy(SolutionStats(_))
+    stats.keys.forall { key => stats(key).length <= key.length }
+  }
+
+  case class SolutionStats(names: Seq[String], length: Int)
+
+  object SolutionStats {
+    def apply(rc: RoomChoices): SolutionStats = SolutionStats(rc.names, rc.names.length)
+  }
 
   override def toString: String = cxt.toString() + "\n" +
     solution.zipWithIndex.map(rci => s"${rci._2 + 1}. ${rci._1.toString()} \n").mkString
