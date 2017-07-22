@@ -5,35 +5,32 @@ import org.scalactic.TypeCheckedTripleEquals._
 import better.files.{File => BFile}
 
 object Themes extends App {
-
-  val requiredNames = 13
-  assert(args.length === 1, "Expecting one argument: Theme name (without extension)")
+  assert(args.length === 1, "Expecting one argument: Theme name (without extension) found in src/main/resources/")
   val themeName = args(0)
-  val themeFileName = s"$themeName.names"
-  val phraseFileName = s"$themeName.phrases"
-  println(s"Starting: Themes themeFileName=$themeFileName phraseFileName=$phraseFileName")
-  val attempts = new Themes(themeFileName, phraseFileName).solve()
-  val possibleSolutions = attempts.filter(_.isComplete)
-  val solutions = possibleSolutions.filter(_.isValid)
+  println(s"Starting Themes: theme-file=$themeName.names, phrase-file=$themeName.phrases")
+  val attempts = new Themes(themeName).solve()
+  val possibleSolutions = attempts.filter(_.isComplete) // keep ones that have 13 room names
+  val solutions = possibleSolutions.filter(_.isValid) // keep ones without contention for names
   val solutionFile = BFile(s"$themeName.solutions")
 
   solutionFile.overwrite {
     if (solutions.nonEmpty) {
-      solutions.mkString("\n", "\n", "\n")
+      val cr = "\n"
+      solutions.mkString(cr, cr, cr)
     } else {
-      "No solutions found"
+      "No solutions found.\n"
     }
   }
   println(s"Complete: Themes tried ${attempts.length} cases,  " +
     s"Wrote ${solutions.length} solutions to ${solutionFile.path}")
 }
 
-class Themes(themeFile: String, phraseFile: String) {
+class Themes(theme: String) {
   lazy val requireNumberOfNames = 13
-  val phraseList: Seq[Seq[Char]] = readFromResource(s"$phraseFile").map(_.toSeq).filterNot(_.contains('0'))
+  val phraseList: Seq[Seq[Char]] = readFromResource(s"$theme.phrases").map(_.toSeq).filterNot(_.contains('0'))
   phraseList.foreach(p => assert(requireNumberOfNames === p.length))
   val exclusionlist: Seq[String] = readFromResource("exclusions.txt")
-  val dictLines: Seq[String] = readFromResource(s"$themeFile")
+  val dictLines: Seq[String] = readFromResource(s"$theme.names")
   val rawDictList: Seq[String] = dictLines.filterNot(exclusionlist.contains)
   println(s"read ${phraseList.length} phrases, ${dictLines.length} theme words and ${exclusionlist.length} exclusions")
   val wordsByLength: Map[Int, Seq[String]] = rawDictList.groupBy(_.length)
