@@ -1,7 +1,7 @@
 package net.egp.puzzle
 
 import org.scalactic.TypeCheckedTripleEquals._
-
+import scala.language.reflectiveCalls
 import scala.io.{BufferedSource, Source}
 
 object Util {
@@ -20,8 +20,9 @@ object Util {
   def readFromResource(fn: String): Seq[String] = {
     using(Source.fromResource(fn)) { (fileReader: BufferedSource) =>
       val rawLines: Seq[String] = fileReader.getLines().toSeq
-      val msg = s" $fn\t${rawLines.length} lines"
-      rawLines.map(_.trim.toUpperCase).filter(_.nonEmpty)
+      val finalLines = rawLines.map(_.trim.toUpperCase).filter(_.nonEmpty)
+      println(s" $fn\t${finalLines.length} lines")
+      finalLines
     }
   }
 
@@ -169,9 +170,7 @@ trait PossibleSolution {
 
 case class Solution(cxt: ThemeContext, solution: List[RoomChoices]) extends PossibleSolution {
 
-  import Themes.requiredNames
-
-  def isComplete: Boolean = solution.length === requiredNames
+  def isComplete: Boolean = solution.length === 13
 
   def isValid: Boolean = {
     val stats: Map[SolutionStats, List[RoomChoices]] = solution.groupBy(SolutionStats(_))

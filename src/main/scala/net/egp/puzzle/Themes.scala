@@ -2,7 +2,7 @@ package net.egp.puzzle
 
 import net.egp.puzzle.Util._
 import org.scalactic.TypeCheckedTripleEquals._
-import better.files.{File => BFile, _}
+import better.files.{File => BFile}
 
 object Themes extends App {
 
@@ -29,9 +29,9 @@ object Themes extends App {
 }
 
 class Themes(themeFile: String, phraseFile: String) {
-  import Themes.requiredNames
+  lazy val requireNumberOfNames = 13
   val phraseList: Seq[Seq[Char]] = readFromResource(s"$phraseFile").map(_.toSeq).filterNot(_.contains('0'))
-  phraseList.foreach(p => assert(requiredNames === p.length))
+  phraseList.foreach(p => assert(requireNumberOfNames === p.length))
   val exclusionlist: Seq[String] = readFromResource("exclusions.txt")
   val dictLines: Seq[String] = readFromResource(s"$themeFile")
   val rawDictList: Seq[String] = dictLines.filterNot(exclusionlist.contains)
@@ -48,6 +48,6 @@ class Themes(themeFile: String, phraseFile: String) {
     phraseCnt <- phraseList.indices
     currentPhrase = phraseList(phraseCnt)
     ct = ThemeContext(wordLen, rot, column, currentPhrase, newDict)
-  } yield findThemeSet(requiredNames)(ct)
+  } yield findThemeSet(requireNumberOfNames)(ct)
 }
 

@@ -2,7 +2,7 @@ package net.egp.puzzle
 
 import net.egp.puzzle.Util._
 import org.scalactic.TypeCheckedTripleEquals._
-import org.scalactic._
+//import org.scalactic._
 
 //object Puzzle extends App {
 //  val puzzle = new Puzzle()
@@ -53,11 +53,13 @@ class Puzzle {
     */
   def solve(): Seq[List[String]] = for {
     curLen <- 6 to 15 // word length
-    currentSet: (Int, Int, Int) <- for {
+    allSets = for {
       i <- 0 until curLen
       j <- 0 until curLen if i != j
       k <- 0 until curLen if k != i && k != j
     } yield (i, j, k)
+
+  currentSet <- allSets
     currentRot <- 0 until 26
     newDict: Seq[String] = wordsByLength(curLen)
     phraseCnt <- phraseList.indices
