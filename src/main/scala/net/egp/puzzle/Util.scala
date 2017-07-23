@@ -1,29 +1,22 @@
 package net.egp.puzzle
-
+import better.files.{File => BFile, _}
 import org.scalactic.TypeCheckedTripleEquals._
-import scala.language.reflectiveCalls
 import scala.io.{BufferedSource, Source}
 
 object Util {
 
-
-  def using[A <: {def close() : Unit}, B](resource: A)(f: A => B): B =
-    try f(resource) finally resource.close()
-
-
   /**
     * Reads lines from a file in the resource directory
     *
-    * @param fn - filename to read
+    * @param file - filename
     * @return - complete file as a sequence of lines
     */
-  def readFromResource(fn: String): Seq[String] = {
-    using(Source.fromResource(fn)) { (fileReader: BufferedSource) =>
-      val rawLines: Seq[String] = fileReader.getLines().toSeq
-      val finalLines = rawLines.map(_.trim.toUpperCase).filter(_.nonEmpty)
-      println(s" $fn\t${finalLines.length} lines")
-      finalLines
-    }
+  def readFromResource(file: BFile, names: Boolean): Seq[String] = {
+    val fileToRead = if (names)
+      file
+    else
+      "src" / "main" / "resources" / (file.nameWithoutExtension + ".phrases")
+    fileToRead.lines.toSeq.map(_.trim.toUpperCase).filter(_.nonEmpty)
   }
 
   /**
@@ -169,8 +162,8 @@ trait PossibleSolution {
 }
 
 case class Solution(cxt: ThemeContext, solution: List[RoomChoices]) extends PossibleSolution {
-
-  def isComplete: Boolean = solution.length === 13
+  val requiredNumberOfNames = 13
+  def isComplete: Boolean = solution.length === requiredNumberOfNames
 
   def isValid: Boolean = {
     val stats: Map[SolutionStats, List[RoomChoices]] = solution.groupBy(SolutionStats(_))
@@ -184,7 +177,10 @@ case class Solution(cxt: ThemeContext, solution: List[RoomChoices]) extends Poss
   }
 
   override def toString: String = cxt.toString() + "\n" +
-    solution.zipWithIndex.map(rci => s"${rci._2 + 1}. ${rci._1.toString()} \n").mkString
+    solution.zipWithIndex.map(roomChoiceIndex => {
+      val (roomChoice, roomIndex) = roomChoiceIndex
+      s"${roomIndex + 1}. ${roomChoice.toString()} \n"
+    }).mkString
 }
 
 case object NoSolution extends PossibleSolution {
