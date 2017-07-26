@@ -34,7 +34,7 @@ object Themes extends App {
 }
 
 class Themes(themeFile: BFile) {
-  lazy val requireNumberOfNames = 13
+  lazy val requireNumberOfNames = Room.requiredNumberOfNames
   val readNameFile = true
   val readPhraseFile = false
   val themeName = themeFile.nameWithoutExtension

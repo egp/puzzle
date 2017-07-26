@@ -162,8 +162,8 @@ trait PossibleSolution {
 }
 
 case class Solution(cxt: ThemeContext, solution: List[RoomChoices]) extends PossibleSolution {
-  val requiredNumberOfNames = 13
-  def isComplete: Boolean = solution.length === requiredNumberOfNames
+
+  def isComplete: Boolean = solution.length === Room.requiredNumberOfNames
 
   def isValid: Boolean = {
     val stats: Map[SolutionStats, List[RoomChoices]] = solution.groupBy(SolutionStats(_))
@@ -192,3 +192,6 @@ case class RoomChoices(names: Seq[String]) {
   override def toString: String = names mkString("[", ", ", "]")
 }
 
+object Room {
+  val requiredNumberOfNames = 12
+}

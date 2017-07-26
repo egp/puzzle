@@ -19,7 +19,7 @@ class Puzzle {
     * Goal phrase length must be multiple of three
     */
   val requiredColumns = 3
-  val requiredNames = 13
+  val requiredNames = Room.requiredNumberOfNames
   // read all the files
   val phraseList: Seq[Seq[Char]] = readLinesFromFile("phrases39.txt").map(_.toSeq).filterNot(_.contains('0'))
   phraseList.foreach(p => assert((requiredColumns * requiredNames) === p.length))
