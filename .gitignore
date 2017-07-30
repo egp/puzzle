@@ -1,7 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
-project/target/
-target/
+**/target/
 .project
 3*.solutions
 *.out
+*.iml

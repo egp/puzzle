@@ -7,7 +7,7 @@ lazy val puzzle = (project in file("."))
       buildInfoKeys := Seq[BuildInfoKey](name, version, scalaVersion, sbtVersion),
       buildInfoPackage := "buildinfo",
       organization := "net.egp",
-      scalaVersion := "2.12.2",
+      scalaVersion := "2.12.3",
       version := "0.3.0-SNAPSHOT"
     )),
     name := "Themes",
