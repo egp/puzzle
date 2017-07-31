@@ -7,17 +7,18 @@ object Util {
 
   /**
     * Reads lines from a file in the resource directory
+    * If reading phrases, also reads Generic.phrases
     *
     * @param file - filename
     * @return - complete file as a sequence of lines
     */
   def readFromResource(file: BFile, names: Boolean): Seq[String] = {
-    val fileToRead = if (names)
-      file
-    else
-      "src" / "main" / "resources" / (file.nameWithoutExtension + ".phrases")
-    fileToRead.lines.toSeq.map(_.trim.toUpperCase).filter(_.nonEmpty)
-  }
+    if (names) {
+      file.lines.toSeq
+    } else {
+      ("src" / "main" / "resources" / (file.nameWithoutExtension + ".phrases")).lines.toSeq ++
+        ("src" / "main" / "resources" / "Generic.phrases").lines.toSeq
+    }.map(_.trim.toUpperCase).filter(_.nonEmpty)
 
   /**
     * reads lines from a file
