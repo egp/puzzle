@@ -19,6 +19,7 @@ object Util {
       ("src" / "main" / "resources" / (file.nameWithoutExtension + ".phrases")).lines.toSeq ++
         ("src" / "main" / "resources" / "Generic.phrases").lines.toSeq
     }.map(_.trim.toUpperCase).filter(_.nonEmpty)
+  }
 
   /**
     * reads lines from a file
