@@ -18,7 +18,7 @@ object Themes extends App {
     val attempts = new Themes(themeFile).solve()
     val possibleSolutions = attempts.filter(_.isComplete) // keep ones that have correct number of room names
   val solutions = possibleSolutions.filter(_.isValid) // keep ones without contention for names
-  val solutionFile = BFile(s"$themeName.solutions")
+  val solutionFile = BFile(s"solutions/$themeName.solutions")
 
     solutionFile.overwrite {
       if (solutions.nonEmpty) {
