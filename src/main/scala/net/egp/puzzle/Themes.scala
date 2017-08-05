@@ -8,15 +8,13 @@ import org.scalactic.TypeCheckedTripleEquals._
 object Themes extends App {
 
   val resourceDir = "src" / "main" / "resources"
-  val themeMatches = resourceDir.glob("*.names").toList
-  println(s"found ${themeMatches.length} src/main/resources/*.names")
+  val themeMatches = resourceDir.glob("*.names").toList.sortWith(_.path.toString < _.path.toString)
+  println(s"${BuildInfo.toString} found ${themeMatches.length} src/main/resources/*.names\n")
   themeMatches.foreach { themeFile =>
-    val themeName = themeFile.nameWithoutExtension
-    println(s"${BuildInfo.toString}\n theme-file=$themeName.names, phrase-file=$themeName.phrases")
     val attempts = new Themes(themeFile).solve
     val possibleSolutions = attempts.filter(_.isComplete) // keep ones that have correct number of room names
   val solutions = possibleSolutions.filter(_.isValid) // keep ones without contention for names
-  val solutionFile = BFile(s"solutions/$themeName.solutions")
+  val solutionFile = BFile(s"solutions/${themeFile.nameWithoutExtension}.solutions")
 
     solutionFile.overwrite {
       val cr = "\n"
@@ -26,7 +24,7 @@ object Themes extends App {
         "No solutions found.\n"
       }
     }
-    println(s"Complete: tried ${attempts.length} cases, Wrote ${solutions.length} solutions to ${solutionFile.path}")
+    println(s"Tried ${attempts.length} cases, Wrote ${solutions.length} solutions to ${solutionFile.path}\n")
   }
 }
 
@@ -38,7 +36,7 @@ class Themes(themeFile: BFile) {
   val phraseList: Seq[Seq[Char]] = readFromResource(themeFile, readPhraseFile).map(_.toSeq).filterNot(_.contains('0'))
   phraseList.foreach(p => assert(requireNumberOfNames === p.length))
   val nameLines: Seq[String] = readFromResource(themeFile, readNameFile)
-  println(s"read ${phraseList.length} phrases, ${nameLines.length} theme words")
+  println(s"read ${phraseList.length} $themeName phrases, ${nameLines.length} $themeName words")
   val wordsByLength: Map[Int, Seq[String]] = nameLines.groupBy(_.length)
   val maxWordLength: Int = wordsByLength.keys.max
   val minWordLength: Int = wordsByLength.keys.min
@@ -49,8 +47,7 @@ class Themes(themeFile: BFile) {
     column <- 0 until wordLen
     phraseCnt <- phraseList.indices
     currentPhrase = phraseList(phraseCnt)
-    ct = ThemeContext(wordLen, rot, column, currentPhrase, newDict)
-  } yield ct
+  } yield ThemeContext(wordLen, rot, column, currentPhrase, newDict)
 
   val solve: Seq[Solution] = casesToTry.map(ct => findThemeSet(requireNumberOfNames)(ct))
 }

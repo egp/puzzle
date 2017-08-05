@@ -8,7 +8,7 @@ lazy val puzzle = (project in file("."))
       buildInfoPackage := "buildinfo",
       organization := "net.egp",
       scalaVersion := "2.12.3",
-      version := "0.3.0-SNAPSHOT"
+      version := "0.4.0"
     )),
     name := "Themes",
     libraryDependencies ++= Seq(
