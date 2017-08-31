@@ -149,12 +149,11 @@ case class PuzzleContext(wordLen: Int, rot: Int, columns: (Int, Int, Int), dictL
   override def toString(): String = s"c(l=$wordLen rot=$rot, col=$c1,$c2,$c3)"
 }
 
-case class ThemeContext(wordLen: Int,
-                        rot: Int,
+case class ThemeContext(rot: Int,
                         column: Int,
                         currentPhase: Seq[Char],
                         dictList: Seq[String]) {
-  override def toString: String = s"«wordLen=$wordLen rot=$rot column=$column, currentPhase=$currentPhase»"
+  override def toString: String = s"«rot=$rot column=$column, currentPhase=$currentPhase»"
 }
 
 trait PossibleSolution {
@@ -183,6 +182,10 @@ case class Solution(cxt: ThemeContext, solution: List[RoomChoices]) extends Poss
       val (roomChoice, roomIndex) = roomChoiceIndex
       s"${roomIndex + 1}. ${roomChoice.toString()} \n"
     }).mkString
+
+  def <(that: Solution): Boolean = {
+    this.cxt.rot < that.cxt.rot
+  }
 }
 
 case object NoSolution extends PossibleSolution {

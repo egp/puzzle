@@ -13,9 +13,10 @@ object Themes extends App {
   themeMatches.foreach { themeFile =>
     val attempts = new Themes(themeFile).solve
     val possibleSolutions = attempts.filter(_.isComplete) // keep ones that have correct number of room names
-  val solutions = possibleSolutions.filter(_.isValid) // keep ones without contention for names
+  val solutions: Seq[Solution] =
+    possibleSolutions.filter(_.isValid) // keep ones without contention for names
+      .sortWith(_ < _)
   val solutionFile = BFile(s"solutions/${themeFile.nameWithoutExtension}.solutions")
-
     solutionFile.overwrite {
       val cr = "\n"
       if (solutions.nonEmpty) {
@@ -47,7 +48,12 @@ class Themes(themeFile: BFile) {
     column <- 0 until wordLen
     phraseCnt <- phraseList.indices
     currentPhrase = phraseList(phraseCnt)
-  } yield ThemeContext(wordLen, rot, column, currentPhrase, newDict)
-
-  val solve: Seq[Solution] = casesToTry.map(ct => findThemeSet(requireNumberOfNames)(ct))
+  } yield ThemeContext(rot, column, currentPhrase, newDict)
+  val casesSet: Set[ThemeContext] = casesToTry.toSet
+  val casesToTry2: Seq[ThemeContext] = casesSet.toSeq
+  val solve: Seq[Solution] = {
+    val sol1: Seq[Solution] = casesToTry2.map(ct => findThemeSet(requireNumberOfNames)(ct))
+    val sol2: Set[Solution] = sol1.toSet
+    sol2.toSeq
+  }
 }
