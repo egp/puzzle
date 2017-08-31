@@ -27,20 +27,6 @@
 11. [Birch, Fir, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 12. [Basswood, Sassafras] 
 
-«wordLen=3 rot=0 column=2, currentPhase=ENCIPHERMENT»
-1. [Beech, Cherry, Chestnut, Sweetgum] 
-2. [Honeylocust, Juniper, Pine] 
-3. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
-4. [Chinkapin, Olive] 
-5. [Apple, Aspen, Cypress, Maple, Poplar] 
-6. [Ash, Mahogany] 
-7. [Beech, Cherry, Chestnut, Sweetgum] 
-8. [Birch, Fir, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
-9. [Elm, Hemlock] 
-10. [Beech, Cherry, Chestnut, Sweetgum] 
-11. [Honeylocust, Juniper, Pine] 
-12. [Butternut, Catalpa, Cottonwood] 
-
 «wordLen=3 rot=0 column=2, currentPhase=GAMESMANSHIP»
 1. [Dogwood] 
 2. [Pear, Shadbush] 
@@ -279,20 +265,6 @@
 11. [Pear, Shadbush] 
 12. [Alder, Cedar, Madrone] 
 
-«wordLen=3 rot=15 column=2, currentPhase=APPRECIATIVE»
-1. [Filbert, Holly, Tulip, Walnut, Willow] 
-2. [Pear, Shadbush] 
-3. [Pear, Shadbush] 
-4. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
-5. [Apple, Aspen, Cypress, Maple, Poplar] 
-6. [Honeylocust, Juniper, Pine] 
-7. [Butternut, Catalpa, Cottonwood] 
-8. [Filbert, Holly, Tulip, Walnut, Willow] 
-9. [Beech, Cherry, Chestnut, Sweetgum] 
-10. [Butternut, Catalpa, Cottonwood] 
-11. [Dogwood] 
-12. [Apple, Aspen, Cypress, Maple, Poplar] 
-
 «wordLen=3 rot=15 column=2, currentPhase=ALPHABETICAL»
 1. [Filbert, Holly, Tulip, Walnut, Willow] 
 2. [Hawthorn, Yew] 
@@ -320,20 +292,6 @@
 10. [Hazel] 
 11. [Elm, Hemlock] 
 12. [Filbert, Holly, Tulip, Walnut, Willow] 
-
-«wordLen=3 rot=19 column=0, currentPhase=APPRECIATIVE»
-1. [Hawthorn, Hazel, Hemlock, Hickory, Holly, Honeylocust, Hornbeam, Horsechestnut] 
-2. [Walnut, Willow] 
-3. [Walnut, Willow] 
-4. [Yew] 
-5. [Larch, Laurel, Locust] 
-6. [Juniper] 
-7. [Pear, Pine, Plum, Poplar] 
-8. [Hawthorn, Hazel, Hemlock, Hickory, Holly, Honeylocust, Hornbeam, Horsechestnut] 
-9. [Alder, Apple, Arborvitae, Ash, Aspen] 
-10. [Pear, Pine, Plum, Poplar] 
-11. [Catalpa, Cedar, Cherry, Chestnut, Chinkapin, Cottonwood, Cypress] 
-12. [Larch, Laurel, Locust] 
 
 «wordLen=3 rot=19 column=0, currentPhase=EMPATHICALLY»
 1. [Larch, Laurel, Locust] 
@@ -390,20 +348,6 @@
 10. [Beech, Cherry, Chestnut, Sweetgum] 
 11. [Birch, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 12. [Basswood, Sassafras] 
-
-«wordLen=4 rot=0 column=2, currentPhase=ENCIPHERMENT»
-1. [Beech, Cherry, Chestnut, Sweetgum] 
-2. [Honeylocust, Juniper, Pine] 
-3. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
-4. [Chinkapin, Olive] 
-5. [Apple, Aspen, Cypress, Maple, Poplar] 
-6. [Mahogany] 
-7. [Beech, Cherry, Chestnut, Sweetgum] 
-8. [Birch, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
-9. [Hemlock] 
-10. [Beech, Cherry, Chestnut, Sweetgum] 
-11. [Honeylocust, Juniper, Pine] 
-12. [Butternut, Catalpa, Cottonwood] 
 
 «wordLen=4 rot=0 column=2, currentPhase=HEADQUARTERS»
 1. [Mahogany] 
@@ -587,20 +531,6 @@
 11. [Pear, Shadbush] 
 12. [Alder, Cedar, Madrone] 
 
-«wordLen=4 rot=15 column=2, currentPhase=APPRECIATIVE»
-1. [Filbert, Holly, Tulip, Walnut, Willow] 
-2. [Pear, Shadbush] 
-3. [Pear, Shadbush] 
-4. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
-5. [Apple, Aspen, Cypress, Maple, Poplar] 
-6. [Honeylocust, Juniper, Pine] 
-7. [Butternut, Catalpa, Cottonwood] 
-8. [Filbert, Holly, Tulip, Walnut, Willow] 
-9. [Beech, Cherry, Chestnut, Sweetgum] 
-10. [Butternut, Catalpa, Cottonwood] 
-11. [Dogwood] 
-12. [Apple, Aspen, Cypress, Maple, Poplar] 
-
 «wordLen=4 rot=19 column=0, currentPhase=EMPATHICALLY»
 1. [Larch, Laurel, Locust] 
 2. [Tulip] 
@@ -636,20 +566,6 @@
 4. [Chinkapin, Olive] 
 5. [Filbert, Holly, Tulip, Walnut, Willow] 
 6. [Alder, Cedar, Madrone] 
-7. [Beech, Cherry, Chestnut, Sweetgum] 
-8. [Birch, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
-9. [Hemlock] 
-10. [Beech, Cherry, Chestnut, Sweetgum] 
-11. [Honeylocust, Juniper] 
-12. [Butternut, Catalpa, Cottonwood] 
-
-«wordLen=5 rot=0 column=2, currentPhase=ENCIPHERMENT»
-1. [Beech, Cherry, Chestnut, Sweetgum] 
-2. [Honeylocust, Juniper] 
-3. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
-4. [Chinkapin, Olive] 
-5. [Apple, Aspen, Cypress, Maple, Poplar] 
-6. [Mahogany] 
 7. [Beech, Cherry, Chestnut, Sweetgum] 
 8. [Birch, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 9. [Hemlock] 
@@ -755,20 +671,6 @@
 11. [Apple, Aspen, Cypress, Maple, Poplar] 
 12. [Apple, Aspen, Cypress, Maple, Poplar] 
 
-«wordLen=5 rot=15 column=4, currentPhase=APPRECIATIVE»
-1. [Catalpa, Hazel, Myrtle] 
-2. [Poplar, Sassafras] 
-3. [Poplar, Sassafras] 
-4. [Spruce] 
-5. [Juniper, Tulip] 
-6. [Aspen] 
-7. [Buckthorn, Chestnut, Sweetgum] 
-8. [Catalpa, Hazel, Myrtle] 
-9. [Apple, Buckeye, Butternut, Cypress, Filbert, Horsechestnut, Laurel, Maple, Olive] 
-10. [Buckthorn, Chestnut, Sweetgum] 
-11. [Mahogany] 
-12. [Juniper, Tulip] 
-
 «wordLen=5 rot=19 column=0, currentPhase=EMPATHICALLY»
 1. [Larch, Laurel, Locust] 
 2. [Tulip] 
@@ -790,20 +692,6 @@
 4. [Chinkapin] 
 5. [Filbert, Walnut, Willow] 
 6. [Madrone] 
-7. [Cherry, Chestnut, Sweetgum] 
-8. [Hornbeam, Horsechestnut, Myrtle, Spruce] 
-9. [Hemlock] 
-10. [Cherry, Chestnut, Sweetgum] 
-11. [Honeylocust, Juniper] 
-12. [Butternut, Catalpa, Cottonwood] 
-
-«wordLen=6 rot=0 column=2, currentPhase=ENCIPHERMENT»
-1. [Cherry, Chestnut, Sweetgum] 
-2. [Honeylocust, Juniper] 
-3. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
-4. [Chinkapin] 
-5. [Cypress, Poplar] 
-6. [Mahogany] 
 7. [Cherry, Chestnut, Sweetgum] 
 8. [Hornbeam, Horsechestnut, Myrtle, Spruce] 
 9. [Hemlock] 

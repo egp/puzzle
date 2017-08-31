@@ -1,18 +1,4 @@
 
-«wordLen=4 rot=0 column=0, currentPhase=ANTICIPATION»
-1. [Alabama, Alaska, Arizona, Arkansas] 
-2. [Nebraska, Nevada, NewHampshire, NewJersey, NewMexico, NewYork, NorthCarolina, NorthDakota] 
-3. [Tennessee, Texas] 
-4. [Idaho, Illinois, Indiana, Iowa] 
-5. [California, Colorado, Connecticut] 
-6. [Idaho, Illinois, Indiana, Iowa] 
-7. [Pennsylvania] 
-8. [Alabama, Alaska, Arizona, Arkansas] 
-9. [Tennessee, Texas] 
-10. [Idaho, Illinois, Indiana, Iowa] 
-11. [Ohio, Oklahoma, Oregon] 
-12. [Nebraska, Nevada, NewHampshire, NewJersey, NewMexico, NewYork, NorthCarolina, NorthDakota] 
-
 «wordLen=4 rot=0 column=0, currentPhase=MOTIVATIONAL»
 1. [Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana] 
 2. [Ohio, Oklahoma, Oregon] 
@@ -166,20 +152,6 @@
 10. [Tennessee, Texas] 
 11. [Idaho, Illinois, Indiana, Iowa] 
 12. [Kansas, Kentucky] 
-
-«wordLen=5 rot=0 column=0, currentPhase=ANTICIPATION»
-1. [Alabama, Alaska, Arizona, Arkansas] 
-2. [Nebraska, Nevada, NewHampshire, NewJersey, NewMexico, NewYork, NorthCarolina, NorthDakota] 
-3. [Tennessee, Texas] 
-4. [Idaho, Illinois, Indiana] 
-5. [California, Colorado, Connecticut] 
-6. [Idaho, Illinois, Indiana] 
-7. [Pennsylvania] 
-8. [Alabama, Alaska, Arizona, Arkansas] 
-9. [Tennessee, Texas] 
-10. [Idaho, Illinois, Indiana] 
-11. [Oklahoma, Oregon] 
-12. [Nebraska, Nevada, NewHampshire, NewJersey, NewMexico, NewYork, NorthCarolina, NorthDakota] 
 
 «wordLen=5 rot=0 column=0, currentPhase=MOTIVATIONAL»
 1. [Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana] 

@@ -111,62 +111,6 @@
 11. [botticelli, matisse, patinir, rothko, titian, watteau] 
 12. [basquiat, bosch, ensor, lissitzky, masaccio, rossetti] 
 
-«wordLen=4 rot=0 column=2, currentPhase=ANTICIPATION»
-1. [blake, braque, chagall, francesca] 
-2. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-3. [botticelli, matisse, patinir, rothko, titian, watteau] 
-4. [friedrich, klimt, whistler] 
-5. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-6. [friedrich, klimt, whistler] 
-7. [hopper, raphael] 
-8. [blake, braque, chagall, francesca] 
-9. [botticelli, matisse, patinir, rothko, titian, watteau] 
-10. [friedrich, klimt, whistler] 
-11. [buonarroti, giorgione] 
-12. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-
-«wordLen=4 rot=0 column=2, currentPhase=APPOINTMENTS»
-1. [blake, braque, chagall, francesca] 
-2. [hopper, raphael] 
-3. [hopper, raphael] 
-4. [buonarroti, giorgione] 
-5. [friedrich, klimt, whistler] 
-6. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-7. [botticelli, matisse, patinir, rothko, titian, watteau] 
-8. [cimabue, homer, memling] 
-9. [greco, klee, okeefe] 
-10. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-11. [botticelli, matisse, patinir, rothko, titian, watteau] 
-12. [basquiat, bosch, ensor, lissitzky, masaccio, rossetti] 
-
-«wordLen=4 rot=0 column=2, currentPhase=APPRECIATION»
-1. [blake, braque, chagall, francesca] 
-2. [hopper, raphael] 
-3. [hopper, raphael] 
-4. [caravaggio, corot, durer, gericault, gorky, lorrain, marc, martini, miro, moreau, turner, vermeer, warhol, zurburan] 
-5. [greco, klee, okeefe] 
-6. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-7. [friedrich, klimt, whistler] 
-8. [blake, braque, chagall, francesca] 
-9. [botticelli, matisse, patinir, rothko, titian, watteau] 
-10. [friedrich, klimt, whistler] 
-11. [buonarroti, giorgione] 
-12. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-
-«wordLen=4 rot=0 column=2, currentPhase=APPRECIATIVE»
-1. [blake, braque, chagall, francesca] 
-2. [hopper, raphael] 
-3. [hopper, raphael] 
-4. [caravaggio, corot, durer, gericault, gorky, lorrain, marc, martini, miro, moreau, turner, vermeer, warhol, zurburan] 
-5. [greco, klee, okeefe] 
-6. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-7. [friedrich, klimt, whistler] 
-8. [blake, braque, chagall, francesca] 
-9. [botticelli, matisse, patinir, rothko, titian, watteau] 
-10. [friedrich, klimt, whistler] 
-11. [david, davinci] 
-12. [greco, klee, okeefe] 
-
 «wordLen=4 rot=0 column=2, currentPhase=ALPHABETICAL»
 1. [blake, braque, chagall, francesca] 
 2. [dali, delacroix, delatour, hals, holbein, malevich, millet, pollock, velazquez] 
@@ -250,20 +194,6 @@
 10. [buonarroti, giorgione] 
 11. [cimabue, homer, memling] 
 12. [basquiat, bosch, ensor, lissitzky, masaccio, rossetti] 
-
-«wordLen=4 rot=0 column=2, currentPhase=ENCIPHERMENT»
-1. [greco, klee, okeefe] 
-2. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-3. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-4. [friedrich, klimt, whistler] 
-5. [hopper, raphael] 
-6. [johns, kahlo, schiele] 
-7. [greco, klee, okeefe] 
-8. [caravaggio, corot, durer, gericault, gorky, lorrain, marc, martini, miro, moreau, turner, vermeer, warhol, zurburan] 
-9. [cimabue, homer, memling] 
-10. [greco, klee, okeefe] 
-11. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-12. [botticelli, matisse, patinir, rothko, titian, watteau] 
 
 «wordLen=4 rot=0 column=2, currentPhase=TEAMSOLUTION»
 1. [botticelli, matisse, patinir, rothko, titian, watteau] 
@@ -461,20 +391,6 @@
 11. [angelico, bruegel, durer, friedrich, homer, klee, leger, malevich, manet, monet, moreau, okeefe, rubens, uccello, vaneyck] 
 12. [kandinsky, mondrian, weyden] 
 
-«wordLen=4 rot=0 column=3, currentPhase=ANTICIPATION»
-1. [caravaggio, cezanne, cimabue, degas, delacroix, delatour, hogarth, masaccio, picasso, velazquez] 
-2. [buonarroti, francesca, johns, turner] 
-3. [botticelli, fontana, gentileschi, mantegna, martini, tintoretto, watteau] 
-4. [dali, david, davinci, gericault, matisse, modigliani, patinir, schiele, titian] 
-5. [boccioni, bosch, greco, marc, munch] 
-6. [dali, david, davinci, gericault, matisse, modigliani, patinir, schiele, titian] 
-7. [hopper] 
-8. [caravaggio, cezanne, cimabue, degas, delacroix, delatour, hogarth, masaccio, picasso, velazquez] 
-9. [botticelli, fontana, gentileschi, mantegna, martini, tintoretto, watteau] 
-10. [dali, david, davinci, gericault, matisse, modigliani, patinir, schiele, titian] 
-11. [bacon, corot, degoya, dekooning, dibondone, ensor, miro, renoir] 
-12. [buonarroti, francesca, johns, turner] 
-
 «wordLen=4 rot=0 column=3, currentPhase=ALPHABETICAL»
 1. [caravaggio, cezanne, cimabue, degas, delacroix, delatour, hogarth, masaccio, picasso, velazquez] 
 2. [kahlo, memling, millet, pollock] 
@@ -544,20 +460,6 @@
 10. [bacon, corot, degoya, dekooning, dibondone, ensor, miro, renoir] 
 11. [klimt, vermeer] 
 12. [constable, ernst, hals, lissitzky, poussin, rossetti, whistler] 
-
-«wordLen=4 rot=0 column=3, currentPhase=ENCIPHERMENT»
-1. [angelico, bruegel, durer, friedrich, homer, klee, leger, malevich, manet, monet, moreau, okeefe, rubens, uccello, vaneyck] 
-2. [buonarroti, francesca, johns, turner] 
-3. [boccioni, bosch, greco, marc, munch] 
-4. [dali, david, davinci, gericault, matisse, modigliani, patinir, schiele, titian] 
-5. [hopper] 
-6. [dechirico, duchamp, escher, lichtenstein, raphael, richter, rothko, warhol] 
-7. [angelico, bruegel, durer, friedrich, homer, klee, leger, malevich, manet, monet, moreau, okeefe, rubens, uccello, vaneyck] 
-8. [church, courbet, giorgione, ingres, lorrain, magritte, seurat, vanrijn] 
-9. [klimt, vermeer] 
-10. [angelico, bruegel, durer, friedrich, homer, klee, leger, malevich, manet, monet, moreau, okeefe, rubens, uccello, vaneyck] 
-11. [buonarroti, francesca, johns, turner] 
-12. [botticelli, fontana, gentileschi, mantegna, martini, tintoretto, watteau] 
 
 «wordLen=4 rot=0 column=3, currentPhase=TEAMSOLUTION»
 1. [botticelli, fontana, gentileschi, mantegna, martini, tintoretto, watteau] 
@@ -713,20 +615,6 @@
 11. [modigliani] 
 12. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
 
-«wordLen=4 rot=1 column=2, currentPhase=APPOINTMENTS»
-1. [cezanne] 
-2. [buonarroti, giorgione] 
-3. [buonarroti, giorgione] 
-4. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-5. [johns, kahlo, schiele] 
-6. [cimabue, homer, memling] 
-7. [basquiat, bosch, ensor, lissitzky, masaccio, rossetti] 
-8. [dali, delacroix, delatour, hals, holbein, malevich, millet, pollock, velazquez] 
-9. [modigliani] 
-10. [cimabue, homer, memling] 
-11. [basquiat, bosch, ensor, lissitzky, masaccio, rossetti] 
-12. [caravaggio, corot, durer, gericault, gorky, lorrain, marc, martini, miro, moreau, turner, vermeer, warhol, zurburan] 
-
 «wordLen=4 rot=1 column=2, currentPhase=TEAMSOLUTION»
 1. [basquiat, bosch, ensor, lissitzky, masaccio, rossetti] 
 2. [modigliani] 
@@ -783,20 +671,6 @@
 11. [klimt, vermeer] 
 12. [constable, ernst, hals, lissitzky, poussin, rossetti, whistler] 
 
-«wordLen=4 rot=1 column=3, currentPhase=ENCIPHERMENT»
-1. [kandinsky, mondrian, weyden] 
-2. [klimt, vermeer] 
-3. [holbein, zurburan] 
-4. [dechirico, duchamp, escher, lichtenstein, raphael, richter, rothko, warhol] 
-5. [bacon, corot, degoya, dekooning, dibondone, ensor, miro, renoir] 
-6. [chagall, gauguin, vangogh] 
-7. [kandinsky, mondrian, weyden] 
-8. [basquiat, braque] 
-9. [kahlo, memling, millet, pollock] 
-10. [kandinsky, mondrian, weyden] 
-11. [klimt, vermeer] 
-12. [constable, ernst, hals, lissitzky, poussin, rossetti, whistler] 
-
 «wordLen=4 rot=1 column=3, currentPhase=IMPROVEMENTS»
 1. [dechirico, duchamp, escher, lichtenstein, raphael, richter, rothko, warhol] 
 2. [kahlo, memling, millet, pollock] 
@@ -838,20 +712,6 @@
 10. [caravaggio, cezanne, chagall, church, cimabue, constable, corot, courbet] 
 11. [leger, lichtenstein, lissitzky, lorrain] 
 12. [raphael, renoir, richter, rossetti, rothko, rubens] 
-
-«wordLen=4 rot=2 column=0, currentPhase=FREETHINKING»
-1. [dabuoninsegna, dali, david, davinci, dechirico, degas, degoya, dekooning, delacroix, delatour, dibondone, duchamp, durer] 
-2. [patinir, picasso, pollock, poussin] 
-3. [caravaggio, cezanne, chagall, church, cimabue, constable, corot, courbet] 
-4. [caravaggio, cezanne, chagall, church, cimabue, constable, corot, courbet] 
-5. [raphael, renoir, richter, rossetti, rothko, rubens] 
-6. [fontana, francesca, friedrich] 
-7. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-8. [leger, lichtenstein, lissitzky, lorrain] 
-9. [ingres] 
-10. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-11. [leger, lichtenstein, lissitzky, lorrain] 
-12. [ensor, ernst, escher] 
 
 «wordLen=4 rot=2 column=2, currentPhase=MAGNIFICENCE»
 1. [dekooning] 
@@ -965,20 +825,6 @@
 11. [cimabue, homer, memling] 
 12. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
 
-«wordLen=4 rot=7 column=0, currentPhase=ANTICIPATION»
-1. [tintoretto, titian, turner] 
-2. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-3. [magritte, malevich, manet, mantegna, marc, martini, masaccio, matisse, memling, millet, miro, modigliani, mondrian, monet, moreau, munch] 
-4. [bacon, basquiat, blake, boccioni, bosch, botticelli, braque, bruegel, buonarroti] 
-5. [vaneyck, vangogh, vanrijn, velazquez, vermeer] 
-6. [bacon, basquiat, blake, boccioni, bosch, botticelli, braque, bruegel, buonarroti] 
-7. [ingres] 
-8. [tintoretto, titian, turner] 
-9. [magritte, malevich, manet, mantegna, marc, martini, masaccio, matisse, memling, millet, miro, modigliani, mondrian, monet, moreau, munch] 
-10. [bacon, basquiat, blake, boccioni, bosch, botticelli, braque, bruegel, buonarroti] 
-11. [hals, hockney, hogarth, holbein, homer, hopper] 
-12. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-
 «wordLen=4 rot=7 column=0, currentPhase=MOTIVATIONAL»
 1. [fontana, francesca, friedrich] 
 2. [hals, hockney, hogarth, holbein, homer, hopper] 
@@ -992,20 +838,6 @@
 10. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
 11. [tintoretto, titian, turner] 
 12. [ensor, ernst, escher] 
-
-«wordLen=4 rot=7 column=2, currentPhase=ANTICIPATION»
-1. [botticelli, matisse, patinir, rothko, titian, watteau] 
-2. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
-3. [cimabue, homer, memling] 
-4. [dabuoninsegna, dibondone, rubens] 
-5. [david, davinci] 
-6. [dabuoninsegna, dibondone, rubens] 
-7. [friedrich, klimt, whistler] 
-8. [botticelli, matisse, patinir, rothko, titian, watteau] 
-9. [cimabue, homer, memling] 
-10. [dabuoninsegna, dibondone, rubens] 
-11. [johns, kahlo, schiele] 
-12. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
 
 «wordLen=4 rot=7 column=2, currentPhase=OBFUSCATIONS»
 1. [johns, kahlo, schiele] 
@@ -1035,20 +867,6 @@
 11. [johns, kahlo, schiele] 
 12. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
 
-«wordLen=4 rot=8 column=0, currentPhase=APPOINTMENTS»
-1. [schiele, seurat] 
-2. [hals, hockney, hogarth, holbein, homer, hopper] 
-3. [hals, hockney, hogarth, holbein, homer, hopper] 
-4. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-5. [angelico] 
-6. [fontana, francesca, friedrich] 
-7. [leger, lichtenstein, lissitzky, lorrain] 
-8. [ensor, ernst, escher] 
-9. [warhol, watteau, weyden, whistler] 
-10. [fontana, francesca, friedrich] 
-11. [leger, lichtenstein, lissitzky, lorrain] 
-12. [kahlo, kandinsky, klee, klimt] 
-
 «wordLen=4 rot=8 column=0, currentPhase=BEWILDERMENT»
 1. [tintoretto, titian, turner] 
 2. [warhol, watteau, weyden, whistler] 
@@ -1056,20 +874,6 @@
 4. [angelico] 
 5. [dabuoninsegna, dali, david, davinci, dechirico, degas, degoya, dekooning, delacroix, delatour, dibondone, duchamp, durer] 
 6. [vaneyck, vangogh, vanrijn, velazquez, vermeer] 
-7. [warhol, watteau, weyden, whistler] 
-8. [johns] 
-9. [ensor, ernst, escher] 
-10. [warhol, watteau, weyden, whistler] 
-11. [fontana, francesca, friedrich] 
-12. [leger, lichtenstein, lissitzky, lorrain] 
-
-«wordLen=4 rot=8 column=0, currentPhase=ENCIPHERMENT»
-1. [warhol, watteau, weyden, whistler] 
-2. [fontana, francesca, friedrich] 
-3. [uccello] 
-4. [angelico] 
-5. [hals, hockney, hogarth, holbein, homer, hopper] 
-6. [zurburan] 
 7. [warhol, watteau, weyden, whistler] 
 8. [johns] 
 9. [ensor, ernst, escher] 
@@ -1146,20 +950,6 @@
 10. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
 11. [kahlo, kandinsky, klee, klimt] 
 12. [warhol, watteau, weyden, whistler] 
-
-«wordLen=4 rot=9 column=0, currentPhase=APPOINTMENTS»
-1. [raphael, renoir, richter, rossetti, rothko, rubens] 
-2. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-3. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-4. [fontana, francesca, friedrich] 
-5. [zurburan] 
-6. [ensor, ernst, escher] 
-7. [kahlo, kandinsky, klee, klimt] 
-8. [dabuoninsegna, dali, david, davinci, dechirico, degas, degoya, dekooning, delacroix, delatour, dibondone, duchamp, durer] 
-9. [vaneyck, vangogh, vanrijn, velazquez, vermeer] 
-10. [ensor, ernst, escher] 
-11. [kahlo, kandinsky, klee, klimt] 
-12. [johns] 
 
 «wordLen=4 rot=9 column=0, currentPhase=TEAMSOLUTION»
 1. [kahlo, kandinsky, klee, klimt] 
@@ -1413,20 +1203,6 @@
 11. [chagall, gauguin, vangogh] 
 12. [dechirico, duchamp, escher, lichtenstein, raphael, richter, rothko, warhol] 
 
-«wordLen=4 rot=12 column=0, currentPhase=APPOINTMENTS»
-1. [okeefe] 
-2. [dabuoninsegna, dali, david, davinci, dechirico, degas, degoya, dekooning, delacroix, delatour, dibondone, duchamp, durer] 
-3. [dabuoninsegna, dali, david, davinci, dechirico, degas, degoya, dekooning, delacroix, delatour, dibondone, duchamp, durer] 
-4. [caravaggio, cezanne, chagall, church, cimabue, constable, corot, courbet] 
-5. [warhol, watteau, weyden, whistler] 
-6. [bacon, basquiat, blake, boccioni, bosch, botticelli, braque, bruegel, buonarroti] 
-7. [hals, hockney, hogarth, holbein, homer, hopper] 
-8. [angelico] 
-9. [schiele, seurat] 
-10. [bacon, basquiat, blake, boccioni, bosch, botticelli, braque, bruegel, buonarroti] 
-11. [hals, hockney, hogarth, holbein, homer, hopper] 
-12. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-
 «wordLen=4 rot=12 column=0, currentPhase=ANSWERSFOUND»
 1. [okeefe] 
 2. [bacon, basquiat, blake, boccioni, bosch, botticelli, braque, bruegel, buonarroti] 
@@ -1497,48 +1273,6 @@
 11. [dabuoninsegna, dibondone, rubens] 
 12. [johns, kahlo, schiele] 
 
-«wordLen=4 rot=13 column=2, currentPhase=APPRECIATION»
-1. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-2. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-3. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-4. [greco, klee, okeefe] 
-5. [caravaggio, corot, durer, gericault, gorky, lorrain, marc, martini, miro, moreau, turner, vermeer, warhol, zurburan] 
-6. [hopper, raphael] 
-7. [david, davinci] 
-8. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-9. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
-10. [david, davinci] 
-11. [dabuoninsegna, dibondone, rubens] 
-12. [blake, braque, chagall, francesca] 
-
-«wordLen=4 rot=13 column=2, currentPhase=APPRECIATIVE»
-1. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-2. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-3. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-4. [greco, klee, okeefe] 
-5. [caravaggio, corot, durer, gericault, gorky, lorrain, marc, martini, miro, moreau, turner, vermeer, warhol, zurburan] 
-6. [hopper, raphael] 
-7. [david, davinci] 
-8. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-9. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
-10. [david, davinci] 
-11. [friedrich, klimt, whistler] 
-12. [caravaggio, corot, durer, gericault, gorky, lorrain, marc, martini, miro, moreau, turner, vermeer, warhol, zurburan] 
-
-«wordLen=4 rot=13 column=2, currentPhase=ENCIPHERMENT»
-1. [caravaggio, corot, durer, gericault, gorky, lorrain, marc, martini, miro, moreau, turner, vermeer, warhol, zurburan] 
-2. [blake, braque, chagall, francesca] 
-3. [hopper, raphael] 
-4. [david, davinci] 
-5. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-6. [bruegel, church, courbet, gauguin, poussin, seurat] 
-7. [caravaggio, corot, durer, gericault, gorky, lorrain, marc, martini, miro, moreau, turner, vermeer, warhol, zurburan] 
-8. [greco, klee, okeefe] 
-9. [cezanne] 
-10. [caravaggio, corot, durer, gericault, gorky, lorrain, marc, martini, miro, moreau, turner, vermeer, warhol, zurburan] 
-11. [blake, braque, chagall, francesca] 
-12. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
-
 «wordLen=4 rot=13 column=2, currentPhase=MAGNIFICENCE»
 1. [cezanne] 
 2. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
@@ -1608,34 +1342,6 @@
 10. [cezanne] 
 11. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
 12. [greco, klee, okeefe] 
-
-«wordLen=4 rot=15 column=2, currentPhase=APPRECIATION»
-1. [dali, delacroix, delatour, hals, holbein, malevich, millet, pollock, velazquez] 
-2. [blake, braque, chagall, francesca] 
-3. [blake, braque, chagall, francesca] 
-4. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-5. [hopper, raphael] 
-6. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-7. [botticelli, matisse, patinir, rothko, titian, watteau] 
-8. [dali, delacroix, delatour, hals, holbein, malevich, millet, pollock, velazquez] 
-9. [greco, klee, okeefe] 
-10. [botticelli, matisse, patinir, rothko, titian, watteau] 
-11. [cezanne] 
-12. [weyden] 
-
-«wordLen=4 rot=15 column=2, currentPhase=APPRECIATIVE»
-1. [dali, delacroix, delatour, hals, holbein, malevich, millet, pollock, velazquez] 
-2. [blake, braque, chagall, francesca] 
-3. [blake, braque, chagall, francesca] 
-4. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-5. [hopper, raphael] 
-6. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-7. [botticelli, matisse, patinir, rothko, titian, watteau] 
-8. [dali, delacroix, delatour, hals, holbein, malevich, millet, pollock, velazquez] 
-9. [greco, klee, okeefe] 
-10. [botticelli, matisse, patinir, rothko, titian, watteau] 
-11. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
-12. [hopper, raphael] 
 
 «wordLen=4 rot=16 column=0, currentPhase=ALPHABETICAL»
 1. [kahlo, kandinsky, klee, klimt] 
@@ -1847,20 +1553,6 @@
 11. [johns, kahlo, schiele] 
 12. [botticelli, matisse, patinir, rothko, titian, watteau] 
 
-«wordLen=4 rot=19 column=2, currentPhase=FREETHINKING»
-1. [cimabue, homer, memling] 
-2. [weyden] 
-3. [dali, delacroix, delatour, hals, holbein, malevich, millet, pollock, velazquez] 
-4. [dali, delacroix, delatour, hals, holbein, malevich, millet, pollock, velazquez] 
-5. [blake, braque, chagall, francesca] 
-6. [buonarroti, giorgione] 
-7. [hopper, raphael] 
-8. [bruegel, church, courbet, gauguin, poussin, seurat] 
-9. [caravaggio, corot, durer, gericault, gorky, lorrain, marc, martini, miro, moreau, turner, vermeer, warhol, zurburan] 
-10. [hopper, raphael] 
-11. [bruegel, church, courbet, gauguin, poussin, seurat] 
-12. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-
 «wordLen=4 rot=19 column=2, currentPhase=MOTIVATIONAL»
 1. [botticelli, matisse, patinir, rothko, titian, watteau] 
 2. [david, davinci] 
@@ -2015,48 +1707,6 @@
 11. [raphael, renoir, richter, rossetti, rothko, rubens] 
 12. [uccello] 
 
-«wordLen=4 rot=24 column=0, currentPhase=ENCIPHERMENT»
-1. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-2. [patinir, picasso, pollock, poussin] 
-3. [ensor, ernst, escher] 
-4. [kahlo, kandinsky, klee, klimt] 
-5. [raphael, renoir, richter, rossetti, rothko, rubens] 
-6. [johns] 
-7. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-8. [tintoretto, titian, turner] 
-9. [okeefe] 
-10. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-11. [patinir, picasso, pollock, poussin] 
-12. [vaneyck, vangogh, vanrijn, velazquez, vermeer] 
-
-«wordLen=4 rot=24 column=0, currentPhase=FREETHINKERS»
-1. [hals, hockney, hogarth, holbein, homer, hopper] 
-2. [tintoretto, titian, turner] 
-3. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-4. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-5. [vaneyck, vangogh, vanrijn, velazquez, vermeer] 
-6. [johns] 
-7. [kahlo, kandinsky, klee, klimt] 
-8. [patinir, picasso, pollock, poussin] 
-9. [magritte, malevich, manet, mantegna, marc, martini, masaccio, matisse, memling, millet, miro, modigliani, mondrian, monet, moreau, munch] 
-10. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-11. [tintoretto, titian, turner] 
-12. [uccello] 
-
-«wordLen=4 rot=24 column=0, currentPhase=FREETHINKING»
-1. [hals, hockney, hogarth, holbein, homer, hopper] 
-2. [tintoretto, titian, turner] 
-3. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-4. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-5. [vaneyck, vangogh, vanrijn, velazquez, vermeer] 
-6. [johns] 
-7. [kahlo, kandinsky, klee, klimt] 
-8. [patinir, picasso, pollock, poussin] 
-9. [magritte, malevich, manet, mantegna, marc, martini, masaccio, matisse, memling, millet, miro, modigliani, mondrian, monet, moreau, munch] 
-10. [kahlo, kandinsky, klee, klimt] 
-11. [patinir, picasso, pollock, poussin] 
-12. [ingres] 
-
 «wordLen=4 rot=24 column=0, currentPhase=HEADQUARTERS»
 1. [johns] 
 2. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
@@ -2151,20 +1801,6 @@
 7. [fontana, francesca, friedrich] 
 8. [bacon, basquiat, blake, boccioni, bosch, botticelli, braque, bruegel, buonarroti] 
 9. [tintoretto, titian, turner] 
-10. [fontana, francesca, friedrich] 
-11. [schiele, seurat] 
-12. [tintoretto, titian, turner] 
-
-«wordLen=4 rot=25 column=0, currentPhase=FREETHINKERS»
-1. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-2. [schiele, seurat] 
-3. [fontana, francesca, friedrich] 
-4. [fontana, francesca, friedrich] 
-5. [uccello] 
-6. [ingres] 
-7. [johns] 
-8. [okeefe] 
-9. [leger, lichtenstein, lissitzky, lorrain] 
 10. [fontana, francesca, friedrich] 
 11. [schiele, seurat] 
 12. [tintoretto, titian, turner] 
@@ -2308,62 +1944,6 @@
 10. [johns, kahlo, schiele] 
 11. [greco, okeefe] 
 12. [modigliani] 
-
-«wordLen=5 rot=0 column=2, currentPhase=ANTICIPATION»
-1. [blake, braque, chagall, francesca] 
-2. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-3. [botticelli, matisse, patinir, rothko, titian, watteau] 
-4. [friedrich, klimt, whistler] 
-5. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-6. [friedrich, klimt, whistler] 
-7. [hopper, raphael] 
-8. [blake, braque, chagall, francesca] 
-9. [botticelli, matisse, patinir, rothko, titian, watteau] 
-10. [friedrich, klimt, whistler] 
-11. [buonarroti, giorgione] 
-12. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-
-«wordLen=5 rot=0 column=2, currentPhase=APPOINTMENTS»
-1. [blake, braque, chagall, francesca] 
-2. [hopper, raphael] 
-3. [hopper, raphael] 
-4. [buonarroti, giorgione] 
-5. [friedrich, klimt, whistler] 
-6. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-7. [botticelli, matisse, patinir, rothko, titian, watteau] 
-8. [cimabue, homer, memling] 
-9. [greco, okeefe] 
-10. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-11. [botticelli, matisse, patinir, rothko, titian, watteau] 
-12. [basquiat, bosch, ensor, lissitzky, masaccio, rossetti] 
-
-«wordLen=5 rot=0 column=2, currentPhase=APPRECIATION»
-1. [blake, braque, chagall, francesca] 
-2. [hopper, raphael] 
-3. [hopper, raphael] 
-4. [caravaggio, corot, durer, gericault, gorky, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-5. [greco, okeefe] 
-6. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-7. [friedrich, klimt, whistler] 
-8. [blake, braque, chagall, francesca] 
-9. [botticelli, matisse, patinir, rothko, titian, watteau] 
-10. [friedrich, klimt, whistler] 
-11. [buonarroti, giorgione] 
-12. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-
-«wordLen=5 rot=0 column=2, currentPhase=APPRECIATIVE»
-1. [blake, braque, chagall, francesca] 
-2. [hopper, raphael] 
-3. [hopper, raphael] 
-4. [caravaggio, corot, durer, gericault, gorky, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-5. [greco, okeefe] 
-6. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-7. [friedrich, klimt, whistler] 
-8. [blake, braque, chagall, francesca] 
-9. [botticelli, matisse, patinir, rothko, titian, watteau] 
-10. [friedrich, klimt, whistler] 
-11. [david, davinci] 
-12. [greco, okeefe] 
 
 «wordLen=5 rot=0 column=2, currentPhase=ALPHABETICAL»
 1. [blake, braque, chagall, francesca] 
@@ -2631,20 +2211,6 @@
 11. [angelico, bruegel, durer, friedrich, homer, leger, malevich, manet, monet, moreau, okeefe, rubens, uccello, vaneyck] 
 12. [kandinsky, mondrian, weyden] 
 
-«wordLen=5 rot=0 column=3, currentPhase=ANTICIPATION»
-1. [caravaggio, cezanne, cimabue, degas, delacroix, delatour, hogarth, masaccio, picasso, velazquez] 
-2. [buonarroti, francesca, johns, turner] 
-3. [botticelli, fontana, gentileschi, mantegna, martini, tintoretto, watteau] 
-4. [david, davinci, gericault, matisse, modigliani, patinir, schiele, titian] 
-5. [boccioni, bosch, greco, munch] 
-6. [david, davinci, gericault, matisse, modigliani, patinir, schiele, titian] 
-7. [hopper] 
-8. [caravaggio, cezanne, cimabue, degas, delacroix, delatour, hogarth, masaccio, picasso, velazquez] 
-9. [botticelli, fontana, gentileschi, mantegna, martini, tintoretto, watteau] 
-10. [david, davinci, gericault, matisse, modigliani, patinir, schiele, titian] 
-11. [bacon, corot, degoya, dekooning, dibondone, ensor, renoir] 
-12. [buonarroti, francesca, johns, turner] 
-
 «wordLen=5 rot=0 column=3, currentPhase=ALPHABETICAL»
 1. [caravaggio, cezanne, cimabue, degas, delacroix, delatour, hogarth, masaccio, picasso, velazquez] 
 2. [kahlo, memling, millet, pollock] 
@@ -2714,20 +2280,6 @@
 10. [bacon, corot, degoya, dekooning, dibondone, ensor, renoir] 
 11. [klimt, vermeer] 
 12. [constable, ernst, lissitzky, poussin, rossetti, whistler] 
-
-«wordLen=5 rot=0 column=3, currentPhase=ENCIPHERMENT»
-1. [angelico, bruegel, durer, friedrich, homer, leger, malevich, manet, monet, moreau, okeefe, rubens, uccello, vaneyck] 
-2. [buonarroti, francesca, johns, turner] 
-3. [boccioni, bosch, greco, munch] 
-4. [david, davinci, gericault, matisse, modigliani, patinir, schiele, titian] 
-5. [hopper] 
-6. [dechirico, duchamp, escher, lichtenstein, raphael, richter, rothko, warhol] 
-7. [angelico, bruegel, durer, friedrich, homer, leger, malevich, manet, monet, moreau, okeefe, rubens, uccello, vaneyck] 
-8. [church, courbet, giorgione, ingres, lorrain, magritte, seurat, vanrijn] 
-9. [klimt, vermeer] 
-10. [angelico, bruegel, durer, friedrich, homer, leger, malevich, manet, monet, moreau, okeefe, rubens, uccello, vaneyck] 
-11. [buonarroti, francesca, johns, turner] 
-12. [botticelli, fontana, gentileschi, mantegna, martini, tintoretto, watteau] 
 
 «wordLen=5 rot=0 column=3, currentPhase=TEAMSOLUTION»
 1. [botticelli, fontana, gentileschi, mantegna, martini, tintoretto, watteau] 
@@ -2855,34 +2407,6 @@
 11. [durer, ensor, hogarth, homer, leger, mondrian] 
 12. [degas, johns, matisse, picasso, poussin] 
 
-«wordLen=5 rot=0 column=4, currentPhase=FREETHINKERS»
-1. [okeefe] 
-2. [durer, ensor, hogarth, homer, leger, mondrian] 
-3. [blake, escher, holbein, hopper, ingres, mantegna, millet, rossetti, schiele, turner, vermeer, watteau, weyden] 
-4. [blake, escher, holbein, hopper, ingres, mantegna, millet, rossetti, schiele, turner, vermeer, watteau, weyden] 
-5. [constable, corot, delatour, ernst, klimt, lichtenstein, manet, monet, richter, whistler] 
-6. [bosch, munch] 
-7. [boccioni, botticelli, dechirico, gentileschi, kandinsky, lissitzky, magritte, martini, memling, renoir, vanrijn] 
-8. [bacon, cezanne, davinci, dibondone, hockney, patinir, rubens] 
-9. [rothko] 
-10. [blake, escher, holbein, hopper, ingres, mantegna, millet, rossetti, schiele, turner, vermeer, watteau, weyden] 
-11. [durer, ensor, hogarth, homer, leger, mondrian] 
-12. [degas, johns, matisse, picasso, poussin] 
-
-«wordLen=5 rot=0 column=4, currentPhase=FREETHINKING»
-1. [okeefe] 
-2. [durer, ensor, hogarth, homer, leger, mondrian] 
-3. [blake, escher, holbein, hopper, ingres, mantegna, millet, rossetti, schiele, turner, vermeer, watteau, weyden] 
-4. [blake, escher, holbein, hopper, ingres, mantegna, millet, rossetti, schiele, turner, vermeer, watteau, weyden] 
-5. [constable, corot, delatour, ernst, klimt, lichtenstein, manet, monet, richter, whistler] 
-6. [bosch, munch] 
-7. [boccioni, botticelli, dechirico, gentileschi, kandinsky, lissitzky, magritte, martini, memling, renoir, vanrijn] 
-8. [bacon, cezanne, davinci, dibondone, hockney, patinir, rubens] 
-9. [rothko] 
-10. [boccioni, botticelli, dechirico, gentileschi, kandinsky, lissitzky, magritte, martini, memling, renoir, vanrijn] 
-11. [bacon, cezanne, davinci, dibondone, hockney, patinir, rubens] 
-12. [bruegel, giorgione, modigliani] 
-
 «wordLen=5 rot=0 column=4, currentPhase=OBFUSCATIONS»
 1. [dabuoninsegna, dekooning, greco, kahlo, pollock, tintoretto, vangogh, warhol] 
 2. [cimabue, courbet] 
@@ -2995,20 +2519,6 @@
 11. [modigliani] 
 12. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
 
-«wordLen=5 rot=1 column=2, currentPhase=APPOINTMENTS»
-1. [cezanne] 
-2. [buonarroti, giorgione] 
-3. [buonarroti, giorgione] 
-4. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-5. [johns, kahlo, schiele] 
-6. [cimabue, homer, memling] 
-7. [basquiat, bosch, ensor, lissitzky, masaccio, rossetti] 
-8. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-9. [modigliani] 
-10. [cimabue, homer, memling] 
-11. [basquiat, bosch, ensor, lissitzky, masaccio, rossetti] 
-12. [caravaggio, corot, durer, gericault, gorky, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-
 «wordLen=5 rot=1 column=2, currentPhase=TEAMSOLUTION»
 1. [basquiat, bosch, ensor, lissitzky, masaccio, rossetti] 
 2. [modigliani] 
@@ -3060,20 +2570,6 @@
 6. [boccioni, bosch, greco, munch] 
 7. [blake, gorky, hockney] 
 8. [kandinsky, mondrian, weyden] 
-9. [kahlo, memling, millet, pollock] 
-10. [kandinsky, mondrian, weyden] 
-11. [klimt, vermeer] 
-12. [constable, ernst, lissitzky, poussin, rossetti, whistler] 
-
-«wordLen=5 rot=1 column=3, currentPhase=ENCIPHERMENT»
-1. [kandinsky, mondrian, weyden] 
-2. [klimt, vermeer] 
-3. [holbein, zurburan] 
-4. [dechirico, duchamp, escher, lichtenstein, raphael, richter, rothko, warhol] 
-5. [bacon, corot, degoya, dekooning, dibondone, ensor, renoir] 
-6. [chagall, gauguin, vangogh] 
-7. [kandinsky, mondrian, weyden] 
-8. [basquiat, braque] 
 9. [kahlo, memling, millet, pollock] 
 10. [kandinsky, mondrian, weyden] 
 11. [klimt, vermeer] 
@@ -3134,20 +2630,6 @@
 10. [caravaggio, cezanne, chagall, church, cimabue, constable, corot, courbet] 
 11. [leger, lichtenstein, lissitzky, lorrain] 
 12. [raphael, renoir, richter, rossetti, rothko, rubens] 
-
-«wordLen=5 rot=2 column=0, currentPhase=FREETHINKING»
-1. [dabuoninsegna, david, davinci, dechirico, degas, degoya, dekooning, delacroix, delatour, dibondone, duchamp, durer] 
-2. [patinir, picasso, pollock, poussin] 
-3. [caravaggio, cezanne, chagall, church, cimabue, constable, corot, courbet] 
-4. [caravaggio, cezanne, chagall, church, cimabue, constable, corot, courbet] 
-5. [raphael, renoir, richter, rossetti, rothko, rubens] 
-6. [fontana, francesca, friedrich] 
-7. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-8. [leger, lichtenstein, lissitzky, lorrain] 
-9. [ingres] 
-10. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-11. [leger, lichtenstein, lissitzky, lorrain] 
-12. [ensor, ernst, escher] 
 
 «wordLen=5 rot=2 column=2, currentPhase=MAGNIFICENCE»
 1. [dekooning] 
@@ -3289,34 +2771,6 @@
 11. [cimabue, homer, memling] 
 12. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
 
-«wordLen=5 rot=6 column=4, currentPhase=FREETHINKING»
-1. [velazquez] 
-2. [angelico, uccello] 
-3. [degoya, gorky, vaneyck] 
-4. [degoya, gorky, vaneyck] 
-5. [bacon, cezanne, davinci, dibondone, hockney, patinir, rubens] 
-6. [cimabue, courbet] 
-7. [church, delacroix, francesca, gericault, masaccio] 
-8. [bosch, munch] 
-9. [blake, escher, holbein, hopper, ingres, mantegna, millet, rossetti, schiele, turner, vermeer, watteau, weyden] 
-10. [church, delacroix, francesca, gericault, masaccio] 
-11. [bosch, munch] 
-12. [buonarroti, chagall, duchamp, fontana, lorrain, moreau, raphael, seurat, titian] 
-
-«wordLen=5 rot=7 column=0, currentPhase=ANTICIPATION»
-1. [tintoretto, titian, turner] 
-2. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-3. [magritte, malevich, manet, mantegna, martini, masaccio, matisse, memling, millet, modigliani, mondrian, monet, moreau, munch] 
-4. [bacon, basquiat, blake, boccioni, bosch, botticelli, braque, bruegel, buonarroti] 
-5. [vaneyck, vangogh, vanrijn, velazquez, vermeer] 
-6. [bacon, basquiat, blake, boccioni, bosch, botticelli, braque, bruegel, buonarroti] 
-7. [ingres] 
-8. [tintoretto, titian, turner] 
-9. [magritte, malevich, manet, mantegna, martini, masaccio, matisse, memling, millet, modigliani, mondrian, monet, moreau, munch] 
-10. [bacon, basquiat, blake, boccioni, bosch, botticelli, braque, bruegel, buonarroti] 
-11. [hockney, hogarth, holbein, homer, hopper] 
-12. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-
 «wordLen=5 rot=7 column=0, currentPhase=MOTIVATIONAL»
 1. [fontana, francesca, friedrich] 
 2. [hockney, hogarth, holbein, homer, hopper] 
@@ -3330,20 +2784,6 @@
 10. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
 11. [tintoretto, titian, turner] 
 12. [ensor, ernst, escher] 
-
-«wordLen=5 rot=7 column=2, currentPhase=ANTICIPATION»
-1. [botticelli, matisse, patinir, rothko, titian, watteau] 
-2. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
-3. [cimabue, homer, memling] 
-4. [dabuoninsegna, dibondone, rubens] 
-5. [david, davinci] 
-6. [dabuoninsegna, dibondone, rubens] 
-7. [friedrich, klimt, whistler] 
-8. [botticelli, matisse, patinir, rothko, titian, watteau] 
-9. [cimabue, homer, memling] 
-10. [dabuoninsegna, dibondone, rubens] 
-11. [johns, kahlo, schiele] 
-12. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
 
 «wordLen=5 rot=7 column=2, currentPhase=OBFUSCATIONS»
 1. [johns, kahlo, schiele] 
@@ -3373,20 +2813,6 @@
 11. [johns, kahlo, schiele] 
 12. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
 
-«wordLen=5 rot=8 column=0, currentPhase=APPOINTMENTS»
-1. [schiele, seurat] 
-2. [hockney, hogarth, holbein, homer, hopper] 
-3. [hockney, hogarth, holbein, homer, hopper] 
-4. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-5. [angelico] 
-6. [fontana, francesca, friedrich] 
-7. [leger, lichtenstein, lissitzky, lorrain] 
-8. [ensor, ernst, escher] 
-9. [warhol, watteau, weyden, whistler] 
-10. [fontana, francesca, friedrich] 
-11. [leger, lichtenstein, lissitzky, lorrain] 
-12. [kahlo, kandinsky, klimt] 
-
 «wordLen=5 rot=8 column=0, currentPhase=BEWILDERMENT»
 1. [tintoretto, titian, turner] 
 2. [warhol, watteau, weyden, whistler] 
@@ -3394,20 +2820,6 @@
 4. [angelico] 
 5. [dabuoninsegna, david, davinci, dechirico, degas, degoya, dekooning, delacroix, delatour, dibondone, duchamp, durer] 
 6. [vaneyck, vangogh, vanrijn, velazquez, vermeer] 
-7. [warhol, watteau, weyden, whistler] 
-8. [johns] 
-9. [ensor, ernst, escher] 
-10. [warhol, watteau, weyden, whistler] 
-11. [fontana, francesca, friedrich] 
-12. [leger, lichtenstein, lissitzky, lorrain] 
-
-«wordLen=5 rot=8 column=0, currentPhase=ENCIPHERMENT»
-1. [warhol, watteau, weyden, whistler] 
-2. [fontana, francesca, friedrich] 
-3. [uccello] 
-4. [angelico] 
-5. [hockney, hogarth, holbein, homer, hopper] 
-6. [zurburan] 
 7. [warhol, watteau, weyden, whistler] 
 8. [johns] 
 9. [ensor, ernst, escher] 
@@ -3498,20 +2910,6 @@
 10. [okeefe] 
 11. [degas, johns, matisse, picasso, poussin] 
 12. [david, friedrich] 
-
-«wordLen=5 rot=9 column=0, currentPhase=APPOINTMENTS»
-1. [raphael, renoir, richter, rossetti, rothko, rubens] 
-2. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-3. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-4. [fontana, francesca, friedrich] 
-5. [zurburan] 
-6. [ensor, ernst, escher] 
-7. [kahlo, kandinsky, klimt] 
-8. [dabuoninsegna, david, davinci, dechirico, degas, degoya, dekooning, delacroix, delatour, dibondone, duchamp, durer] 
-9. [vaneyck, vangogh, vanrijn, velazquez, vermeer] 
-10. [ensor, ernst, escher] 
-11. [kahlo, kandinsky, klimt] 
-12. [johns] 
 
 «wordLen=5 rot=9 column=0, currentPhase=TEAMSOLUTION»
 1. [kahlo, kandinsky, klimt] 
@@ -3807,20 +3205,6 @@
 11. [bruegel, giorgione, modigliani] 
 12. [bosch, munch] 
 
-«wordLen=5 rot=12 column=0, currentPhase=APPOINTMENTS»
-1. [okeefe] 
-2. [dabuoninsegna, david, davinci, dechirico, degas, degoya, dekooning, delacroix, delatour, dibondone, duchamp, durer] 
-3. [dabuoninsegna, david, davinci, dechirico, degas, degoya, dekooning, delacroix, delatour, dibondone, duchamp, durer] 
-4. [caravaggio, cezanne, chagall, church, cimabue, constable, corot, courbet] 
-5. [warhol, watteau, weyden, whistler] 
-6. [bacon, basquiat, blake, boccioni, bosch, botticelli, braque, bruegel, buonarroti] 
-7. [hockney, hogarth, holbein, homer, hopper] 
-8. [angelico] 
-9. [schiele, seurat] 
-10. [bacon, basquiat, blake, boccioni, bosch, botticelli, braque, bruegel, buonarroti] 
-11. [hockney, hogarth, holbein, homer, hopper] 
-12. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-
 «wordLen=5 rot=12 column=0, currentPhase=ANSWERSFOUND»
 1. [okeefe] 
 2. [bacon, basquiat, blake, boccioni, bosch, botticelli, braque, bruegel, buonarroti] 
@@ -3919,48 +3303,6 @@
 11. [bruegel, giorgione, modigliani] 
 12. [degas, johns, matisse, picasso, poussin] 
 
-«wordLen=5 rot=13 column=2, currentPhase=APPRECIATION»
-1. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-2. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-3. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-4. [greco, okeefe] 
-5. [caravaggio, corot, durer, gericault, gorky, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-6. [hopper, raphael] 
-7. [david, davinci] 
-8. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-9. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
-10. [david, davinci] 
-11. [dabuoninsegna, dibondone, rubens] 
-12. [blake, braque, chagall, francesca] 
-
-«wordLen=5 rot=13 column=2, currentPhase=APPRECIATIVE»
-1. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-2. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-3. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-4. [greco, okeefe] 
-5. [caravaggio, corot, durer, gericault, gorky, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-6. [hopper, raphael] 
-7. [david, davinci] 
-8. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-9. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
-10. [david, davinci] 
-11. [friedrich, klimt, whistler] 
-12. [caravaggio, corot, durer, gericault, gorky, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-
-«wordLen=5 rot=13 column=2, currentPhase=ENCIPHERMENT»
-1. [caravaggio, corot, durer, gericault, gorky, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-2. [blake, braque, chagall, francesca] 
-3. [hopper, raphael] 
-4. [david, davinci] 
-5. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-6. [bruegel, church, courbet, gauguin, poussin, seurat] 
-7. [caravaggio, corot, durer, gericault, gorky, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-8. [greco, okeefe] 
-9. [cezanne] 
-10. [caravaggio, corot, durer, gericault, gorky, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-11. [blake, braque, chagall, francesca] 
-12. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
-
 «wordLen=5 rot=13 column=2, currentPhase=MAGNIFICENCE»
 1. [cezanne] 
 2. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
@@ -4001,20 +3343,6 @@
 9. [blake, escher, holbein, hopper, ingres, mantegna, millet, rossetti, schiele, turner, vermeer, watteau, weyden] 
 10. [durer, ensor, hogarth, homer, leger, mondrian] 
 11. [church, delacroix, francesca, gericault, masaccio] 
-12. [okeefe] 
-
-«wordLen=5 rot=13 column=4, currentPhase=APPOINTMENTS»
-1. [bacon, cezanne, davinci, dibondone, hockney, patinir, rubens] 
-2. [church, delacroix, francesca, gericault, masaccio] 
-3. [church, delacroix, francesca, gericault, masaccio] 
-4. [cimabue, courbet] 
-5. [caravaggio, malevich] 
-6. [buonarroti, chagall, duchamp, fontana, lorrain, moreau, raphael, seurat, titian] 
-7. [bruegel, giorgione, modigliani] 
-8. [velazquez] 
-9. [durer, ensor, hogarth, homer, leger, mondrian] 
-10. [buonarroti, chagall, duchamp, fontana, lorrain, moreau, raphael, seurat, titian] 
-11. [bruegel, giorgione, modigliani] 
 12. [okeefe] 
 
 «wordLen=5 rot=13 column=4, currentPhase=TEAMSOLUTION»
@@ -4100,48 +3428,6 @@
 10. [cezanne] 
 11. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
 12. [greco, okeefe] 
-
-«wordLen=5 rot=15 column=2, currentPhase=APPRECIATION»
-1. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-2. [blake, braque, chagall, francesca] 
-3. [blake, braque, chagall, francesca] 
-4. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-5. [hopper, raphael] 
-6. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-7. [botticelli, matisse, patinir, rothko, titian, watteau] 
-8. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-9. [greco, okeefe] 
-10. [botticelli, matisse, patinir, rothko, titian, watteau] 
-11. [cezanne] 
-12. [weyden] 
-
-«wordLen=5 rot=15 column=2, currentPhase=APPRECIATIVE»
-1. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-2. [blake, braque, chagall, francesca] 
-3. [blake, braque, chagall, francesca] 
-4. [bacon, boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-5. [hopper, raphael] 
-6. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-7. [botticelli, matisse, patinir, rothko, titian, watteau] 
-8. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-9. [greco, okeefe] 
-10. [botticelli, matisse, patinir, rothko, titian, watteau] 
-11. [angelico, degas, degoya, hogarth, ingres, leger, magritte] 
-12. [hopper, raphael] 
-
-«wordLen=5 rot=15 column=4, currentPhase=ANTICIPATION»
-1. [angelico, uccello] 
-2. [degoya, gorky, vaneyck] 
-3. [blake, escher, holbein, hopper, ingres, mantegna, millet, rossetti, schiele, turner, vermeer, watteau, weyden] 
-4. [constable, corot, delatour, ernst, klimt, lichtenstein, manet, monet, richter, whistler] 
-5. [bacon, cezanne, davinci, dibondone, hockney, patinir, rubens] 
-6. [constable, corot, delatour, ernst, klimt, lichtenstein, manet, monet, richter, whistler] 
-7. [buonarroti, chagall, duchamp, fontana, lorrain, moreau, raphael, seurat, titian] 
-8. [angelico, uccello] 
-9. [blake, escher, holbein, hopper, ingres, mantegna, millet, rossetti, schiele, turner, vermeer, watteau, weyden] 
-10. [constable, corot, delatour, ernst, klimt, lichtenstein, manet, monet, richter, whistler] 
-11. [velazquez] 
-12. [degoya, gorky, vaneyck] 
 
 «wordLen=5 rot=16 column=0, currentPhase=ALPHABETICAL»
 1. [kahlo, kandinsky, klimt] 
@@ -4367,20 +3653,6 @@
 11. [johns, kahlo, schiele] 
 12. [botticelli, matisse, patinir, rothko, titian, watteau] 
 
-«wordLen=5 rot=19 column=2, currentPhase=FREETHINKING»
-1. [cimabue, homer, memling] 
-2. [weyden] 
-3. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-4. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-5. [blake, braque, chagall, francesca] 
-6. [buonarroti, giorgione] 
-7. [hopper, raphael] 
-8. [bruegel, church, courbet, gauguin, poussin, seurat] 
-9. [caravaggio, corot, durer, gericault, gorky, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-10. [hopper, raphael] 
-11. [bruegel, church, courbet, gauguin, poussin, seurat] 
-12. [constable, ernst, fontana, gentileschi, kandinsky, manet, mantegna, mondrian, monet, munch, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-
 «wordLen=5 rot=19 column=2, currentPhase=MOTIVATIONAL»
 1. [botticelli, matisse, patinir, rothko, titian, watteau] 
 2. [david, davinci] 
@@ -4577,48 +3849,6 @@
 11. [raphael, renoir, richter, rossetti, rothko, rubens] 
 12. [uccello] 
 
-«wordLen=5 rot=24 column=0, currentPhase=ENCIPHERMENT»
-1. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-2. [patinir, picasso, pollock, poussin] 
-3. [ensor, ernst, escher] 
-4. [kahlo, kandinsky, klimt] 
-5. [raphael, renoir, richter, rossetti, rothko, rubens] 
-6. [johns] 
-7. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-8. [tintoretto, titian, turner] 
-9. [okeefe] 
-10. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-11. [patinir, picasso, pollock, poussin] 
-12. [vaneyck, vangogh, vanrijn, velazquez, vermeer] 
-
-«wordLen=5 rot=24 column=0, currentPhase=FREETHINKERS»
-1. [hockney, hogarth, holbein, homer, hopper] 
-2. [tintoretto, titian, turner] 
-3. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-4. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-5. [vaneyck, vangogh, vanrijn, velazquez, vermeer] 
-6. [johns] 
-7. [kahlo, kandinsky, klimt] 
-8. [patinir, picasso, pollock, poussin] 
-9. [magritte, malevich, manet, mantegna, martini, masaccio, matisse, memling, millet, modigliani, mondrian, monet, moreau, munch] 
-10. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-11. [tintoretto, titian, turner] 
-12. [uccello] 
-
-«wordLen=5 rot=24 column=0, currentPhase=FREETHINKING»
-1. [hockney, hogarth, holbein, homer, hopper] 
-2. [tintoretto, titian, turner] 
-3. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-4. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-5. [vaneyck, vangogh, vanrijn, velazquez, vermeer] 
-6. [johns] 
-7. [kahlo, kandinsky, klimt] 
-8. [patinir, picasso, pollock, poussin] 
-9. [magritte, malevich, manet, mantegna, martini, masaccio, matisse, memling, millet, modigliani, mondrian, monet, moreau, munch] 
-10. [kahlo, kandinsky, klimt] 
-11. [patinir, picasso, pollock, poussin] 
-12. [ingres] 
-
 «wordLen=5 rot=24 column=0, currentPhase=HEADQUARTERS»
 1. [johns] 
 2. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
@@ -4731,20 +3961,6 @@
 11. [schiele, seurat] 
 12. [tintoretto, titian, turner] 
 
-«wordLen=5 rot=25 column=0, currentPhase=FREETHINKERS»
-1. [gauguin, gentileschi, gericault, giorgione, gorky, greco] 
-2. [schiele, seurat] 
-3. [fontana, francesca, friedrich] 
-4. [fontana, francesca, friedrich] 
-5. [uccello] 
-6. [ingres] 
-7. [johns] 
-8. [okeefe] 
-9. [leger, lichtenstein, lissitzky, lorrain] 
-10. [fontana, francesca, friedrich] 
-11. [schiele, seurat] 
-12. [tintoretto, titian, turner] 
-
 «wordLen=5 rot=25 column=0, currentPhase=HEADQUARTERS»
 1. [ingres] 
 2. [fontana, francesca, friedrich] 
@@ -4828,34 +4044,6 @@
 10. [schiele] 
 11. [okeefe] 
 12. [modigliani] 
-
-«wordLen=6 rot=0 column=2, currentPhase=APPOINTMENTS»
-1. [braque, chagall, francesca] 
-2. [hopper, raphael] 
-3. [hopper, raphael] 
-4. [buonarroti, giorgione] 
-5. [friedrich, whistler] 
-6. [constable, fontana, gentileschi, kandinsky, mantegna, mondrian, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-7. [botticelli, matisse, patinir, rothko, titian, watteau] 
-8. [cimabue, memling] 
-9. [okeefe] 
-10. [constable, fontana, gentileschi, kandinsky, mantegna, mondrian, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-11. [botticelli, matisse, patinir, rothko, titian, watteau] 
-12. [basquiat, lissitzky, masaccio, rossetti] 
-
-«wordLen=6 rot=0 column=2, currentPhase=APPRECIATION»
-1. [braque, chagall, francesca] 
-2. [hopper, raphael] 
-3. [hopper, raphael] 
-4. [caravaggio, gericault, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-5. [okeefe] 
-6. [boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-7. [friedrich, whistler] 
-8. [braque, chagall, francesca] 
-9. [botticelli, matisse, patinir, rothko, titian, watteau] 
-10. [friedrich, whistler] 
-11. [buonarroti, giorgione] 
-12. [constable, fontana, gentileschi, kandinsky, mantegna, mondrian, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
 
 «wordLen=6 rot=0 column=2, currentPhase=ALPHABETICAL»
 1. [braque, chagall, francesca] 
@@ -4955,20 +4143,6 @@
 11. [church, courbet, giorgione, ingres, lorrain, magritte, seurat, vanrijn] 
 12. [botticelli, fontana, gentileschi, mantegna, martini, tintoretto, watteau] 
 
-«wordLen=6 rot=0 column=3, currentPhase=ANTICIPATION»
-1. [caravaggio, cezanne, cimabue, delacroix, delatour, hogarth, masaccio, picasso, velazquez] 
-2. [buonarroti, francesca, turner] 
-3. [botticelli, fontana, gentileschi, mantegna, martini, tintoretto, watteau] 
-4. [davinci, gericault, matisse, modigliani, patinir, schiele, titian] 
-5. [boccioni] 
-6. [davinci, gericault, matisse, modigliani, patinir, schiele, titian] 
-7. [hopper] 
-8. [caravaggio, cezanne, cimabue, delacroix, delatour, hogarth, masaccio, picasso, velazquez] 
-9. [botticelli, fontana, gentileschi, mantegna, martini, tintoretto, watteau] 
-10. [davinci, gericault, matisse, modigliani, patinir, schiele, titian] 
-11. [degoya, dekooning, dibondone, renoir] 
-12. [buonarroti, francesca, turner] 
-
 «wordLen=6 rot=0 column=3, currentPhase=ALPHABETICAL»
 1. [caravaggio, cezanne, cimabue, delacroix, delatour, hogarth, masaccio, picasso, velazquez] 
 2. [memling, millet, pollock] 
@@ -5024,20 +4198,6 @@
 10. [angelico, bruegel, friedrich, malevich, moreau, okeefe, rubens, uccello, vaneyck] 
 11. [church, courbet, giorgione, ingres, lorrain, magritte, seurat, vanrijn] 
 12. [constable, lissitzky, poussin, rossetti, whistler] 
-
-«wordLen=6 rot=0 column=3, currentPhase=ENCIPHERMENT»
-1. [angelico, bruegel, friedrich, malevich, moreau, okeefe, rubens, uccello, vaneyck] 
-2. [buonarroti, francesca, turner] 
-3. [boccioni] 
-4. [davinci, gericault, matisse, modigliani, patinir, schiele, titian] 
-5. [hopper] 
-6. [dechirico, duchamp, escher, lichtenstein, raphael, richter, rothko, warhol] 
-7. [angelico, bruegel, friedrich, malevich, moreau, okeefe, rubens, uccello, vaneyck] 
-8. [church, courbet, giorgione, ingres, lorrain, magritte, seurat, vanrijn] 
-9. [vermeer] 
-10. [angelico, bruegel, friedrich, malevich, moreau, okeefe, rubens, uccello, vaneyck] 
-11. [buonarroti, francesca, turner] 
-12. [botticelli, fontana, gentileschi, mantegna, martini, tintoretto, watteau] 
 
 «wordLen=6 rot=0 column=3, currentPhase=TEAMSOLUTION»
 1. [botticelli, fontana, gentileschi, mantegna, martini, tintoretto, watteau] 
@@ -5291,20 +4451,6 @@
 11. [modigliani] 
 12. [boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
 
-«wordLen=6 rot=1 column=2, currentPhase=APPOINTMENTS»
-1. [cezanne] 
-2. [buonarroti, giorgione] 
-3. [buonarroti, giorgione] 
-4. [constable, fontana, gentileschi, kandinsky, mantegna, mondrian, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-5. [schiele] 
-6. [cimabue, memling] 
-7. [basquiat, lissitzky, masaccio, rossetti] 
-8. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-9. [modigliani] 
-10. [cimabue, memling] 
-11. [basquiat, lissitzky, masaccio, rossetti] 
-12. [caravaggio, gericault, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-
 «wordLen=6 rot=1 column=2, currentPhase=TEAMSOLUTION»
 1. [basquiat, lissitzky, masaccio, rossetti] 
 2. [modigliani] 
@@ -5360,20 +4506,6 @@
 10. [vermeer] 
 11. [constable, lissitzky, poussin, rossetti, whistler] 
 12. [church, courbet, giorgione, ingres, lorrain, magritte, seurat, vanrijn] 
-
-«wordLen=6 rot=2 column=0, currentPhase=FREETHINKING»
-1. [dabuoninsegna, davinci, dechirico, degoya, dekooning, delacroix, delatour, dibondone, duchamp] 
-2. [patinir, picasso, pollock, poussin] 
-3. [caravaggio, cezanne, chagall, church, cimabue, constable, courbet] 
-4. [caravaggio, cezanne, chagall, church, cimabue, constable, courbet] 
-5. [raphael, renoir, richter, rossetti, rothko, rubens] 
-6. [fontana, francesca, friedrich] 
-7. [gauguin, gentileschi, gericault, giorgione] 
-8. [lichtenstein, lissitzky, lorrain] 
-9. [ingres] 
-10. [gauguin, gentileschi, gericault, giorgione] 
-11. [lichtenstein, lissitzky, lorrain] 
-12. [escher] 
 
 «wordLen=6 rot=2 column=2, currentPhase=MAGNIFICENCE»
 1. [dekooning] 
@@ -5431,20 +4563,6 @@
 11. [cimabue, memling] 
 12. [constable, fontana, gentileschi, kandinsky, mantegna, mondrian, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
 
-«wordLen=6 rot=7 column=0, currentPhase=ANTICIPATION»
-1. [tintoretto, titian, turner] 
-2. [gauguin, gentileschi, gericault, giorgione] 
-3. [magritte, malevich, mantegna, martini, masaccio, matisse, memling, millet, modigliani, mondrian, moreau] 
-4. [basquiat, boccioni, botticelli, braque, bruegel, buonarroti] 
-5. [vaneyck, vangogh, vanrijn, velazquez, vermeer] 
-6. [basquiat, boccioni, botticelli, braque, bruegel, buonarroti] 
-7. [ingres] 
-8. [tintoretto, titian, turner] 
-9. [magritte, malevich, mantegna, martini, masaccio, matisse, memling, millet, modigliani, mondrian, moreau] 
-10. [basquiat, boccioni, botticelli, braque, bruegel, buonarroti] 
-11. [hockney, hogarth, holbein, hopper] 
-12. [gauguin, gentileschi, gericault, giorgione] 
-
 «wordLen=6 rot=7 column=0, currentPhase=MOTIVATIONAL»
 1. [fontana, francesca, friedrich] 
 2. [hockney, hogarth, holbein, hopper] 
@@ -5459,20 +4577,6 @@
 11. [tintoretto, titian, turner] 
 12. [escher] 
 
-«wordLen=6 rot=7 column=2, currentPhase=ANTICIPATION»
-1. [botticelli, matisse, patinir, rothko, titian, watteau] 
-2. [angelico, degoya, hogarth, ingres, magritte] 
-3. [cimabue, memling] 
-4. [dabuoninsegna, dibondone, rubens] 
-5. [davinci] 
-6. [dabuoninsegna, dibondone, rubens] 
-7. [friedrich, whistler] 
-8. [botticelli, matisse, patinir, rothko, titian, watteau] 
-9. [cimabue, memling] 
-10. [dabuoninsegna, dibondone, rubens] 
-11. [schiele] 
-12. [angelico, degoya, hogarth, ingres, magritte] 
-
 «wordLen=6 rot=7 column=2, currentPhase=SATISFACTION»
 1. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
 2. [botticelli, matisse, patinir, rothko, titian, watteau] 
@@ -5486,20 +4590,6 @@
 10. [dabuoninsegna, dibondone, rubens] 
 11. [schiele] 
 12. [angelico, degoya, hogarth, ingres, magritte] 
-
-«wordLen=6 rot=8 column=0, currentPhase=APPOINTMENTS»
-1. [schiele, seurat] 
-2. [hockney, hogarth, holbein, hopper] 
-3. [hockney, hogarth, holbein, hopper] 
-4. [gauguin, gentileschi, gericault, giorgione] 
-5. [angelico] 
-6. [fontana, francesca, friedrich] 
-7. [lichtenstein, lissitzky, lorrain] 
-8. [escher] 
-9. [warhol, watteau, weyden, whistler] 
-10. [fontana, francesca, friedrich] 
-11. [lichtenstein, lissitzky, lorrain] 
-12. [kandinsky] 
 
 «wordLen=6 rot=8 column=0, currentPhase=TEAMSOLUTION»
 1. [lichtenstein, lissitzky, lorrain] 
@@ -5641,20 +4731,6 @@
 11. [angelico, bruegel, friedrich, malevich, moreau, okeefe, rubens, uccello, vaneyck] 
 12. [dechirico, duchamp, escher, lichtenstein, raphael, richter, rothko, warhol] 
 
-«wordLen=6 rot=12 column=0, currentPhase=APPOINTMENTS»
-1. [okeefe] 
-2. [dabuoninsegna, davinci, dechirico, degoya, dekooning, delacroix, delatour, dibondone, duchamp] 
-3. [dabuoninsegna, davinci, dechirico, degoya, dekooning, delacroix, delatour, dibondone, duchamp] 
-4. [caravaggio, cezanne, chagall, church, cimabue, constable, courbet] 
-5. [warhol, watteau, weyden, whistler] 
-6. [basquiat, boccioni, botticelli, braque, bruegel, buonarroti] 
-7. [hockney, hogarth, holbein, hopper] 
-8. [angelico] 
-9. [schiele, seurat] 
-10. [basquiat, boccioni, botticelli, braque, bruegel, buonarroti] 
-11. [hockney, hogarth, holbein, hopper] 
-12. [gauguin, gentileschi, gericault, giorgione] 
-
 «wordLen=6 rot=12 column=0, currentPhase=ANSWERSFOUND»
 1. [okeefe] 
 2. [basquiat, boccioni, botticelli, braque, bruegel, buonarroti] 
@@ -5739,34 +4815,6 @@
 11. [cimabue, courbet] 
 12. [hogarth, mondrian] 
 
-«wordLen=6 rot=13 column=2, currentPhase=ENCIPHERMENT»
-1. [caravaggio, gericault, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-2. [braque, chagall, francesca] 
-3. [hopper, raphael] 
-4. [davinci] 
-5. [boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-6. [bruegel, church, courbet, gauguin, poussin, seurat] 
-7. [caravaggio, gericault, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-8. [okeefe] 
-9. [cezanne] 
-10. [caravaggio, gericault, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-11. [braque, chagall, francesca] 
-12. [angelico, degoya, hogarth, ingres, magritte] 
-
-«wordLen=6 rot=13 column=4, currentPhase=APPOINTMENTS»
-1. [cezanne, davinci, dibondone, hockney, patinir, rubens] 
-2. [church, delacroix, francesca, gericault, masaccio] 
-3. [church, delacroix, francesca, gericault, masaccio] 
-4. [cimabue, courbet] 
-5. [caravaggio, malevich] 
-6. [buonarroti, chagall, duchamp, fontana, lorrain, moreau, raphael, seurat, titian] 
-7. [bruegel, giorgione, modigliani] 
-8. [velazquez] 
-9. [hogarth, mondrian] 
-10. [buonarroti, chagall, duchamp, fontana, lorrain, moreau, raphael, seurat, titian] 
-11. [bruegel, giorgione, modigliani] 
-12. [okeefe] 
-
 «wordLen=6 rot=13 column=4, currentPhase=MOTIVATIONAL»
 1. [velazquez] 
 2. [cimabue, courbet] 
@@ -5808,48 +4856,6 @@
 10. [patinir, picasso, pollock, poussin] 
 11. [caravaggio, cezanne, chagall, church, cimabue, constable, courbet] 
 12. [dabuoninsegna, davinci, dechirico, degoya, dekooning, delacroix, delatour, dibondone, duchamp] 
-
-«wordLen=6 rot=15 column=2, currentPhase=APPRECIATION»
-1. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-2. [braque, chagall, francesca] 
-3. [braque, chagall, francesca] 
-4. [boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-5. [hopper, raphael] 
-6. [constable, fontana, gentileschi, kandinsky, mantegna, mondrian, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-7. [botticelli, matisse, patinir, rothko, titian, watteau] 
-8. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-9. [okeefe] 
-10. [botticelli, matisse, patinir, rothko, titian, watteau] 
-11. [cezanne] 
-12. [weyden] 
-
-«wordLen=6 rot=15 column=2, currentPhase=APPRECIATIVE»
-1. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-2. [braque, chagall, francesca] 
-3. [braque, chagall, francesca] 
-4. [boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
-5. [hopper, raphael] 
-6. [constable, fontana, gentileschi, kandinsky, mantegna, mondrian, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
-7. [botticelli, matisse, patinir, rothko, titian, watteau] 
-8. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-9. [okeefe] 
-10. [botticelli, matisse, patinir, rothko, titian, watteau] 
-11. [angelico, degoya, hogarth, ingres, magritte] 
-12. [hopper, raphael] 
-
-«wordLen=6 rot=15 column=4, currentPhase=ANTICIPATION»
-1. [angelico, uccello] 
-2. [degoya, vaneyck] 
-3. [escher, holbein, hopper, ingres, mantegna, millet, rossetti, schiele, turner, vermeer, watteau, weyden] 
-4. [constable, delatour, lichtenstein, richter, whistler] 
-5. [cezanne, davinci, dibondone, hockney, patinir, rubens] 
-6. [constable, delatour, lichtenstein, richter, whistler] 
-7. [buonarroti, chagall, duchamp, fontana, lorrain, moreau, raphael, seurat, titian] 
-8. [angelico, uccello] 
-9. [escher, holbein, hopper, ingres, mantegna, millet, rossetti, schiele, turner, vermeer, watteau, weyden] 
-10. [constable, delatour, lichtenstein, richter, whistler] 
-11. [velazquez] 
-12. [degoya, vaneyck] 
 
 «wordLen=6 rot=16 column=2, currentPhase=SHAREHOLDERS»
 1. [boccioni, dechirico, duchamp, escher, hockney, lichtenstein, picasso, richter, uccello] 
@@ -5920,20 +4926,6 @@
 10. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
 11. [bruegel, church, courbet, gauguin, poussin, seurat] 
 12. [braque, chagall, francesca] 
-
-«wordLen=6 rot=19 column=2, currentPhase=FREETHINKING»
-1. [cimabue, memling] 
-2. [weyden] 
-3. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-4. [delacroix, delatour, holbein, malevich, millet, pollock, velazquez] 
-5. [braque, chagall, francesca] 
-6. [buonarroti, giorgione] 
-7. [hopper, raphael] 
-8. [bruegel, church, courbet, gauguin, poussin, seurat] 
-9. [caravaggio, gericault, lorrain, martini, moreau, turner, vermeer, warhol, zurburan] 
-10. [hopper, raphael] 
-11. [bruegel, church, courbet, gauguin, poussin, seurat] 
-12. [constable, fontana, gentileschi, kandinsky, mantegna, mondrian, renoir, tintoretto, vaneyck, vangogh, vanrijn] 
 
 «wordLen=6 rot=20 column=2, currentPhase=ALPHABETICAL»
 1. [angelico, degoya, hogarth, ingres, magritte] 
@@ -6299,20 +5291,6 @@
 11. [caravaggio, constable, gericault, watteau] 
 12. [duchamp] 
 
-«wordLen=7 rot=0 column=6, currentPhase=ANTICIPATION»
-1. [basquiat, fontana, mondrian, zurburan] 
-2. [boccioni, gauguin, holbein, lichtenstein, lorrain, mantegna, poussin, vanrijn] 
-3. [courbet, magritte, rossetti] 
-4. [dabuoninsegna, davinci, dechirico, dekooning, friedrich, martini, masaccio, modigliani] 
-5. [angelico, malevich] 
-6. [dabuoninsegna, davinci, dechirico, dekooning, friedrich, martini, masaccio, modigliani] 
-7. [duchamp] 
-8. [basquiat, fontana, mondrian, zurburan] 
-9. [courbet, magritte, rossetti] 
-10. [dabuoninsegna, davinci, dechirico, dekooning, friedrich, martini, masaccio, modigliani] 
-11. [delacroix, dibondone, giorgione, picasso, uccello] 
-12. [boccioni, gauguin, holbein, lichtenstein, lorrain, mantegna, poussin, vanrijn] 
-
 «wordLen=7 rot=0 column=6, currentPhase=ALPHABETICAL»
 1. [basquiat, fontana, mondrian, zurburan] 
 2. [bruegel, chagall, raphael] 
@@ -6396,20 +5374,6 @@
 10. [angelico, hogarth, magritte] 
 11. [modigliani] 
 12. [boccioni, dechirico, duchamp, hockney, lichtenstein, picasso, richter, uccello] 
-
-«wordLen=7 rot=1 column=2, currentPhase=APPOINTMENTS»
-1. [cezanne] 
-2. [buonarroti, giorgione] 
-3. [buonarroti, giorgione] 
-4. [constable, fontana, gentileschi, kandinsky, mantegna, mondrian, tintoretto, vaneyck, vangogh, vanrijn] 
-5. [schiele] 
-6. [cimabue, memling] 
-7. [basquiat, lissitzky, masaccio, rossetti] 
-8. [delacroix, delatour, holbein, malevich, pollock, velazquez] 
-9. [modigliani] 
-10. [cimabue, memling] 
-11. [basquiat, lissitzky, masaccio, rossetti] 
-12. [caravaggio, gericault, lorrain, martini, vermeer, zurburan] 
 
 «wordLen=7 rot=1 column=2, currentPhase=TEAMSOLUTION»
 1. [basquiat, lissitzky, masaccio, rossetti] 
@@ -6508,20 +5472,6 @@
 10. [buonarroti, chagall, duchamp, fontana, lorrain, raphael] 
 11. [cezanne, davinci, dibondone, hockney, patinir] 
 12. [vaneyck] 
-
-«wordLen=7 rot=15 column=6, currentPhase=APPRECIATION»
-1. [bruegel, chagall, raphael] 
-2. [basquiat, fontana, mondrian, zurburan] 
-3. [basquiat, fontana, mondrian, zurburan] 
-4. [angelico, malevich] 
-5. [duchamp] 
-6. [boccioni, gauguin, holbein, lichtenstein, lorrain, mantegna, poussin, vanrijn] 
-7. [courbet, magritte, rossetti] 
-8. [bruegel, chagall, raphael] 
-9. [botticelli, cezanne, cimabue, gentileschi, matisse, schiele, tintoretto, whistler] 
-10. [courbet, magritte, rossetti] 
-11. [lissitzky] 
-12. [hockney] 
 
 «wordLen=7 rot=18 column=0, currentPhase=MONEYLENDERS»
 1. [uccello] 
