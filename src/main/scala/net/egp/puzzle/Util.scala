@@ -153,7 +153,7 @@ case class ThemeContext(rot: Int,
                         column: Int,
                         currentPhase: Seq[Char],
                         dictList: Seq[String]) {
-  override def toString: String = s"«rot=$rot column=$column, currentPhase=$currentPhase»"
+  override def toString: String = s"«rot=$rot column=${1+column}, currentPhase=$currentPhase»"
 }
 
 trait PossibleSolution {

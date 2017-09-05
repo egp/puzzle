@@ -1,5 +1,5 @@
 
-«rot=0 column=0, currentPhase=MOTIVATIONAL»
+«rot=0 column=1, currentPhase=MOTIVATIONAL»
 1. [Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana] 
 2. [Ohio, Oklahoma, Oregon] 
 3. [Tennessee, Texas] 
@@ -13,7 +13,7 @@
 11. [Alabama, Alaska, Arizona, Arkansas] 
 12. [Louisiana] 
 
-«rot=0 column=4, currentPhase=ANSWERSFOUND»
+«rot=0 column=5, currentPhase=ANSWERSFOUND»
 1. [Alabama, Indiana, Kansas, Massachusetts, Montana, Nebraska, NewHampshire] 
 2. [Arkansas, Illinois] 
 3. [Louisiana, Pennsylvania] 
@@ -27,7 +27,7 @@
 11. [Arkansas, Illinois] 
 12. [Nevada] 
 
-«rot=0 column=4, currentPhase=ANSWERSFOUND»
+«rot=0 column=5, currentPhase=ANSWERSFOUND»
 1. [Alabama, Indiana, Kansas, Massachusetts, Montana, Nebraska, NewHampshire] 
 2. [Arkansas, Illinois] 
 3. [Louisiana, Pennsylvania, Texas] 
@@ -41,7 +41,7 @@
 11. [Arkansas, Illinois] 
 12. [Nevada] 
 
-«rot=0 column=0, currentPhase=SATISFACTION»
+«rot=0 column=1, currentPhase=SATISFACTION»
 1. [SouthCarolina, SouthDakota] 
 2. [Alabama, Alaska, Arizona, Arkansas] 
 3. [Tennessee, Texas] 
@@ -55,7 +55,7 @@
 11. [Ohio, Oklahoma, Oregon] 
 12. [Nebraska, Nevada, NewHampshire, NewJersey, NewMexico, NewYork, NorthCarolina, NorthDakota] 
 
-«rot=0 column=0, currentPhase=SATISFACTION»
+«rot=0 column=1, currentPhase=SATISFACTION»
 1. [SouthCarolina, SouthDakota] 
 2. [Alabama, Alaska, Arizona, Arkansas] 
 3. [Tennessee, Texas] 
@@ -69,7 +69,7 @@
 11. [Oklahoma, Oregon] 
 12. [Nebraska, Nevada, NewHampshire, NewJersey, NewMexico, NewYork, NorthCarolina, NorthDakota] 
 
-«rot=0 column=2, currentPhase=BILLIONAIRES»
+«rot=0 column=3, currentPhase=BILLIONAIRES»
 1. [Nebraska] 
 2. [Arizona, Maine, Ohio] 
 3. [California, Colorado, Delaware, Illinois, Oklahoma] 
@@ -83,7 +83,7 @@
 11. [Oregon] 
 12. [Massachusetts, Mississippi, Missouri, Washington, WestVirginia, Wisconsin] 
 
-«rot=0 column=0, currentPhase=MOTIVATIONAL»
+«rot=0 column=1, currentPhase=MOTIVATIONAL»
 1. [Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana] 
 2. [Oklahoma, Oregon] 
 3. [Tennessee, Texas] 
@@ -97,7 +97,7 @@
 11. [Alabama, Alaska, Arizona, Arkansas] 
 12. [Louisiana] 
 
-«rot=4 column=0, currentPhase=METAMORPHOSE»
+«rot=4 column=1, currentPhase=METAMORPHOSE»
 1. [Idaho, Illinois, Indiana] 
 2. [Alabama, Alaska, Arizona, Arkansas] 
 3. [Pennsylvania] 
@@ -111,7 +111,7 @@
 11. [Oklahoma, Oregon] 
 12. [Alabama, Alaska, Arizona, Arkansas] 
 
-«rot=4 column=0, currentPhase=METAMORPHOSE»
+«rot=4 column=1, currentPhase=METAMORPHOSE»
 1. [Illinois, Indiana] 
 2. [Alabama, Alaska, Arizona, Arkansas] 
 3. [Pennsylvania] 
@@ -125,7 +125,7 @@
 11. [Oklahoma, Oregon] 
 12. [Alabama, Alaska, Arizona, Arkansas] 
 
-«rot=4 column=0, currentPhase=METAMORPHOSE»
+«rot=4 column=1, currentPhase=METAMORPHOSE»
 1. [Idaho, Illinois, Indiana, Iowa] 
 2. [Alabama, Alaska, Arizona, Arkansas] 
 3. [Pennsylvania] 
@@ -139,7 +139,7 @@
 11. [Ohio, Oklahoma, Oregon] 
 12. [Alabama, Alaska, Arizona, Arkansas] 
 
-«rot=12 column=3, currentPhase=PUZZLEEVENTS»
+«rot=12 column=4, currentPhase=PUZZLEEVENTS»
 1. [RhodeIsland] 
 2. [California, Illinois, Indiana, Louisiana] 
 3. [Connecticut, Minnesota, Pennsylvania, Tennessee] 
@@ -153,7 +153,7 @@
 11. [Michigan, NewHampshire, Washington] 
 12. [Oregon, Virginia] 
 
-«rot=12 column=0, currentPhase=METAMORPHISM»
+«rot=12 column=1, currentPhase=METAMORPHISM»
 1. [Alabama, Alaska, Arizona, Arkansas] 
 2. [SouthCarolina, SouthDakota] 
 3. [Hawaii] 
@@ -167,7 +167,7 @@
 11. [Georgia] 
 12. [Alabama, Alaska, Arizona, Arkansas] 
 
-«rot=12 column=3, currentPhase=PUZZLEEVENTS»
+«rot=12 column=4, currentPhase=PUZZLEEVENTS»
 1. [RhodeIsland] 
 2. [California, Illinois, Indiana, Louisiana] 
 3. [Connecticut, Minnesota, Pennsylvania, Tennessee] 
@@ -181,7 +181,7 @@
 11. [Michigan, NewHampshire, Washington] 
 12. [Virginia] 
 
-«rot=12 column=3, currentPhase=PUZZLEEVENTS»
+«rot=12 column=4, currentPhase=PUZZLEEVENTS»
 1. [RhodeIsland] 
 2. [California, Illinois, Indiana, Louisiana] 
 3. [Connecticut, Maine, Minnesota, Pennsylvania, Tennessee] 
@@ -195,7 +195,7 @@
 11. [Idaho, Michigan, NewHampshire, Utah, Washington] 
 12. [Oregon, Virginia] 
 
-«rot=12 column=3, currentPhase=PUZZLEEVENTS»
+«rot=12 column=4, currentPhase=PUZZLEEVENTS»
 1. [RhodeIsland] 
 2. [California, Illinois, Indiana, Louisiana] 
 3. [Connecticut, Maine, Minnesota, Pennsylvania, Tennessee] 
@@ -209,7 +209,7 @@
 11. [Idaho, Michigan, NewHampshire, Washington] 
 12. [Oregon, Virginia] 
 
-«rot=12 column=0, currentPhase=METAMORPHOSE»
+«rot=12 column=1, currentPhase=METAMORPHOSE»
 1. [Alabama, Alaska, Arizona, Arkansas] 
 2. [SouthCarolina, SouthDakota] 
 3. [Hawaii] 
@@ -223,7 +223,7 @@
 11. [Georgia] 
 12. [SouthCarolina, SouthDakota] 
 
-«rot=12 column=0, currentPhase=METAMORPHISM»
+«rot=12 column=1, currentPhase=METAMORPHISM»
 1. [Alabama, Alaska, Arizona, Arkansas] 
 2. [SouthCarolina, SouthDakota] 
 3. [Hawaii] 
@@ -237,7 +237,7 @@
 11. [Georgia] 
 12. [Alabama, Alaska, Arizona, Arkansas] 
 
-«rot=12 column=0, currentPhase=METAMORPHISM»
+«rot=12 column=1, currentPhase=METAMORPHISM»
 1. [Alabama, Alaska, Arizona, Arkansas] 
 2. [SouthCarolina, SouthDakota] 
 3. [Hawaii] 
@@ -251,7 +251,7 @@
 11. [Georgia] 
 12. [Alabama, Alaska, Arizona, Arkansas] 
 
-«rot=12 column=0, currentPhase=METAMORPHOSE»
+«rot=12 column=1, currentPhase=METAMORPHOSE»
 1. [Alabama, Alaska, Arizona, Arkansas] 
 2. [SouthCarolina, SouthDakota] 
 3. [Hawaii] 
@@ -265,7 +265,7 @@
 11. [Georgia] 
 12. [SouthCarolina, SouthDakota] 
 
-«rot=12 column=0, currentPhase=METAMORPHOSE»
+«rot=12 column=1, currentPhase=METAMORPHOSE»
 1. [Alabama, Alaska, Arizona, Arkansas] 
 2. [SouthCarolina, SouthDakota] 
 3. [Hawaii] 
@@ -279,7 +279,7 @@
 11. [Georgia] 
 12. [SouthCarolina, SouthDakota] 
 
-«rot=17 column=0, currentPhase=BEFUDDLEMENT»
+«rot=17 column=1, currentPhase=BEFUDDLEMENT»
 1. [Kansas, Kentucky] 
 2. [Nebraska, Nevada, NewHampshire, NewJersey, NewMexico, NewYork, NorthCarolina, NorthDakota] 
 3. [Ohio, Oklahoma, Oregon] 
@@ -293,7 +293,7 @@
 11. [Washington, WestVirginia, Wisconsin, Wyoming] 
 12. [California, Colorado, Connecticut] 
 
-«rot=17 column=3, currentPhase=FREETAXPREPS»
+«rot=17 column=4, currentPhase=FREETAXPREPS»
 1. [Colorado] 
 2. [Arkansas, Delaware, Hawaii, Nevada, Oklahoma, Texas] 
 3. [Connecticut, Maine, Minnesota, Pennsylvania, Tennessee] 
@@ -307,7 +307,7 @@
 11. [Maryland, NewYork] 
 12. [Alabama] 
 
-«rot=17 column=3, currentPhase=FREETAXPREPS»
+«rot=17 column=4, currentPhase=FREETAXPREPS»
 1. [Colorado] 
 2. [Arkansas, Delaware, Hawaii, Nevada, Oklahoma] 
 3. [Connecticut, Minnesota, Pennsylvania, Tennessee] 
@@ -321,7 +321,7 @@
 11. [Maryland, NewYork] 
 12. [Alabama] 
 
-«rot=17 column=0, currentPhase=BEWILDERMENT»
+«rot=17 column=1, currentPhase=BEWILDERMENT»
 1. [Kansas, Kentucky] 
 2. [Nebraska, Nevada, NewHampshire, NewJersey, NewMexico, NewYork, NorthCarolina, NorthDakota] 
 3. [Florida] 
@@ -335,7 +335,7 @@
 11. [Washington, WestVirginia, Wisconsin, Wyoming] 
 12. [California, Colorado, Connecticut] 
 
-«rot=17 column=3, currentPhase=FREETAXPREPS»
+«rot=17 column=4, currentPhase=FREETAXPREPS»
 1. [Colorado, Ohio] 
 2. [Arkansas, Delaware, Hawaii, Iowa, Nevada, Oklahoma, Texas] 
 3. [Connecticut, Maine, Minnesota, Pennsylvania, Tennessee] 
@@ -349,7 +349,7 @@
 11. [Maryland, NewYork] 
 12. [Alabama] 
 
-«rot=17 column=3, currentPhase=FREETAXPREPS»
+«rot=17 column=4, currentPhase=FREETAXPREPS»
 1. [Colorado] 
 2. [Arkansas, Delaware, Oklahoma] 
 3. [Connecticut, Minnesota, Pennsylvania, Tennessee] 
@@ -363,7 +363,7 @@
 11. [Maryland, NewYork] 
 12. [Alabama] 
 
-«rot=20 column=0, currentPhase=MAGNIFICENCE»
+«rot=20 column=1, currentPhase=MAGNIFICENCE»
 1. [SouthCarolina, SouthDakota] 
 2. [Georgia] 
 3. [Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana] 
@@ -377,7 +377,7 @@
 11. [Idaho, Illinois, Indiana, Iowa] 
 12. [Kansas, Kentucky] 
 
-«rot=20 column=0, currentPhase=MAGNIFICENCE»
+«rot=20 column=1, currentPhase=MAGNIFICENCE»
 1. [SouthCarolina, SouthDakota] 
 2. [Georgia] 
 3. [Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana] 

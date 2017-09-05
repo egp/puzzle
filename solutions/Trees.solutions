@@ -1,5 +1,5 @@
 
-«rot=0 column=3, currentPhase=BEWILDERMENT»
+«rot=0 column=4, currentPhase=BEWILDERMENT»
 1. [Filbert] 
 2. [Alder, Aspen, Hazel, Honeylocust, Pine, Sweetgum] 
 3. [Dogwood] 
@@ -13,7 +13,7 @@
 11. [Chinkapin, Hornbeam, Walnut] 
 12. [Butternut, Cottonwood, Hawthorn, Myrtle] 
 
-«rot=0 column=2, currentPhase=BEWILDERMENT»
+«rot=0 column=3, currentPhase=BEWILDERMENT»
 1. [Arborvitae] 
 2. [Beech, Cherry, Chestnut, Sweetgum] 
 3. [Hawthorn, Yew] 
@@ -27,7 +27,7 @@
 11. [Honeylocust, Juniper, Pine] 
 12. [Butternut, Catalpa, Cottonwood] 
 
-«rot=0 column=5, currentPhase=FAVORITETREE»
+«rot=0 column=6, currentPhase=FAVORITETREE»
 1. [Sassafras] 
 2. [Chinkapin, Mahogany] 
 3. [Arborvitae] 
@@ -41,7 +41,7 @@
 11. [Hornbeam, Juniper, Myrtle, Spruce] 
 12. [Hornbeam, Juniper, Myrtle, Spruce] 
 
-«rot=0 column=3, currentPhase=MOTIVATIONAL»
+«rot=0 column=4, currentPhase=MOTIVATIONAL»
 1. [Plum] 
 2. [Arborvitae, Mahogany] 
 3. [Butternut, Cottonwood, Hawthorn, Myrtle] 
@@ -55,7 +55,7 @@
 11. [Catalpa, Cedar, Sycamore] 
 12. [Apple, Hemlock, Holly, Maple, Poplar, Willow] 
 
-«rot=0 column=2, currentPhase=HEADQUARTERS»
+«rot=0 column=3, currentPhase=HEADQUARTERS»
 1. [Mahogany] 
 2. [Beech, Cherry, Chestnut, Sweetgum] 
 3. [Pear, Shadbush] 
@@ -69,7 +69,7 @@
 11. [Birch, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 12. [Basswood, Sassafras] 
 
-«rot=0 column=5, currentPhase=TECHNOLOGIES»
+«rot=0 column=6, currentPhase=TECHNOLOGIES»
 1. [Locust, Walnut] 
 2. [Hornbeam, Juniper, Myrtle, Spruce] 
 3. [Hemlock, Horsechestnut] 
@@ -83,7 +83,7 @@
 11. [Hornbeam, Juniper, Myrtle, Spruce] 
 12. [Cypress] 
 
-«rot=0 column=3, currentPhase=SOLUTIONTEAM»
+«rot=0 column=4, currentPhase=SOLUTIONTEAM»
 1. [Basswood, Chestnut, Horsechestnut, Sassafras] 
 2. [Arborvitae, Mahogany] 
 3. [Apple, Hemlock, Holly, Maple, Poplar, Willow] 
@@ -97,7 +97,7 @@
 11. [Catalpa, Cedar, Sycamore] 
 12. [Plum] 
 
-«rot=0 column=2, currentPhase=BRAINTEASERS»
+«rot=0 column=3, currentPhase=BRAINTEASERS»
 1. [Arborvitae] 
 2. [Birch, Fir, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 3. [Pear, Shadbush] 
@@ -111,7 +111,7 @@
 11. [Birch, Fir, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 12. [Basswood, Sassafras] 
 
-«rot=0 column=3, currentPhase=BRAINTEASERS»
+«rot=0 column=4, currentPhase=BRAINTEASERS»
 1. [Filbert] 
 2. [Cherry, Cypress, Laurel, Madrone] 
 3. [Catalpa, Cedar, Sycamore] 
@@ -125,7 +125,7 @@
 11. [Cherry, Cypress, Laurel, Madrone] 
 12. [Basswood, Chestnut, Horsechestnut, Sassafras] 
 
-«rot=0 column=3, currentPhase=BRAINTEASERS»
+«rot=0 column=4, currentPhase=BRAINTEASERS»
 1. [Filbert] 
 2. [Cherry, Cypress, Laurel, Madrone] 
 3. [Catalpa, Sycamore] 
@@ -139,7 +139,7 @@
 11. [Cherry, Cypress, Laurel, Madrone] 
 12. [Basswood, Chestnut, Horsechestnut, Sassafras] 
 
-«rot=0 column=2, currentPhase=HEADQUARTERS»
+«rot=0 column=3, currentPhase=HEADQUARTERS»
 1. [Ash, Mahogany] 
 2. [Beech, Cherry, Chestnut, Sweetgum] 
 3. [Pear, Shadbush] 
@@ -153,7 +153,7 @@
 11. [Birch, Fir, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 12. [Basswood, Sassafras] 
 
-«rot=0 column=3, currentPhase=BRAINTEASERS»
+«rot=0 column=4, currentPhase=BRAINTEASERS»
 1. [Filbert] 
 2. [Cherry, Cypress, Laurel, Madrone, Pear] 
 3. [Catalpa, Cedar, Sycamore] 
@@ -167,7 +167,7 @@
 11. [Cherry, Cypress, Laurel, Madrone, Pear] 
 12. [Basswood, Chestnut, Horsechestnut, Sassafras] 
 
-«rot=0 column=2, currentPhase=GAMESMANSHIP»
+«rot=0 column=3, currentPhase=GAMESMANSHIP»
 1. [Dogwood] 
 2. [Pear, Shadbush] 
 3. [Elm, Hemlock] 
@@ -181,7 +181,7 @@
 11. [Chinkapin, Olive] 
 12. [Apple, Aspen, Cypress, Maple, Poplar] 
 
-«rot=0 column=3, currentPhase=TEAMSOLUTION»
+«rot=0 column=4, currentPhase=TEAMSOLUTION»
 1. [Butternut, Cottonwood, Hawthorn, Myrtle] 
 2. [Alder, Aspen, Hazel, Honeylocust, Pine, Sweetgum] 
 3. [Catalpa, Cedar, Sycamore] 
@@ -195,7 +195,7 @@
 11. [Arborvitae, Mahogany] 
 12. [Chinkapin, Hornbeam, Walnut] 
 
-«rot=0 column=2, currentPhase=BEWILDERMENT»
+«rot=0 column=3, currentPhase=BEWILDERMENT»
 1. [Arborvitae] 
 2. [Beech, Cherry, Chestnut, Sweetgum] 
 3. [Hawthorn] 
@@ -209,7 +209,7 @@
 11. [Honeylocust, Juniper, Pine] 
 12. [Butternut, Catalpa, Cottonwood] 
 
-«rot=0 column=2, currentPhase=BRAINTEASERS»
+«rot=0 column=3, currentPhase=BRAINTEASERS»
 1. [Arborvitae] 
 2. [Birch, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 3. [Pear, Shadbush] 
@@ -223,7 +223,7 @@
 11. [Birch, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 12. [Basswood, Sassafras] 
 
-«rot=0 column=2, currentPhase=BEWILDERMENT»
+«rot=0 column=3, currentPhase=BEWILDERMENT»
 1. [Arborvitae] 
 2. [Cherry, Chestnut, Sweetgum] 
 3. [Hawthorn] 
@@ -237,7 +237,7 @@
 11. [Honeylocust, Juniper] 
 12. [Butternut, Catalpa, Cottonwood] 
 
-«rot=0 column=3, currentPhase=BRAINTEASERS»
+«rot=0 column=4, currentPhase=BRAINTEASERS»
 1. [Filbert] 
 2. [Cypress, Madrone] 
 3. [Catalpa, Sycamore] 
@@ -251,7 +251,7 @@
 11. [Cypress, Madrone] 
 12. [Basswood, Chestnut, Horsechestnut, Sassafras] 
 
-«rot=0 column=2, currentPhase=BEWILDERMENT»
+«rot=0 column=3, currentPhase=BEWILDERMENT»
 1. [Arborvitae] 
 2. [Beech, Cherry, Chestnut, Sweetgum] 
 3. [Hawthorn] 
@@ -265,7 +265,7 @@
 11. [Honeylocust, Juniper] 
 12. [Butternut, Catalpa, Cottonwood] 
 
-«rot=1 column=2, currentPhase=ACHIEVEMENTS»
+«rot=1 column=3, currentPhase=ACHIEVEMENTS»
 1. [Hazel] 
 2. [Arborvitae] 
 3. [Dogwood] 
@@ -279,7 +279,7 @@
 11. [Basswood, Sassafras] 
 12. [Birch, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 
-«rot=1 column=2, currentPhase=SOLUTIONTEAM»
+«rot=1 column=3, currentPhase=SOLUTIONTEAM»
 1. [Birch, Fir, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 2. [Honeylocust, Juniper, Pine] 
 3. [Oak] 
@@ -293,7 +293,7 @@
 11. [Hazel] 
 12. [Filbert, Holly, Tulip, Walnut, Willow] 
 
-«rot=1 column=2, currentPhase=ACHIEVEMENTS»
+«rot=1 column=3, currentPhase=ACHIEVEMENTS»
 1. [Hazel] 
 2. [Arborvitae] 
 3. [Dogwood] 
@@ -307,7 +307,7 @@
 11. [Basswood, Sassafras] 
 12. [Birch, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 
-«rot=1 column=2, currentPhase=OBFUSCATIONS»
+«rot=1 column=3, currentPhase=OBFUSCATIONS»
 1. [Honeylocust, Juniper, Pine] 
 2. [Pear, Shadbush] 
 3. [Beech, Cherry, Chestnut, Sweetgum] 
@@ -321,7 +321,7 @@
 11. [Hemlock] 
 12. [Birch, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 
-«rot=1 column=2, currentPhase=OBFUSCATIONS»
+«rot=1 column=3, currentPhase=OBFUSCATIONS»
 1. [Honeylocust, Juniper, Pine] 
 2. [Pear, Shadbush] 
 3. [Beech, Cherry, Chestnut, Sweetgum] 
@@ -335,7 +335,7 @@
 11. [Elm, Hemlock] 
 12. [Birch, Fir, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 
-«rot=1 column=2, currentPhase=BEFUDDLEMENT»
+«rot=1 column=3, currentPhase=BEFUDDLEMENT»
 1. [Pear, Shadbush] 
 2. [Alder, Cedar, Madrone] 
 3. [Beech, Cherry, Chestnut, Sweetgum] 
@@ -349,7 +349,7 @@
 11. [Elm, Hemlock] 
 12. [Basswood, Sassafras] 
 
-«rot=1 column=2, currentPhase=ACHIEVEMENTS»
+«rot=1 column=3, currentPhase=ACHIEVEMENTS»
 1. [Hazel] 
 2. [Arborvitae] 
 3. [Dogwood] 
@@ -363,7 +363,7 @@
 11. [Basswood, Sassafras] 
 12. [Birch, Fir, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 
-«rot=1 column=2, currentPhase=TEAMSOLUTION»
+«rot=1 column=3, currentPhase=TEAMSOLUTION»
 1. [Basswood, Sassafras] 
 2. [Alder, Cedar, Madrone] 
 3. [Hazel] 
@@ -377,7 +377,7 @@
 11. [Honeylocust, Juniper, Pine] 
 12. [Elm, Hemlock] 
 
-«rot=1 column=2, currentPhase=OBFUSCATIONS»
+«rot=1 column=3, currentPhase=OBFUSCATIONS»
 1. [Honeylocust, Juniper] 
 2. [Shadbush] 
 3. [Beech, Cherry, Chestnut, Sweetgum] 
@@ -391,7 +391,7 @@
 11. [Hemlock] 
 12. [Birch, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 
-«rot=2 column=2, currentPhase=CREDITREPORT»
+«rot=2 column=3, currentPhase=CREDITREPORT»
 1. [Shadbush] 
 2. [Apple, Aspen, Cypress, Maple, Poplar] 
 3. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
@@ -405,7 +405,7 @@
 11. [Apple, Aspen, Cypress, Maple, Poplar] 
 12. [Birch, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 
-«rot=2 column=2, currentPhase=CREDITREPORT»
+«rot=2 column=3, currentPhase=CREDITREPORT»
 1. [Pear, Shadbush] 
 2. [Apple, Aspen, Cypress, Maple, Poplar] 
 3. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
@@ -419,7 +419,7 @@
 11. [Apple, Aspen, Cypress, Maple, Poplar] 
 12. [Birch, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 
-«rot=2 column=2, currentPhase=CREDITREPORT»
+«rot=2 column=3, currentPhase=CREDITREPORT»
 1. [Pear, Shadbush] 
 2. [Apple, Aspen, Cypress, Maple, Poplar] 
 3. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
@@ -433,7 +433,7 @@
 11. [Apple, Aspen, Cypress, Maple, Poplar] 
 12. [Birch, Fir, Hornbeam, Horsechestnut, Larch, Myrtle, Spruce] 
 
-«rot=4 column=2, currentPhase=MULTILAYERED»
+«rot=4 column=3, currentPhase=MULTILAYERED»
 1. [Chinkapin, Olive] 
 2. [Sequoia] 
 3. [Ash, Mahogany] 
@@ -447,7 +447,7 @@
 11. [Pear, Shadbush] 
 12. [Hazel] 
 
-«rot=6 column=2, currentPhase=SATISFACTION»
+«rot=6 column=3, currentPhase=SATISFACTION»
 1. [Elm, Hemlock] 
 2. [Laurel, Plum] 
 3. [Honeylocust, Juniper, Pine] 
@@ -461,7 +461,7 @@
 11. [Chinkapin, Olive] 
 12. [Ash, Mahogany] 
 
-«rot=8 column=2, currentPhase=CKVALUESHOPE»
+«rot=8 column=3, currentPhase=CKVALUESHOPE»
 1. [Laurel, Plum] 
 2. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
 3. [Honeylocust, Juniper, Pine] 
@@ -475,7 +475,7 @@
 11. [Ash, Mahogany] 
 12. [Hawthorn, Yew] 
 
-«rot=8 column=2, currentPhase=EMPATHICALLY»
+«rot=8 column=3, currentPhase=EMPATHICALLY»
 1. [Hawthorn] 
 2. [Beech, Cherry, Chestnut, Sweetgum] 
 3. [Mahogany] 
@@ -489,7 +489,7 @@
 11. [Alder, Cedar, Madrone] 
 12. [Sequoia] 
 
-«rot=8 column=2, currentPhase=EMPATHICALLY»
+«rot=8 column=3, currentPhase=EMPATHICALLY»
 1. [Hawthorn, Yew] 
 2. [Beech, Cherry, Chestnut, Sweetgum] 
 3. [Ash, Mahogany] 
@@ -503,7 +503,7 @@
 11. [Alder, Cedar, Madrone] 
 12. [Sequoia] 
 
-«rot=8 column=2, currentPhase=EMPATHICALLY»
+«rot=8 column=3, currentPhase=EMPATHICALLY»
 1. [Hawthorn] 
 2. [Beech, Cherry, Chestnut, Sweetgum] 
 3. [Mahogany] 
@@ -517,7 +517,7 @@
 11. [Alder, Cedar, Madrone] 
 12. [Sequoia] 
 
-«rot=11 column=2, currentPhase=MONEYLENDERS»
+«rot=11 column=3, currentPhase=MONEYLENDERS»
 1. [Arborvitae] 
 2. [Alder, Cedar, Madrone] 
 3. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
@@ -531,7 +531,7 @@
 11. [Dogwood] 
 12. [Mahogany] 
 
-«rot=11 column=2, currentPhase=MONEYLENDERS»
+«rot=11 column=3, currentPhase=MONEYLENDERS»
 1. [Arborvitae] 
 2. [Alder, Cedar, Madrone] 
 3. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
@@ -545,7 +545,7 @@
 11. [Dogwood] 
 12. [Mahogany] 
 
-«rot=11 column=2, currentPhase=MONEYLENDERS»
+«rot=11 column=3, currentPhase=MONEYLENDERS»
 1. [Arborvitae] 
 2. [Madrone] 
 3. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
@@ -559,7 +559,7 @@
 11. [Dogwood] 
 12. [Mahogany] 
 
-«rot=11 column=2, currentPhase=MONEYLENDERS»
+«rot=11 column=3, currentPhase=MONEYLENDERS»
 1. [Arborvitae] 
 2. [Madrone] 
 3. [Buckeye, Buckthorn, Hickory, Sycamore] 
@@ -573,7 +573,7 @@
 11. [Dogwood] 
 12. [Mahogany] 
 
-«rot=11 column=2, currentPhase=MONEYLENDERS»
+«rot=11 column=3, currentPhase=MONEYLENDERS»
 1. [Arborvitae] 
 2. [Alder, Cedar, Madrone] 
 3. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
@@ -587,7 +587,7 @@
 11. [Dogwood] 
 12. [Ash, Mahogany] 
 
-«rot=12 column=0, currentPhase=FAVORITETREE»
+«rot=12 column=1, currentPhase=FAVORITETREE»
 1. [Tulip] 
 2. [Oak, Olive] 
 3. [Juniper] 
@@ -601,7 +601,7 @@
 11. [Sassafras, Sequoia, Shadbush, Spruce, Sweetgum, Sycamore] 
 12. [Sassafras, Sequoia, Shadbush, Spruce, Sweetgum, Sycamore] 
 
-«rot=13 column=5, currentPhase=ALPHABETICAL»
+«rot=13 column=6, currentPhase=ALPHABETICAL»
 1. [Chestnut, Cottonwood, Madrone] 
 2. [Buckeye, Cherry] 
 3. [Hemlock, Horsechestnut] 
@@ -615,7 +615,7 @@
 11. [Chestnut, Cottonwood, Madrone] 
 12. [Buckeye, Cherry] 
 
-«rot=15 column=2, currentPhase=FREETAXPREPS»
+«rot=15 column=3, currentPhase=FREETAXPREPS»
 1. [Sequoia] 
 2. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
 3. [Apple, Aspen, Cypress, Maple, Poplar] 
@@ -629,7 +629,7 @@
 11. [Pear, Shadbush] 
 12. [Alder, Cedar, Madrone] 
 
-«rot=15 column=2, currentPhase=FAVORITETREE»
+«rot=15 column=3, currentPhase=FAVORITETREE»
 1. [Sequoia] 
 2. [Filbert, Holly, Tulip, Walnut, Willow] 
 3. [Dogwood] 
@@ -643,7 +643,7 @@
 11. [Apple, Aspen, Cypress, Maple, Poplar] 
 12. [Apple, Aspen, Cypress, Maple, Poplar] 
 
-«rot=15 column=2, currentPhase=FAVORITETREE»
+«rot=15 column=3, currentPhase=FAVORITETREE»
 1. [Sequoia] 
 2. [Filbert, Holly, Tulip, Walnut, Willow] 
 3. [Dogwood] 
@@ -657,7 +657,7 @@
 11. [Apple, Aspen, Cypress, Maple, Poplar] 
 12. [Apple, Aspen, Cypress, Maple, Poplar] 
 
-«rot=15 column=0, currentPhase=HEADQUARTERS»
+«rot=15 column=1, currentPhase=HEADQUARTERS»
 1. [Sassafras, Sequoia, Shadbush, Spruce, Sweetgum, Sycamore] 
 2. [Pear, Pine, Plum, Poplar] 
 3. [Larch, Laurel, Locust] 
@@ -671,7 +671,7 @@
 11. [Catalpa, Cedar, Cherry, Chestnut, Chinkapin, Cottonwood, Cypress] 
 12. [Dogwood] 
 
-«rot=15 column=2, currentPhase=FAVORITETREE»
+«rot=15 column=3, currentPhase=FAVORITETREE»
 1. [Sequoia] 
 2. [Filbert, Holly, Tulip, Walnut, Willow] 
 3. [Dogwood] 
@@ -685,7 +685,7 @@
 11. [Apple, Aspen, Cypress, Maple, Poplar] 
 12. [Apple, Aspen, Cypress, Maple, Poplar] 
 
-«rot=15 column=2, currentPhase=ALPHABETICAL»
+«rot=15 column=3, currentPhase=ALPHABETICAL»
 1. [Filbert, Holly, Tulip, Walnut, Willow] 
 2. [Hawthorn, Yew] 
 3. [Pear, Shadbush] 
@@ -699,7 +699,7 @@
 11. [Filbert, Holly, Tulip, Walnut, Willow] 
 12. [Hawthorn, Yew] 
 
-«rot=15 column=2, currentPhase=FREETAXPREPS»
+«rot=15 column=3, currentPhase=FREETAXPREPS»
 1. [Sequoia] 
 2. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
 3. [Apple, Aspen, Cypress, Maple, Poplar] 
@@ -713,7 +713,7 @@
 11. [Pear, Shadbush] 
 12. [Alder, Cedar, Madrone] 
 
-«rot=18 column=2, currentPhase=MULTILAYERED»
+«rot=18 column=3, currentPhase=MULTILAYERED»
 1. [Laurel, Plum] 
 2. [Buckeye, Buckthorn, Hickory, Locust, Sycamore] 
 3. [Butternut, Catalpa, Cottonwood] 
@@ -727,7 +727,7 @@
 11. [Elm, Hemlock] 
 12. [Filbert, Holly, Tulip, Walnut, Willow] 
 
-«rot=19 column=3, currentPhase=BEFUDDLEMENT»
+«rot=19 column=4, currentPhase=BEFUDDLEMENT»
 1. [Juniper, Tulip] 
 2. [Apple, Hemlock, Holly, Maple, Poplar, Willow] 
 3. [Plum] 
@@ -741,7 +741,7 @@
 11. [Locust, Sequoia, Spruce] 
 12. [Catalpa, Cedar, Sycamore] 
 
-«rot=19 column=0, currentPhase=EMPATHICALLY»
+«rot=19 column=1, currentPhase=EMPATHICALLY»
 1. [Larch, Laurel, Locust] 
 2. [Tulip] 
 3. [Walnut, Willow] 
@@ -755,7 +755,7 @@
 11. [Sassafras, Sequoia, Shadbush, Spruce, Sweetgum, Sycamore] 
 12. [Filbert, Fir] 
 
-«rot=19 column=0, currentPhase=EMPATHICALLY»
+«rot=19 column=1, currentPhase=EMPATHICALLY»
 1. [Larch, Laurel, Locust] 
 2. [Tulip] 
 3. [Walnut, Willow] 
@@ -769,7 +769,7 @@
 11. [Sassafras, Sequoia, Shadbush, Spruce, Sweetgum, Sycamore] 
 12. [Filbert] 
 
-«rot=19 column=0, currentPhase=EMPATHICALLY»
+«rot=19 column=1, currentPhase=EMPATHICALLY»
 1. [Larch, Laurel, Locust] 
 2. [Tulip] 
 3. [Walnut, Willow] 
@@ -783,7 +783,7 @@
 11. [Sassafras, Sequoia, Shadbush, Spruce, Sweetgum, Sycamore] 
 12. [Filbert] 
 
-«rot=24 column=2, currentPhase=CKEXPANSIONS»
+«rot=24 column=3, currentPhase=CKEXPANSIONS»
 1. [Beech, Cherry, Chestnut, Sweetgum] 
 2. [Elm, Hemlock] 
 3. [Dogwood] 

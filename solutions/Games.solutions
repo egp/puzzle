@@ -1,5 +1,5 @@
 
-«rot=0 column=5, currentPhase=MONEYLENDERS»
+«rot=0 column=6, currentPhase=MONEYLENDERS»
 1. [SuperMario] 
 2. [Pokemon, Psychonauts] 
 3. [DragonAge, Fandango, GoldenEye, Spelunky, Wolfenstein] 
@@ -13,7 +13,7 @@
 11. [Borderlands, GuitarHero, Minecraft, StarCraft, Uncharted] 
 12. [Tempest] 
 
-«rot=0 column=3, currentPhase=BILLIONAIRES»
+«rot=0 column=4, currentPhase=BILLIONAIRES»
 1. [Diablo, DoubleDragon, TombRaider] 
 2. [Braid, Civilization, MarioBrothers, Sonic] 
 3. [CallOfDuty, Fallout, SoulCaliber, Spelunky] 
@@ -27,7 +27,7 @@
 11. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 12. [MassEffect] 
 
-«rot=0 column=4, currentPhase=MILLIONAIRES»
+«rot=0 column=5, currentPhase=MILLIONAIRES»
 1. [MegaMan, Pokemon] 
 2. [Okami, SimCity, Tetris] 
 3. [Castlevania, Civilization, Diablo, DoubleDragon, FinalFantasy, HalfLife] 
@@ -41,7 +41,7 @@
 11. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Quake, Tekken, Tempest, Wolfenstein] 
 12. [KingsQuest] 
 
-«rot=0 column=4, currentPhase=MEETINGROOMS»
+«rot=0 column=5, currentPhase=MEETINGROOMS»
 1. [MegaMan, Pokemon] 
 2. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Quake, Tekken, Tempest, Wolfenstein] 
 3. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Quake, Tekken, Tempest, Wolfenstein] 
@@ -55,7 +55,7 @@
 11. [MegaMan, Pokemon] 
 12. [KingsQuest] 
 
-«rot=0 column=3, currentPhase=CREDITREPORT»
+«rot=0 column=4, currentPhase=CREDITREPORT»
 1. [Psychonauts, SimCity, Warcraft] 
 2. [AngryBirds, Metroid, StarCraft] 
 3. [Minecraft, Pokemon, SilentHill, SuperMario] 
@@ -69,7 +69,7 @@
 11. [AngryBirds, Metroid, StarCraft] 
 12. [Castlevania, EarthBound, GuitarHero] 
 
-«rot=0 column=5, currentPhase=TEAMSOLUTION»
+«rot=0 column=6, currentPhase=TEAMSOLUTION»
 1. [SilentHill, SimCity] 
 2. [Castlevania, DoubleDragon, Xenogears] 
 3. [Contra, Galaga, MechWarrior, MegaMan, SoulCaliber, TombRaider, Warcraft] 
@@ -83,7 +83,7 @@
 11. [Diablo, Pokemon, Psychonauts] 
 12. [DragonAge, Fandango, GoldenEye, PacMan, Spelunky, Tekken, Wolfenstein] 
 
-«rot=0 column=4, currentPhase=MEETINGROOMS»
+«rot=0 column=5, currentPhase=MEETINGROOMS»
 1. [MegaMan, Pokemon] 
 2. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Tekken, Tempest, Wolfenstein] 
 3. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Tekken, Tempest, Wolfenstein] 
@@ -97,7 +97,7 @@
 11. [MegaMan, Pokemon] 
 12. [KingsQuest] 
 
-«rot=0 column=4, currentPhase=TECHNOLOGIES»
+«rot=0 column=5, currentPhase=TECHNOLOGIES»
 1. [Gauntlet] 
 2. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Tekken, Tempest, Wolfenstein] 
 3. [Minecraft, SoulCaliber, StarCraft] 
@@ -111,7 +111,7 @@
 11. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Tekken, Tempest, Wolfenstein] 
 12. [KingsQuest] 
 
-«rot=0 column=4, currentPhase=MEETINGROOMS»
+«rot=0 column=5, currentPhase=MEETINGROOMS»
 1. [MegaMan, Pokemon] 
 2. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Tempest, Wolfenstein] 
 3. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Tempest, Wolfenstein] 
@@ -125,7 +125,7 @@
 11. [MegaMan, Pokemon] 
 12. [KingsQuest] 
 
-«rot=0 column=3, currentPhase=CREDITREPORT»
+«rot=0 column=4, currentPhase=CREDITREPORT»
 1. [Psychonauts, SimCity, Warcraft] 
 2. [AngryBirds, Metroid, StarCraft, Tetris] 
 3. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
@@ -139,7 +139,7 @@
 11. [AngryBirds, Metroid, StarCraft, Tetris] 
 12. [Castlevania, Contra, EarthBound, GuitarHero, Myst] 
 
-«rot=0 column=4, currentPhase=MULTILAYERED»
+«rot=0 column=5, currentPhase=MULTILAYERED»
 1. [MegaMan, Pokemon] 
 2. [Spelunky] 
 3. [Castlevania, Civilization, Diablo, DoubleDragon, FinalFantasy, HalfLife] 
@@ -153,7 +153,7 @@
 11. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Quake, Tekken, Tempest, Wolfenstein] 
 12. [Braid] 
 
-«rot=0 column=4, currentPhase=TECHNOLOGIES»
+«rot=0 column=5, currentPhase=TECHNOLOGIES»
 1. [Gauntlet] 
 2. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Tempest, Wolfenstein] 
 3. [Minecraft, SoulCaliber, StarCraft] 
@@ -167,7 +167,7 @@
 11. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Tempest, Wolfenstein] 
 12. [KingsQuest] 
 
-«rot=0 column=5, currentPhase=SOLUTIONTEAM»
+«rot=0 column=6, currentPhase=SOLUTIONTEAM»
 1. [Tempest] 
 2. [Pokemon, Psychonauts] 
 3. [Gauntlet] 
@@ -181,7 +181,7 @@
 11. [MechWarrior, MegaMan, SoulCaliber, TombRaider, Warcraft] 
 12. [SuperMario] 
 
-«rot=0 column=3, currentPhase=BILLIONAIRES»
+«rot=0 column=4, currentPhase=BILLIONAIRES»
 1. [Diablo, DoubleDragon, TombRaider] 
 2. [Braid, Civilization, MarioBrothers, Sonic] 
 3. [CallOfDuty, Fallout, SoulCaliber, Spelunky] 
@@ -195,7 +195,7 @@
 11. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 12. [MassEffect] 
 
-«rot=0 column=3, currentPhase=MILLIONAIRES»
+«rot=0 column=4, currentPhase=MILLIONAIRES»
 1. [Okami, PacMan] 
 2. [Braid, Civilization, MarioBrothers, Sonic] 
 3. [CallOfDuty, Fallout, SoulCaliber, Spelunky] 
@@ -209,7 +209,7 @@
 11. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 12. [MassEffect] 
 
-«rot=0 column=4, currentPhase=MONEYLENDERS»
+«rot=0 column=5, currentPhase=MONEYLENDERS»
 1. [MegaMan, Pokemon] 
 2. [CallOfDuty, DragonAge, Fallout, MarioBrothers, Metroid, Suikoden] 
 3. [Riven, SilentHill] 
@@ -223,7 +223,7 @@
 11. [Contra, SuperMario, TombRaider, Warcraft] 
 12. [KingsQuest] 
 
-«rot=0 column=3, currentPhase=MEETINGROOMS»
+«rot=0 column=4, currentPhase=MEETINGROOMS»
 1. [Okami, PacMan] 
 2. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 3. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
@@ -237,7 +237,7 @@
 11. [Okami, PacMan] 
 12. [MassEffect] 
 
-«rot=0 column=3, currentPhase=MILLIONAIRES»
+«rot=0 column=4, currentPhase=MILLIONAIRES»
 1. [Okami, PacMan] 
 2. [Braid, Civilization, MarioBrothers, Sonic] 
 3. [CallOfDuty, Fallout, SoulCaliber, Spelunky] 
@@ -251,7 +251,7 @@
 11. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 12. [MassEffect] 
 
-«rot=0 column=5, currentPhase=TEAMSOLUTION»
+«rot=0 column=6, currentPhase=TEAMSOLUTION»
 1. [SilentHill, SimCity] 
 2. [Castlevania, DoubleDragon, Xenogears] 
 3. [MechWarrior, MegaMan, SoulCaliber, TombRaider, Warcraft] 
@@ -265,7 +265,7 @@
 11. [Pokemon, Psychonauts] 
 12. [DragonAge, Fandango, GoldenEye, Spelunky, Wolfenstein] 
 
-«rot=0 column=3, currentPhase=ALPHABETICAL»
+«rot=0 column=4, currentPhase=ALPHABETICAL»
 1. [FinalFantasy, Galaga, MegaMan] 
 2. [CallOfDuty, Fallout, SoulCaliber, Spelunky] 
 3. [Tempest] 
@@ -279,7 +279,7 @@
 11. [FinalFantasy, Galaga, MegaMan] 
 12. [CallOfDuty, Fallout, SoulCaliber, Spelunky] 
 
-«rot=0 column=3, currentPhase=CREDITREPORT»
+«rot=0 column=4, currentPhase=CREDITREPORT»
 1. [Psychonauts, SimCity, Warcraft] 
 2. [AngryBirds, Metroid, StarCraft, Tetris] 
 3. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
@@ -293,7 +293,7 @@
 11. [AngryBirds, Metroid, StarCraft, Tetris] 
 12. [Castlevania, Contra, EarthBound, GuitarHero] 
 
-«rot=0 column=5, currentPhase=SOLUTIONTEAM»
+«rot=0 column=6, currentPhase=SOLUTIONTEAM»
 1. [Tempest, Tetris] 
 2. [Diablo, Pokemon, Psychonauts] 
 3. [Gauntlet] 
@@ -307,7 +307,7 @@
 11. [Contra, Galaga, MechWarrior, MegaMan, SoulCaliber, TombRaider, Warcraft] 
 12. [SuperMario] 
 
-«rot=0 column=3, currentPhase=ACCOMPLISHED»
+«rot=0 column=4, currentPhase=ACCOMPLISHED»
 1. [FinalFantasy, Galaga, MegaMan] 
 2. [Psychonauts, SimCity, Warcraft] 
 3. [Psychonauts, SimCity, Warcraft] 
@@ -321,7 +321,7 @@
 11. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 12. [Borderlands, Fandango, GoldenEye, Zelda] 
 
-«rot=0 column=3, currentPhase=CREDITREPORT»
+«rot=0 column=4, currentPhase=CREDITREPORT»
 1. [Psychonauts, SimCity, Warcraft] 
 2. [AngryBirds, Metroid, StarCraft, Tetris] 
 3. [Minecraft, Pokemon, SilentHill, SuperMario] 
@@ -335,7 +335,7 @@
 11. [AngryBirds, Metroid, StarCraft, Tetris] 
 12. [Castlevania, Contra, EarthBound, GuitarHero] 
 
-«rot=0 column=5, currentPhase=MONEYLENDERS»
+«rot=0 column=6, currentPhase=MONEYLENDERS»
 1. [SuperMario] 
 2. [Diablo, Pokemon, Psychonauts] 
 3. [DragonAge, Fandango, GoldenEye, PacMan, Spelunky, Tekken, Wolfenstein] 
@@ -349,7 +349,7 @@
 11. [Borderlands, GuitarHero, Minecraft, StarCraft, Uncharted] 
 12. [Tempest, Tetris] 
 
-«rot=0 column=3, currentPhase=ACCOMPLISHED»
+«rot=0 column=4, currentPhase=ACCOMPLISHED»
 1. [FinalFantasy, Galaga, MegaMan] 
 2. [Psychonauts, SimCity, Warcraft] 
 3. [Psychonauts, SimCity, Warcraft] 
@@ -363,7 +363,7 @@
 11. [Minecraft, Pokemon, SilentHill, SuperMario] 
 12. [Borderlands, Fandango, GoldenEye] 
 
-«rot=0 column=3, currentPhase=METAMORPHOSE»
+«rot=0 column=4, currentPhase=METAMORPHOSE»
 1. [Okami, PacMan] 
 2. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 3. [Castlevania, Contra, EarthBound, GuitarHero, Myst] 
@@ -377,7 +377,7 @@
 11. [MassEffect] 
 12. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 
-«rot=0 column=3, currentPhase=ACCOMPLISHED»
+«rot=0 column=4, currentPhase=ACCOMPLISHED»
 1. [Dota, FinalFantasy, Galaga, MegaMan] 
 2. [Psychonauts, SimCity, Warcraft] 
 3. [Psychonauts, SimCity, Warcraft] 
@@ -391,7 +391,7 @@
 11. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 12. [Borderlands, Fandango, GoldenEye, Zelda] 
 
-«rot=0 column=5, currentPhase=BRAINTEASERS»
+«rot=0 column=6, currentPhase=BRAINTEASERS»
 1. [AngryBirds, EarthBound, MarioBrothers] 
 2. [Borderlands, GuitarHero, Minecraft, StarCraft, Uncharted] 
 3. [Contra, Galaga, MechWarrior, MegaMan, SoulCaliber, TombRaider, Warcraft] 
@@ -405,7 +405,7 @@
 11. [Borderlands, GuitarHero, Minecraft, StarCraft, Uncharted] 
 12. [Tempest, Tetris] 
 
-«rot=0 column=3, currentPhase=ALPHABETICAL»
+«rot=0 column=4, currentPhase=ALPHABETICAL»
 1. [FinalFantasy, Galaga, MegaMan] 
 2. [CallOfDuty, Fallout, SoulCaliber, Spelunky] 
 3. [Tempest] 
@@ -419,7 +419,7 @@
 11. [FinalFantasy, Galaga, MegaMan] 
 12. [CallOfDuty, Fallout, SoulCaliber, Spelunky] 
 
-«rot=0 column=4, currentPhase=TECHNOLOGIES»
+«rot=0 column=5, currentPhase=TECHNOLOGIES»
 1. [Gauntlet] 
 2. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Quake, Tekken, Tempest, Wolfenstein] 
 3. [Minecraft, Sonic, SoulCaliber, StarCraft] 
@@ -433,7 +433,7 @@
 11. [Borderlands, DonkeyKong, GoldenEye, MassEffect, MonkeyIsland, Quake, Tekken, Tempest, Wolfenstein] 
 12. [KingsQuest] 
 
-«rot=0 column=3, currentPhase=ALPHABETICAL»
+«rot=0 column=4, currentPhase=ALPHABETICAL»
 1. [Dota, FinalFantasy, Galaga, MegaMan] 
 2. [CallOfDuty, Fallout, SoulCaliber, Spelunky] 
 3. [Tempest] 
@@ -447,7 +447,7 @@
 11. [Dota, FinalFantasy, Galaga, MegaMan] 
 12. [CallOfDuty, Fallout, SoulCaliber, Spelunky] 
 
-«rot=0 column=3, currentPhase=TECHNOLOGIES»
+«rot=0 column=4, currentPhase=TECHNOLOGIES»
 1. [Castlevania, Contra, EarthBound, GuitarHero, Myst] 
 2. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 3. [Psychonauts, SimCity, Warcraft] 
@@ -461,7 +461,7 @@
 11. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 12. [MassEffect] 
 
-«rot=1 column=3, currentPhase=BEFUDDLEMENT»
+«rot=1 column=4, currentPhase=BEFUDDLEMENT»
 1. [Dota, FinalFantasy, Galaga, MegaMan] 
 2. [Borderlands, Fandango, GoldenEye, Zelda] 
 3. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
@@ -475,7 +475,7 @@
 11. [Okami, PacMan] 
 12. [MassEffect] 
 
-«rot=1 column=3, currentPhase=BEFUDDLEMENT»
+«rot=1 column=4, currentPhase=BEFUDDLEMENT»
 1. [FinalFantasy, Galaga, MegaMan] 
 2. [Borderlands, Fandango, GoldenEye, Zelda] 
 3. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
@@ -489,7 +489,7 @@
 11. [Okami, PacMan] 
 12. [MassEffect] 
 
-«rot=1 column=3, currentPhase=BEFUDDLEMENT»
+«rot=1 column=4, currentPhase=BEFUDDLEMENT»
 1. [FinalFantasy, Galaga, MegaMan] 
 2. [Borderlands, Fandango, GoldenEye] 
 3. [Minecraft, Pokemon, SilentHill, SuperMario] 
@@ -503,7 +503,7 @@
 11. [PacMan] 
 12. [MassEffect] 
 
-«rot=7 column=3, currentPhase=MOTIVATIONAL»
+«rot=7 column=4, currentPhase=MOTIVATIONAL»
 1. [HalfLife, Wolfenstein] 
 2. [MechWarrior, Uncharted] 
 3. [Okami, PacMan] 
@@ -517,7 +517,7 @@
 11. [Castlevania, Contra, EarthBound, GuitarHero] 
 12. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 
-«rot=7 column=0, currentPhase=MOTIVATIONAL»
+«rot=7 column=1, currentPhase=MOTIVATIONAL»
 1. [Fallout, Fandango, FinalFantasy] 
 2. [HalfLife, Halo] 
 3. [MarioBrothers, MassEffect, MechWarrior, MegaMan, Metroid, Minecraft, MonkeyIsland, Myst] 
@@ -531,7 +531,7 @@
 11. [Tekken, Tempest, Tetris, TombRaider] 
 12. [EarthBound] 
 
-«rot=7 column=3, currentPhase=MOTIVATIONAL»
+«rot=7 column=4, currentPhase=MOTIVATIONAL»
 1. [HalfLife, Wolfenstein] 
 2. [MechWarrior, Uncharted] 
 3. [Okami, PacMan] 
@@ -545,7 +545,7 @@
 11. [Castlevania, Contra, EarthBound, GuitarHero, Myst] 
 12. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 
-«rot=11 column=0, currentPhase=SHAREHOLDERS»
+«rot=11 column=1, currentPhase=SHAREHOLDERS»
 1. [HalfLife, Halo] 
 2. [Warcraft, Wolfenstein] 
 3. [PacMan, Pokemon, Pong, Psychonauts] 
@@ -559,7 +559,7 @@
 11. [Galaga, Gauntlet, GoldenEye, GuitarHero] 
 12. [HalfLife, Halo] 
 
-«rot=11 column=3, currentPhase=MONEYLENDERS»
+«rot=11 column=4, currentPhase=MONEYLENDERS»
 1. [DoubleDragon, TombRaider] 
 2. [Borderlands, Fandango, GoldenEye] 
 3. [Psychonauts, Warcraft] 
@@ -573,7 +573,7 @@
 11. [DragonAge, KingsQuest] 
 12. [MechWarrior, Uncharted] 
 
-«rot=11 column=0, currentPhase=CKEXPANSIONS»
+«rot=11 column=1, currentPhase=CKEXPANSIONS»
 1. [Riven] 
 2. [Zelda, Zork] 
 3. [Tekken, Tempest, Tetris, TombRaider] 
@@ -587,7 +587,7 @@
 11. [Castlevania, CallOfDuty, Civilization, Contra] 
 12. [HalfLife, Halo] 
 
-«rot=11 column=3, currentPhase=MONEYLENDERS»
+«rot=11 column=4, currentPhase=MONEYLENDERS»
 1. [Diablo, DoubleDragon, TombRaider] 
 2. [Borderlands, Fandango, GoldenEye, Zelda] 
 3. [Psychonauts, SimCity, Warcraft] 
@@ -601,7 +601,7 @@
 11. [DragonAge, KingsQuest] 
 12. [MechWarrior, Uncharted] 
 
-«rot=11 column=3, currentPhase=MONEYLENDERS»
+«rot=11 column=4, currentPhase=MONEYLENDERS»
 1. [Diablo, DoubleDragon, TombRaider] 
 2. [Borderlands, Fandango, GoldenEye, Zelda] 
 3. [Psychonauts, SimCity, Warcraft] 
@@ -615,7 +615,7 @@
 11. [DragonAge, KingsQuest, Pong] 
 12. [MechWarrior, Uncharted] 
 
-«rot=11 column=3, currentPhase=MONEYLENDERS»
+«rot=11 column=4, currentPhase=MONEYLENDERS»
 1. [DoubleDragon, TombRaider] 
 2. [Borderlands, Fandango, GoldenEye] 
 3. [Psychonauts, SimCity, Warcraft] 
@@ -629,7 +629,7 @@
 11. [DragonAge, KingsQuest] 
 12. [MechWarrior, Uncharted] 
 
-«rot=11 column=3, currentPhase=MONEYLENDERS»
+«rot=11 column=4, currentPhase=MONEYLENDERS»
 1. [Diablo, DoubleDragon, TombRaider] 
 2. [Borderlands, Fandango, GoldenEye] 
 3. [Psychonauts, SimCity, Warcraft] 
@@ -643,7 +643,7 @@
 11. [DragonAge, KingsQuest] 
 12. [MechWarrior, Uncharted] 
 
-«rot=12 column=3, currentPhase=ANSWERSFOUND»
+«rot=12 column=4, currentPhase=ANSWERSFOUND»
 1. [Xenogears] 
 2. [DoubleDragon, TombRaider] 
 3. [DragonAge, KingsQuest] 
@@ -657,7 +657,7 @@
 11. [DoubleDragon, TombRaider] 
 12. [AngryBirds, StarCraft] 
 
-«rot=12 column=0, currentPhase=BEWILDERMENT»
+«rot=12 column=1, currentPhase=BEWILDERMENT»
 1. [PacMan, Pokemon, Pong, Psychonauts] 
 2. [SilentHill, SimCity, Sonic, SoulCaliber, Spelunky, StarCraft, SuperMario, Suikoden] 
 3. [KingsQuest] 
@@ -671,7 +671,7 @@
 11. [Borderlands, Braid] 
 12. [HalfLife, Halo] 
 
-«rot=12 column=0, currentPhase=MONEYLENDERS»
+«rot=12 column=1, currentPhase=MONEYLENDERS»
 1. [AngryBirds] 
 2. [Castlevania, CallOfDuty, Civilization, Contra] 
 3. [Borderlands, Braid] 
@@ -685,7 +685,7 @@
 11. [Fallout, Fandango, FinalFantasy] 
 12. [Galaga, Gauntlet, GoldenEye, GuitarHero] 
 
-«rot=12 column=3, currentPhase=ANSWERSFOUND»
+«rot=12 column=4, currentPhase=ANSWERSFOUND»
 1. [Xenogears] 
 2. [Diablo, DoubleDragon, TombRaider] 
 3. [DragonAge, KingsQuest] 
@@ -699,7 +699,7 @@
 11. [Diablo, DoubleDragon, TombRaider] 
 12. [AngryBirds, Metroid, StarCraft, Tetris] 
 
-«rot=12 column=0, currentPhase=MONEYLENDERS»
+«rot=12 column=1, currentPhase=MONEYLENDERS»
 1. [AngryBirds] 
 2. [Castlevania, CallOfDuty, Civilization, Contra] 
 3. [Borderlands, Braid] 
@@ -713,7 +713,7 @@
 11. [Fallout, Fandango, FinalFantasy] 
 12. [Galaga, Gauntlet, GoldenEye, GuitarHero] 
 
-«rot=12 column=3, currentPhase=ANSWERSFOUND»
+«rot=12 column=4, currentPhase=ANSWERSFOUND»
 1. [Xenogears] 
 2. [DoubleDragon, TombRaider] 
 3. [DragonAge, KingsQuest] 
@@ -727,7 +727,7 @@
 11. [DoubleDragon, TombRaider] 
 12. [AngryBirds, Metroid, StarCraft] 
 
-«rot=12 column=0, currentPhase=CREDITREPORT»
+«rot=12 column=1, currentPhase=CREDITREPORT»
 1. [Quake] 
 2. [Fallout, Fandango, FinalFantasy] 
 3. [SilentHill, SimCity, Sonic, SoulCaliber, Spelunky, StarCraft, SuperMario, Suikoden] 
@@ -741,7 +741,7 @@
 11. [Fallout, Fandango, FinalFantasy] 
 12. [HalfLife, Halo] 
 
-«rot=12 column=3, currentPhase=ANSWERSFOUND»
+«rot=12 column=4, currentPhase=ANSWERSFOUND»
 1. [Halo, Xenogears] 
 2. [Diablo, DoubleDragon, TombRaider] 
 3. [DragonAge, KingsQuest, Pong] 
@@ -755,7 +755,7 @@
 11. [Diablo, DoubleDragon, TombRaider] 
 12. [AngryBirds, Metroid, StarCraft, Tetris] 
 
-«rot=12 column=3, currentPhase=ANSWERSFOUND»
+«rot=12 column=4, currentPhase=ANSWERSFOUND»
 1. [Xenogears] 
 2. [DoubleDragon, TombRaider] 
 3. [DragonAge, KingsQuest] 
@@ -769,7 +769,7 @@
 11. [DoubleDragon, TombRaider] 
 12. [AngryBirds, StarCraft] 
 
-«rot=12 column=3, currentPhase=ANSWERSFOUND»
+«rot=12 column=4, currentPhase=ANSWERSFOUND»
 1. [Xenogears] 
 2. [Diablo, DoubleDragon, TombRaider] 
 3. [DragonAge, KingsQuest] 
@@ -783,7 +783,7 @@
 11. [Diablo, DoubleDragon, TombRaider] 
 12. [AngryBirds, Metroid, StarCraft, Tetris] 
 
-«rot=12 column=0, currentPhase=BEWILDERMENT»
+«rot=12 column=1, currentPhase=BEWILDERMENT»
 1. [PacMan, Pokemon, Psychonauts] 
 2. [SilentHill, SimCity, Sonic, SoulCaliber, Spelunky, StarCraft, SuperMario, Suikoden] 
 3. [KingsQuest] 
@@ -797,7 +797,7 @@
 11. [Borderlands, Braid] 
 12. [HalfLife] 
 
-«rot=13 column=3, currentPhase=FREETAXPREPS»
+«rot=13 column=4, currentPhase=FREETAXPREPS»
 1. [MassEffect] 
 2. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 3. [AngryBirds, Metroid, StarCraft, Tetris] 
@@ -811,7 +811,7 @@
 11. [Psychonauts, SimCity, Warcraft] 
 12. [HalfLife, Wolfenstein] 
 
-«rot=13 column=5, currentPhase=SHAREHOLDERS»
+«rot=13 column=6, currentPhase=SHAREHOLDERS»
 1. [CallOfDuty, FinalFantasy, MassEffect] 
 2. [DuckHunt, Fallout] 
 3. [DragonAge, Fandango, GoldenEye, Spelunky, Wolfenstein] 
@@ -825,7 +825,7 @@
 11. [Castlevania, DoubleDragon, Xenogears] 
 12. [CallOfDuty, FinalFantasy, MassEffect] 
 
-«rot=13 column=3, currentPhase=FREETAXPREPS»
+«rot=13 column=4, currentPhase=FREETAXPREPS»
 1. [MassEffect] 
 2. [Minecraft, Pokemon, SilentHill, SuperMario] 
 3. [AngryBirds, Metroid, StarCraft, Tetris] 
@@ -839,7 +839,7 @@
 11. [Psychonauts, SimCity, Warcraft] 
 12. [HalfLife, Wolfenstein] 
 
-«rot=13 column=3, currentPhase=FREETAXPREPS»
+«rot=13 column=4, currentPhase=FREETAXPREPS»
 1. [MassEffect] 
 2. [Minecraft, Pokemon, Riven, SilentHill, SuperMario] 
 3. [AngryBirds, Metroid, StarCraft, Tetris] 
@@ -853,7 +853,7 @@
 11. [Psychonauts, SimCity, Warcraft] 
 12. [HalfLife, Wolfenstein] 
 
-«rot=13 column=6, currentPhase=BRAINTEASERS»
+«rot=13 column=7, currentPhase=BRAINTEASERS»
 1. [EarthBound] 
 2. [Gauntlet, GoldenEye, Suikoden] 
 3. [DuckHunt, MegaMan, Pokemon, Psychonauts] 
@@ -867,7 +867,7 @@
 11. [Gauntlet, GoldenEye, Suikoden] 
 12. [HalfLife, MassEffect, Warcraft] 
 
-«rot=13 column=5, currentPhase=SHAREHOLDERS»
+«rot=13 column=6, currentPhase=SHAREHOLDERS»
 1. [CallOfDuty, FinalFantasy, MassEffect] 
 2. [DuckHunt, Fallout] 
 3. [DragonAge, Fandango, GoldenEye, PacMan, Spelunky, Tekken, Wolfenstein] 
@@ -881,7 +881,7 @@
 11. [Castlevania, DoubleDragon, Xenogears] 
 12. [CallOfDuty, FinalFantasy, MassEffect] 
 
-«rot=13 column=6, currentPhase=BRAINTEASERS»
+«rot=13 column=7, currentPhase=BRAINTEASERS»
 1. [EarthBound] 
 2. [Gauntlet, GoldenEye, Suikoden] 
 3. [DuckHunt, Psychonauts] 
@@ -895,7 +895,7 @@
 11. [Gauntlet, GoldenEye, Suikoden] 
 12. [HalfLife, MassEffect, Warcraft] 
 
-«rot=13 column=3, currentPhase=FREETAXPREPS»
+«rot=13 column=4, currentPhase=FREETAXPREPS»
 1. [MassEffect] 
 2. [Minecraft, Pokemon, SilentHill, SuperMario] 
 3. [AngryBirds, Metroid, StarCraft] 
@@ -909,7 +909,7 @@
 11. [Psychonauts, SimCity, Warcraft] 
 12. [HalfLife, Wolfenstein] 
 
-«rot=16 column=3, currentPhase=HEADQUARTERS»
+«rot=16 column=4, currentPhase=HEADQUARTERS»
 1. [AngryBirds, Metroid, StarCraft, Tetris] 
 2. [Halo, Xenogears] 
 3. [DonkeyKong, DuckHunt, MonkeyIsland, Quake, Suikoden, Tekken, Zork] 
@@ -923,7 +923,7 @@
 11. [Diablo, DoubleDragon, TombRaider] 
 12. [Psychonauts, SimCity, Warcraft] 
 
-«rot=20 column=3, currentPhase=MAGNIFICENCE»
+«rot=20 column=4, currentPhase=MAGNIFICENCE»
 1. [MassEffect] 
 2. [DragonAge, KingsQuest, Pong] 
 3. [Okami, PacMan] 
@@ -937,7 +937,7 @@
 11. [Braid, Civilization, MarioBrothers, Sonic] 
 12. [DonkeyKong, DuckHunt, MonkeyIsland, Quake, Suikoden, Tekken, Zork] 
 
-«rot=21 column=5, currentPhase=MOTIVATIONAL»
+«rot=21 column=6, currentPhase=MOTIVATIONAL»
 1. [Borderlands, GuitarHero, Minecraft, StarCraft, Uncharted] 
 2. [SilentHill, SimCity] 
 3. [DonkeyKong, MonkeyIsland] 
@@ -951,7 +951,7 @@
 11. [CallOfDuty, FinalFantasy, MassEffect] 
 12. [KingsQuest] 
 
-«rot=21 column=5, currentPhase=MOTIVATIONAL»
+«rot=21 column=6, currentPhase=MOTIVATIONAL»
 1. [Borderlands, GuitarHero, Minecraft, StarCraft, Uncharted] 
 2. [SilentHill, SimCity] 
 3. [DonkeyKong, MonkeyIsland] 
