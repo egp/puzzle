@@ -13,20 +13,6 @@
 11. [Frege, Noether, Riemann] 
 12. [Godel, Madhava] 
 
-«rot=0 column=3, currentPhase=MONEYLENDERS»
-1. [Ramanujan] 
-2. [Boole, Diophantus, Grothendieck, Ptolemy] 
-3. [Einstein, vonNeumann] 
-4. [Frege, Noether, Riemann] 
-5. [Aryabhata, Huygens] 
-6. [Euler, Galileo, Hilbert, Miletus, Wallis, Wiles] 
-7. [Frege, Noether, Riemann] 
-8. [Einstein, vonNeumann] 
-9. [Godel, Madhava] 
-10. [Frege, Noether, Riemann] 
-11. [Bernoulli, Fermat, Germain, Hardy, Harriot, Perelman, Tartaglia, Turing] 
-12. [Descartes, Fisher, Lasker, Pascal, Russell] 
-
 «rot=0 column=3, currentPhase=ALPHABETICAL»
 1. [Brahmagupta, Eratosthenes, Khayyam, Thales] 
 2. [Euler, Galileo, Hilbert, Miletus, Wallis, Wiles] 
@@ -195,34 +181,6 @@
 11. [Boole, Fisher, Frege, Hilbert, Hopper, Huygens, Kepler, Lasker, Napier, Ptolemy, Russell, Thales, Whitehead, Witten, vonNeumann] 
 12. [Gauss, Gibbs, Wiles] 
 
-«rot=0 column=3, currentPhase=EMPATHICALLY»
-1. [Frege, Noether, Riemann] 
-2. [Ramanujan] 
-3. [Hipparchus, Hopper, Kepler, Napier] 
-4. [Brahmagupta, Eratosthenes, Khayyam, Thales] 
-5. [Pythagoras, Witten] 
-6. [Cohen] 
-7. [Leibniz, Whitehead] 
-8. [Archimedes, Euclid, Pacioli] 
-9. [Brahmagupta, Eratosthenes, Khayyam, Thales] 
-10. [Euler, Galileo, Hilbert, Miletus, Wallis, Wiles] 
-11. [Euler, Galileo, Hilbert, Miletus, Wallis, Wiles] 
-12. [Aryabhata, Huygens] 
-
-«rot=0 column=4, currentPhase=MONEYLENDERS»
-1. [Fermat, Germain, Riemann] 
-2. [Fibonacci] 
-3. [Bernoulli, vonNeumann] 
-4. [Cohen, Euler, Godel, Lovelace, Miletus, Perelman, Wiles] 
-5. [Khayyam] 
-6. [Boole, Euclid, Kepler, Ptolemy, Thales, Wallis] 
-7. [Cohen, Euler, Godel, Lovelace, Miletus, Perelman, Wiles] 
-8. [Bernoulli, vonNeumann] 
-9. [Hardy] 
-10. [Cohen, Euler, Godel, Lovelace, Miletus, Perelman, Wiles] 
-11. [Harriot] 
-12. [Einstein, Gauss, Russell] 
-
 «rot=0 column=4, currentPhase=ACCOMPLISHED»
 1. [Aryabhata, Khwarizmi, Ramanujan] 
 2. [Descartes, Pascal] 
@@ -321,20 +279,6 @@
 11. [Einstein, Galileo, Grothendieck, Noether] 
 12. [Eratosthenes, Robinson] 
 
-«rot=0 column=3, currentPhase=EMPATHICALLY»
-1. [Frege, Noether, Riemann] 
-2. [Ramanujan] 
-3. [Hipparchus, Hopper, Kepler, Napier] 
-4. [Brahmagupta, Eratosthenes, Khayyam, Thales] 
-5. [Pythagoras, Witten] 
-6. [Cohen] 
-7. [Leibniz, Whitehead] 
-8. [Archimedes, Euclid, Pacioli] 
-9. [Brahmagupta, Eratosthenes, Khayyam, Thales] 
-10. [Euler, Galileo, Hilbert, Miletus, Wallis, Wiles] 
-11. [Euler, Galileo, Hilbert, Miletus, Wallis, Wiles] 
-12. [Aryabhata, Huygens] 
-
 «rot=0 column=3, currentPhase=ACHIEVEMENTS»
 1. [Brahmagupta, Eratosthenes, Khayyam, Thales] 
 2. [Archimedes, Euclid, Pacioli] 
@@ -404,20 +348,6 @@
 10. [Galileo, Napier, Pacioli, Robinson, Turing] 
 11. [Einstein, Russell] 
 12. [Fermat, Germain, Riemann] 
-
-«rot=0 column=4, currentPhase=EMPATHICALLY»
-1. [Cohen, Euler, Godel, Lovelace, Miletus, Perelman, Wiles] 
-2. [Fermat, Germain, Riemann] 
-3. [Diophantus, Hipparchus, Hopper] 
-4. [Aryabhata, Khwarizmi, Ramanujan] 
-5. [Eratosthenes, Grothendieck, Newton, Noether, Tartaglia, Whitehead, Witten] 
-6. [Archimedes, Brahmagupta, Fisher, Madhava, Pythagoras] 
-7. [Galileo, Napier, Pacioli, Robinson, Turing] 
-8. [Descartes, Pascal] 
-9. [Aryabhata, Khwarizmi, Ramanujan] 
-10. [Boole, Euclid, Kepler, Ptolemy, Thales, Wallis] 
-11. [Boole, Euclid, Kepler, Ptolemy, Thales, Wallis] 
-12. [Khayyam] 
 
 «rot=0 column=3, currentPhase=TEAMSOLUTION»
 1. [Pythagoras, Witten] 
@@ -545,20 +475,6 @@
 11. [Galileo, Napier, Pacioli, Robinson, Turing] 
 12. [Diophantus, Hipparchus, Hopper] 
 
-«rot=0 column=4, currentPhase=MONEYLENDERS»
-1. [Fermat, Germain, Riemann] 
-2. [Fibonacci] 
-3. [Bernoulli, vonNeumann] 
-4. [Cohen, Euler, Godel, Lovelace, Miletus, Perelman, Wiles] 
-5. [Khayyam] 
-6. [Boole, Euclid, Kepler, Ptolemy, Thales, Wallis] 
-7. [Cohen, Euler, Godel, Lovelace, Miletus, Perelman, Wiles] 
-8. [Bernoulli, vonNeumann] 
-9. [Hardy] 
-10. [Cohen, Euler, Godel, Lovelace, Miletus, Perelman, Wiles] 
-11. [Harriot] 
-12. [Einstein, Gauss, Russell] 
-
 «rot=0 column=3, currentPhase=CREDITREPORT»
 1. [Archimedes, Euclid, Pacioli] 
 2. [Bernoulli, Fermat, Germain, Hardy, Harriot, Perelman, Tartaglia, Turing] 
@@ -628,34 +544,6 @@
 10. [Boole, Diophantus, Grothendieck, Ptolemy] 
 11. [Bernoulli, Fermat, Germain, Hardy, Harriot, Perelman, Tartaglia, Turing] 
 12. [Pythagoras, Witten] 
-
-«rot=0 column=4, currentPhase=EMPATHICALLY»
-1. [Lovelace, Miletus, Perelman] 
-2. [Fermat, Germain, Riemann] 
-3. [Diophantus, Hipparchus, Hopper] 
-4. [Aryabhata, Khwarizmi, Ramanujan] 
-5. [Eratosthenes, Grothendieck, Newton, Noether, Tartaglia, Whitehead, Witten] 
-6. [Archimedes, Brahmagupta, Fisher, Madhava, Pythagoras] 
-7. [Galileo, Napier, Pacioli, Robinson, Turing] 
-8. [Descartes, Pascal] 
-9. [Aryabhata, Khwarizmi, Ramanujan] 
-10. [Euclid, Kepler, Ptolemy, Thales, Wallis] 
-11. [Euclid, Kepler, Ptolemy, Thales, Wallis] 
-12. [Khayyam] 
-
-«rot=0 column=4, currentPhase=EMPATHICALLY»
-1. [Cohen, Euler, Godel, Lovelace, Miletus, Perelman, Wiles] 
-2. [Fermat, Germain, Riemann] 
-3. [Diophantus, Hipparchus, Hopper] 
-4. [Aryabhata, Khwarizmi, Ramanujan] 
-5. [Eratosthenes, Grothendieck, Newton, Noether, Tartaglia, Whitehead, Witten] 
-6. [Archimedes, Brahmagupta, Fisher, Madhava, Nash, Pythagoras] 
-7. [Galileo, Napier, Pacioli, Robinson, Turing] 
-8. [Descartes, Pascal] 
-9. [Aryabhata, Khwarizmi, Ramanujan] 
-10. [Boole, Euclid, Kepler, Ptolemy, Thales, Wallis] 
-11. [Boole, Euclid, Kepler, Ptolemy, Thales, Wallis] 
-12. [Khayyam] 
 
 «rot=0 column=3, currentPhase=BEWILDERMENT»
 1. [Babbage, Fibonacci, Gibbs, Robinson] 
@@ -811,20 +699,6 @@
 11. [Khayyam, vonNeumann] 
 12. [Huygens, Miletus] 
 
-«rot=0 column=3, currentPhase=MONEYLENDERS»
-1. [Ramanujan] 
-2. [Boole, Diophantus, Grothendieck, Ptolemy] 
-3. [Einstein, vonNeumann] 
-4. [Frege, Noether, Riemann] 
-5. [Aryabhata, Huygens] 
-6. [Euler, Galileo, Hilbert, Miletus, Wallis, Wiles] 
-7. [Frege, Noether, Riemann] 
-8. [Einstein, vonNeumann] 
-9. [Godel, Madhava] 
-10. [Frege, Noether, Riemann] 
-11. [Bernoulli, Fermat, Germain, Hardy, Harriot, Perelman, Tartaglia, Turing] 
-12. [Descartes, Fisher, Lasker, Nash, Pascal, Russell] 
-
 «rot=0 column=3, currentPhase=MOTIVATIONAL»
 1. [Ramanujan] 
 2. [Diophantus, Grothendieck, Ptolemy] 
@@ -866,34 +740,6 @@
 10. [Frege, Noether, Riemann] 
 11. [Bernoulli, Fermat, Germain, Hardy, Harriot, Perelman, Tartaglia, Turing] 
 12. [Descartes, Fisher, Lasker, Pascal, Russell] 
-
-«rot=2 column=4, currentPhase=MAGNIFICENCE»
-1. [Lasker] 
-2. [Khayyam] 
-3. [Cohen, Euler, Godel, Lovelace, Miletus, Perelman, Wiles] 
-4. [Boole, Euclid, Kepler, Ptolemy, Thales, Wallis] 
-5. [Frege, Huygens] 
-6. [Hardy] 
-7. [Frege, Huygens] 
-8. [Aryabhata, Khwarizmi, Ramanujan] 
-9. [Descartes, Pascal] 
-10. [Boole, Euclid, Kepler, Ptolemy, Thales, Wallis] 
-11. [Aryabhata, Khwarizmi, Ramanujan] 
-12. [Descartes, Pascal] 
-
-«rot=2 column=4, currentPhase=MAGNIFICENCE»
-1. [Lasker] 
-2. [Khayyam] 
-3. [Cohen, Euler, Godel, Lovelace, Miletus, Perelman, Wiles] 
-4. [Boole, Euclid, Kepler, Ptolemy, Thales, Wallis] 
-5. [Frege, Huygens] 
-6. [Hardy] 
-7. [Frege, Huygens] 
-8. [Aryabhata, Khwarizmi, Ramanujan] 
-9. [Descartes, Pascal] 
-10. [Boole, Euclid, Kepler, Ptolemy, Thales, Wallis] 
-11. [Aryabhata, Khwarizmi, Ramanujan] 
-12. [Descartes, Pascal] 
 
 «rot=4 column=3, currentPhase=FREETAXPREPS»
 1. [Babbage, Fibonacci, Robinson] 
@@ -992,34 +838,6 @@
 10. [Fermat, Fibonacci, Fisher, Frege] 
 11. [Lasker, Leibniz, Lovelace] 
 12. [Kepler, Khayyam, Khwarizmi] 
-
-«rot=11 column=4, currentPhase=MONEYLENDERS»
-1. [Babbage, Gibbs, Hilbert, Leibniz] 
-2. [Hardy] 
-3. [Descartes, Pascal] 
-4. [Eratosthenes, Grothendieck, Newton, Noether, Tartaglia, Whitehead, Witten] 
-5. [Bernoulli, vonNeumann] 
-6. [Aryabhata, Khwarizmi, Ramanujan] 
-7. [Eratosthenes, Grothendieck, Newton, Noether, Tartaglia, Whitehead, Witten] 
-8. [Descartes, Pascal] 
-9. [Einstein, Gauss, Russell] 
-10. [Eratosthenes, Grothendieck, Newton, Noether, Tartaglia, Whitehead, Witten] 
-11. [Frege, Huygens] 
-12. [Archimedes, Brahmagupta, Fisher, Madhava, Nash, Pythagoras] 
-
-«rot=11 column=4, currentPhase=MONEYLENDERS»
-1. [Babbage, Gibbs, Hilbert, Leibniz] 
-2. [Hardy] 
-3. [Descartes, Pascal] 
-4. [Eratosthenes, Grothendieck, Newton, Noether, Tartaglia, Whitehead, Witten] 
-5. [Bernoulli, vonNeumann] 
-6. [Aryabhata, Khwarizmi, Ramanujan] 
-7. [Eratosthenes, Grothendieck, Newton, Noether, Tartaglia, Whitehead, Witten] 
-8. [Descartes, Pascal] 
-9. [Einstein, Gauss, Russell] 
-10. [Eratosthenes, Grothendieck, Newton, Noether, Tartaglia, Whitehead, Witten] 
-11. [Frege, Huygens] 
-12. [Archimedes, Brahmagupta, Fisher, Madhava, Pythagoras] 
 
 «rot=15 column=3, currentPhase=BRAINTEASERS»
 1. [Ramanujan] 

@@ -321,20 +321,6 @@
 11. [Adams, Denmark, Grimke, Obama, Simmons, Tubman] 
 12. [Carson, Chisholm, Fossey, Ginsburg, Roosevelt] 
 
-«rot=0 column=3, currentPhase=MONEYLENDERS»
-1. [Jemison, Simmons] 
-2. [Hooks, OConnor, Roosevelt, Stone, Stowe] 
-3. [Benjamin, Denmark, Duncan, Ginsburg, King, Kingston, Lange, Lin, Mankiller, Sanger] 
-4. [Edelman, Ederle, Greider, Huerta, Liebowitz, OKeeffe, Smeal, Steinem] 
-5. [Bly] 
-6. [Coleman, Collins, Millay, Palin, Pelosi, Wells, Williams, Yalow] 
-7. [Edelman, Ederle, Greider, Huerta, Liebowitz, OKeeffe, Smeal, Steinem] 
-8. [Benjamin, Denmark, Duncan, Ginsburg, King, Kingston, Lange, Lin, Mankiller, Sanger] 
-9. [Addams, Anderson, Didrikson, Ludington, Ride, Rideout] 
-10. [Edelman, Ederle, Greider, Huerta, Liebowitz, OKeeffe, Smeal, Steinem] 
-11. [Barton, Born, Burns, Carson, Earhart, Ferraro, Jordan, Morrison, Parks, Perkins, Shriver, Terrell, Warren] 
-12. [Alsop, Fossey, Rosado] 
-
 «rot=0 column=4, currentPhase=MEETINGROOMS»
 1. [Adams, Denmark, Grimke, Obama, Simmons, Tubman] 
 2. [Anderson, Angelou, Coleman, Gage, OKeeffe, Rice, Ride, Rideout] 
@@ -2071,20 +2057,6 @@
 11. [Jemison, Simmons] 
 12. [Alsop, Fossey, Rosado] 
 
-«rot=2 column=3, currentPhase=MAGNIFICENCE»
-1. [Mikulski, Oakley] 
-2. [Bly] 
-3. [Edelman, Ederle, Greider, Huerta, Liebowitz, OKeeffe, Smeal, Steinem] 
-4. [Coleman, Collins, Millay, Palin, Pelosi, Wells, Williams, Yalow] 
-5. [Angelou, Boggs, Gage, LeGuin] 
-6. [Addams, Anderson, Didrikson, Ludington, Ride, Rideout] 
-7. [Angelou, Boggs, Gage, LeGuin] 
-8. [Adams, Blackburn, Blackwell, Graham, Obama, Stanton] 
-9. [Buck, Cochran, Dickinson, Lockwood, Mackinnon, McClintock, Rice, Sacagawea] 
-10. [Coleman, Collins, Millay, Palin, Pelosi, Wells, Williams, Yalow] 
-11. [Adams, Blackburn, Blackwell, Graham, Obama, Stanton] 
-12. [Buck, Cochran, Dickinson, Lockwood, Mackinnon, McClintock, Rice, Sacagawea] 
-
 «rot=2 column=1, currentPhase=MULTILAYERED»
 1. [King, Kingston] 
 2. [Sacagawea, Sanger, Shriver, Simmons, Smeal, Sotomayor, Stanton, Steinem, Stone, Stowe] 
@@ -2126,20 +2098,6 @@
 10. [Mikulski, Oakley] 
 11. [Buck, Cochran, Dickinson, Lockwood, Mackinnon, McClintock, Rice, Sacagawea] 
 12. [Coleman, Collins, Millay, Palin, Pelosi, Wells, Williams, Yalow] 
-
-«rot=2 column=1, currentPhase=MAGNIFICENCE»
-1. [King, Kingston] 
-2. [Yalow] 
-3. [Earhart, Edelman, Ederle, Elion] 
-4. [Lange, LeGuin, Liebowitz, Lin, Lockwood, Low, Ludington] 
-5. [Gage, Ginsburg, Graham, Greider, Grimke] 
-6. [Denmark, Dickinson, Didrikson, Dix, Duncan] 
-7. [Gage, Ginsburg, Graham, Greider, Grimke] 
-8. [Adams, Addams, Albright, Alsop, Anderson, Angelou, Anthony] 
-9. [Carson, Catt, Child, Chisholm, Clinton, Cochran, Coleman, Collins] 
-10. [Lange, LeGuin, Liebowitz, Lin, Lockwood, Low, Ludington] 
-11. [Adams, Addams, Albright, Alsop, Anderson, Angelou, Anthony] 
-12. [Carson, Catt, Child, Chisholm, Clinton, Cochran, Coleman, Collins] 
 
 «rot=2 column=4, currentPhase=WORKINGWOMEN»
 1. [LeGuin, Mikulski] 
@@ -2210,34 +2168,6 @@
 10. [Buck, Dickinson, Hooks, Lockwood, Mackinnon, Mankiller, Parks, Perkins] 
 11. [Blackburn, Blackwell, Duncan] 
 12. [Child, Collins, Edelman, McClintock, Millay, Oakley, Paul, Rowley, Wells, Williams] 
-
-«rot=2 column=1, currentPhase=MAGNIFICENCE»
-1. [King, Kingston] 
-2. [Yalow] 
-3. [Earhart, Edelman, Ederle, Elion] 
-4. [Lange, LeGuin, Liebowitz, Lockwood, Ludington] 
-5. [Gage, Ginsburg, Graham, Greider, Grimke] 
-6. [Denmark, Dickinson, Didrikson, Duncan] 
-7. [Gage, Ginsburg, Graham, Greider, Grimke] 
-8. [Adams, Addams, Albright, Alsop, Anderson, Angelou, Anthony] 
-9. [Carson, Catt, Child, Chisholm, Clinton, Cochran, Coleman, Collins] 
-10. [Lange, LeGuin, Liebowitz, Lockwood, Ludington] 
-11. [Adams, Addams, Albright, Alsop, Anderson, Angelou, Anthony] 
-12. [Carson, Catt, Child, Chisholm, Clinton, Cochran, Coleman, Collins] 
-
-«rot=2 column=1, currentPhase=MAGNIFICENCE»
-1. [Kingston] 
-2. [Yalow] 
-3. [Earhart, Edelman, Ederle, Elion] 
-4. [Lange, LeGuin, Liebowitz, Lockwood, Ludington] 
-5. [Ginsburg, Graham, Greider, Grimke] 
-6. [Denmark, Dickinson, Didrikson, Duncan] 
-7. [Ginsburg, Graham, Greider, Grimke] 
-8. [Adams, Addams, Albright, Alsop, Anderson, Angelou, Anthony] 
-9. [Carson, Child, Chisholm, Clinton, Cochran, Coleman, Collins] 
-10. [Lange, LeGuin, Liebowitz, Lockwood, Ludington] 
-11. [Adams, Addams, Albright, Alsop, Anderson, Angelou, Anthony] 
-12. [Carson, Child, Chisholm, Clinton, Cochran, Coleman, Collins] 
 
 «rot=2 column=3, currentPhase=WORKINGWOMEN»
 1. [BourkeWhite, Truth] 
@@ -3429,62 +3359,6 @@
 11. [Sacagawea, Sanger, Shriver, Simmons, Smeal, Sotomayor, Stanton, Steinem, Stone, Stowe] 
 12. [Earhart, Edelman, Ederle, Elion] 
 
-«rot=10 column=2, currentPhase=MONEYLENDERS»
-1. [McClintock, OConnor] 
-2. [Benjamin, Denmark, Feinstein, Ferraro, Height, Jemison, LeGuin, Pelosi, Perkins, Terrell, Weingarten, Wells] 
-3. [Adams, Addams, Edelman, Ederle] 
-4. [Buck, Burns, Duncan, Huerta, Ludington, Rubin, Tubman] 
-5. [Boggs, Born, BourkeWhite, Cochran, Coleman, Collins, Fossey, Hooks, Hopper, Jordan, Lockwood, Low, Morrison, Mott, Roosevelt, Rosado, Rowley, Sotomayor] 
-6. [Obama] 
-7. [Buck, Burns, Duncan, Huerta, Ludington, Rubin, Tubman] 
-8. [Adams, Addams, Edelman, Ederle] 
-9. [Stanton, Steinem, Stone, Stowe] 
-10. [Buck, Burns, Duncan, Huerta, Ludington, Rubin, Tubman] 
-11. [Child, Chisholm, Shriver, Whitman] 
-12. [Dickinson, Didrikson, Dix, Ginsburg, King, Kingston, Liebowitz, Lin, Mikulski, Millay, Rice, Ride, Rideout, Simmons, Williams] 
-
-«rot=10 column=2, currentPhase=MONEYLENDERS»
-1. [McClintock, OConnor] 
-2. [Benjamin, Denmark, Feinstein, Ferraro, Height, Jemison, LeGuin, Pelosi, Perkins, Terrell, Weingarten, Wells] 
-3. [Adams, Addams, Edelman, Ederle] 
-4. [Burns, Duncan, Huerta, Ludington, Rubin, Tubman] 
-5. [Boggs, BourkeWhite, Cochran, Coleman, Collins, Fossey, Hooks, Hopper, Jordan, Lockwood, Morrison, Roosevelt, Rosado, Rowley, Sotomayor] 
-6. [Obama] 
-7. [Burns, Duncan, Huerta, Ludington, Rubin, Tubman] 
-8. [Adams, Addams, Edelman, Ederle] 
-9. [Stanton, Steinem, Stone, Stowe] 
-10. [Burns, Duncan, Huerta, Ludington, Rubin, Tubman] 
-11. [Child, Chisholm, Shriver, Whitman] 
-12. [Dickinson, Didrikson, Ginsburg, Kingston, Liebowitz, Mikulski, Millay, Rideout, Simmons, Williams] 
-
-«rot=10 column=2, currentPhase=MONEYLENDERS»
-1. [McClintock, OConnor] 
-2. [Benjamin, Denmark, Feinstein, Ferraro, Height, Jemison, LeGuin, Pelosi, Perkins, Terrell, Weingarten, Wells] 
-3. [Adams, Addams, Edelman, Ederle] 
-4. [Buck, Burns, Duncan, Huerta, Ludington, Rubin, Tubman] 
-5. [Boggs, Born, BourkeWhite, Cochran, Coleman, Collins, Fossey, Hooks, Hopper, Jordan, Lockwood, Morrison, Mott, Roosevelt, Rosado, Rowley, Sotomayor] 
-6. [Obama] 
-7. [Buck, Burns, Duncan, Huerta, Ludington, Rubin, Tubman] 
-8. [Adams, Addams, Edelman, Ederle] 
-9. [Stanton, Steinem, Stone, Stowe] 
-10. [Buck, Burns, Duncan, Huerta, Ludington, Rubin, Tubman] 
-11. [Child, Chisholm, Shriver, Whitman] 
-12. [Dickinson, Didrikson, Ginsburg, King, Kingston, Liebowitz, Mikulski, Millay, Rice, Ride, Rideout, Simmons, Williams] 
-
-«rot=11 column=4, currentPhase=MONEYLENDERS»
-1. [Liebowitz] 
-2. [Jordan] 
-3. [Blackburn, Blackwell, Duncan] 
-4. [Barton, Truth, Whitman] 
-5. [Burns, Clinton, Feinstein, OConnor, Stanton, Stone, Weingarten] 
-6. [Addams, Rosado, Sacagawea, Smeal] 
-7. [Barton, Truth, Whitman] 
-8. [Blackburn, Blackwell, Duncan] 
-9. [Carson, Chisholm, Fossey, Ginsburg, Roosevelt] 
-10. [Barton, Truth, Whitman] 
-11. [Boggs, Height, Kingston, Lange, Sanger] 
-12. [Anthony, Cochran, Earhart, Graham] 
-
 «rot=11 column=4, currentPhase=PUZZLEEVENTS»
 1. [Anderson, Angelou, Coleman, OKeeffe, Rideout] 
 2. [Benjamin] 
@@ -3527,6 +3401,20 @@
 11. [Blackburn, Blackwell, Duncan] 
 12. [Carson, Chisholm, Fossey, Ginsburg, Roosevelt] 
 
+«rot=11 column=4, currentPhase=APUZZLEEVENT»
+1. [Hopper] 
+2. [Anderson, Angelou, Coleman, OKeeffe, Rideout] 
+3. [Benjamin] 
+4. [Alsop, Elion, Pelosi, Sotomayor, Yalow] 
+5. [Alsop, Elion, Pelosi, Sotomayor, Yalow] 
+6. [Addams, Rosado, Sacagawea, Smeal] 
+7. [Barton, Truth, Whitman] 
+8. [Barton, Truth, Whitman] 
+9. [Dickinson, Hooks, Lockwood, Mackinnon, Mankiller, Parks, Perkins] 
+10. [Barton, Truth, Whitman] 
+11. [Blackburn, Blackwell, Duncan] 
+12. [Greider, Jemison, Ludington, Palin, Rubin, Shriver, Steinem] 
+
 «rot=11 column=4, currentPhase=FREETAXPREPS»
 1. [LeGuin, Mikulski] 
 2. [Boggs, Height, Kingston, Lange, Sanger] 
@@ -3568,20 +3456,6 @@
 10. [Terrell, Truth, Tubman] 
 11. [Gage, Ginsburg, Graham, Greider, Grimke] 
 12. [Height, Hooks, Hopper, Huerta] 
-
-«rot=11 column=4, currentPhase=MONEYLENDERS»
-1. [Liebowitz] 
-2. [Jordan] 
-3. [Blackburn, Blackwell, Duncan] 
-4. [Barton, Catt, Mott, Truth, Whitman] 
-5. [Born, Burns, Clinton, Feinstein, OConnor, Stanton, Stone, Weingarten] 
-6. [Addams, Rosado, Sacagawea, Smeal] 
-7. [Barton, Catt, Mott, Truth, Whitman] 
-8. [Blackburn, Blackwell, Duncan] 
-9. [Carson, Chisholm, Fossey, Ginsburg, Roosevelt] 
-10. [Barton, Catt, Mott, Truth, Whitman] 
-11. [Boggs, Height, King, Kingston, Lange, Sanger] 
-12. [Anthony, Cochran, Earhart, Graham] 
 
 «rot=11 column=1, currentPhase=SHAREHOLDERS»
 1. [Height, Hooks, Hopper, Huerta] 
@@ -3652,6 +3526,20 @@
 10. [Barton, Catt, Mott, Truth, Whitman] 
 11. [Anderson, Angelou, Coleman, Gage, OKeeffe, Rice, Ride, Rideout] 
 12. [Anthony, Cochran, Earhart, Graham] 
+
+«rot=11 column=4, currentPhase=APUZZLEEVENT»
+1. [Hopper] 
+2. [Anderson, Angelou, Coleman, Gage, OKeeffe, Rice, Ride, Rideout] 
+3. [Benjamin] 
+4. [Alsop, Elion, Pelosi, Sotomayor, Yalow] 
+5. [Alsop, Elion, Pelosi, Sotomayor, Yalow] 
+6. [Addams, Rosado, Sacagawea, Smeal] 
+7. [Barton, Catt, Mott, Truth, Whitman] 
+8. [Barton, Catt, Mott, Truth, Whitman] 
+9. [Buck, Dickinson, Hooks, Lockwood, Mackinnon, Mankiller, Parks, Perkins] 
+10. [Barton, Catt, Mott, Truth, Whitman] 
+11. [Blackburn, Blackwell, Duncan] 
+12. [Greider, Jemison, Ludington, Palin, Rubin, Shriver, Steinem] 
 
 «rot=11 column=4, currentPhase=ANSWERSFOUND»
 1. [Hopper] 
@@ -3947,6 +3835,20 @@
 11. [Carson, Child, Chisholm, Clinton, Cochran, Coleman, Collins] 
 12. [Denmark, Dickinson, Didrikson, Duncan] 
 
+«rot=15 column=1, currentPhase=APUZZLEEVENT»
+1. [Lange, LeGuin, Liebowitz, Lin, Lockwood, Low, Ludington] 
+2. [Adams, Addams, Albright, Alsop, Anderson, Angelou, Anthony] 
+3. [Feinstein, Ferraro, Fossey] 
+4. [King, Kingston] 
+5. [King, Kingston] 
+6. [Warren, Weingarten, Wells, Whitman, Williams] 
+7. [Palin, Parks, Paul, Pelosi, Perkins] 
+8. [Palin, Parks, Paul, Pelosi, Perkins] 
+9. [Gage, Ginsburg, Graham, Greider, Grimke] 
+10. [Palin, Parks, Paul, Pelosi, Perkins] 
+11. [Yalow] 
+12. [Earhart, Edelman, Ederle, Elion] 
+
 «rot=15 column=1, currentPhase=PUZZLEEVENTS»
 1. [Adams, Addams, Albright, Alsop, Anderson, Angelou, Anthony] 
 2. [Feinstein, Ferraro, Fossey] 
@@ -3988,6 +3890,20 @@
 10. [Palin, Parks, Paul, Pelosi, Perkins] 
 11. [Carson, Catt, Child, Chisholm, Clinton, Cochran, Coleman, Collins] 
 12. [Denmark, Dickinson, Didrikson, Duncan] 
+
+«rot=15 column=1, currentPhase=APUZZLEEVENT»
+1. [Lange, LeGuin, Liebowitz, Lockwood, Ludington] 
+2. [Adams, Addams, Albright, Alsop, Anderson, Angelou, Anthony] 
+3. [Feinstein, Ferraro, Fossey] 
+4. [King, Kingston] 
+5. [King, Kingston] 
+6. [Warren, Weingarten, Wells, Whitman, Williams] 
+7. [Palin, Parks, Paul, Pelosi, Perkins] 
+8. [Palin, Parks, Paul, Pelosi, Perkins] 
+9. [Gage, Ginsburg, Graham, Greider, Grimke] 
+10. [Palin, Parks, Paul, Pelosi, Perkins] 
+11. [Yalow] 
+12. [Earhart, Edelman, Ederle, Elion] 
 
 «rot=15 column=3, currentPhase=ALPHABETICAL»
 1. [Coleman, Collins, Millay, Palin, Pelosi, Wells, Williams, Yalow] 
@@ -4255,19 +4171,19 @@
 11. [LeGuin, Mikulski] 
 12. [Addams, Rosado, Sacagawea, Smeal] 
 
-«rot=19 column=1, currentPhase=EMPATHICALLY»
-1. [Lange, LeGuin, Liebowitz, Lockwood, Ludington] 
-2. [Terrell, Truth, Tubman] 
-3. [Warren, Weingarten, Wells, Whitman, Williams] 
-4. [Height, Hooks, Hopper, Huerta] 
-5. [Adams, Addams, Albright, Alsop, Anderson, Angelou, Anthony] 
-6. [OConnor, OKeeffe, Oakley, Obama, Ostrom] 
-7. [Palin, Parks, Paul, Pelosi, Perkins] 
-8. [Jemison, Jordan] 
-9. [Height, Hooks, Hopper, Huerta] 
-10. [Sacagawea, Sanger, Shriver, Simmons, Smeal, Sotomayor, Stanton, Steinem, Stone, Stowe] 
-11. [Sacagawea, Sanger, Shriver, Simmons, Smeal, Sotomayor, Stanton, Steinem, Stone, Stowe] 
-12. [Feinstein, Ferraro, Fossey] 
+«rot=19 column=4, currentPhase=APUZZLEEVENT»
+1. [Anthony, Cochran, Earhart, Graham] 
+2. [Stowe] 
+3. [Liebowitz] 
+4. [Boggs, Height, Kingston, Lange, Sanger] 
+5. [Boggs, Height, Kingston, Lange, Sanger] 
+6. [Carson, Chisholm, Fossey, Ginsburg, Roosevelt] 
+7. [Child, Collins, Edelman, McClintock, Millay, Oakley, Rowley, Wells, Williams] 
+8. [Child, Collins, Edelman, McClintock, Millay, Oakley, Rowley, Wells, Williams] 
+9. [Blackburn, Blackwell, Duncan] 
+10. [Child, Collins, Edelman, McClintock, Millay, Oakley, Rowley, Wells, Williams] 
+11. [LeGuin, Mikulski] 
+12. [Addams, Rosado, Sacagawea, Smeal] 
 
 «rot=19 column=3, currentPhase=BEFUDDLEMENT»
 1. [Bair, Child, Chisholm, Clinton, Elion, Feinstein, Grimke, Height, Weingarten, Whitman] 
@@ -4283,20 +4199,6 @@
 11. [BourkeWhite, Paul, Truth] 
 12. [Adams, Blackburn, Blackwell, Graham, Obama, Stanton] 
 
-«rot=19 column=1, currentPhase=EMPATHICALLY»
-1. [LeGuin, Liebowitz, Lockwood, Ludington] 
-2. [Terrell, Tubman] 
-3. [Warren, Weingarten, Whitman, Williams] 
-4. [Height, Hopper, Huerta] 
-5. [Addams, Albright, Anderson, Angelou, Anthony] 
-6. [OConnor, OKeeffe, Oakley, Ostrom] 
-7. [Pelosi, Perkins] 
-8. [Jemison, Jordan] 
-9. [Height, Hopper, Huerta] 
-10. [Sacagawea, Sanger, Shriver, Simmons, Sotomayor, Stanton, Steinem] 
-11. [Sacagawea, Sanger, Shriver, Simmons, Sotomayor, Stanton, Steinem] 
-12. [Feinstein, Ferraro, Fossey] 
-
 «rot=19 column=4, currentPhase=BEFUDDLEMENT»
 1. [Greider, Jemison, Ludington, Palin, Rubin, Shriver, Steinem] 
 2. [Child, Collins, Edelman, McClintock, Millay, Oakley, Paul, Rowley, Wells, Williams] 
@@ -4310,20 +4212,6 @@
 10. [Child, Collins, Edelman, McClintock, Millay, Oakley, Paul, Rowley, Wells, Williams] 
 11. [LeGuin, Mikulski] 
 12. [Addams, Rosado, Sacagawea, Smeal] 
-
-«rot=19 column=1, currentPhase=EMPATHICALLY»
-1. [Lange, LeGuin, Liebowitz, Lockwood, Ludington] 
-2. [Terrell, Truth, Tubman] 
-3. [Warren, Weingarten, Wells, Whitman, Williams] 
-4. [Height, Hooks, Hopper, Huerta] 
-5. [Adams, Addams, Albright, Alsop, Anderson, Angelou, Anthony] 
-6. [OConnor, OKeeffe, Oakley, Obama, Ostrom] 
-7. [Palin, Parks, Pelosi, Perkins] 
-8. [Jemison, Jordan] 
-9. [Height, Hooks, Hopper, Huerta] 
-10. [Sacagawea, Sanger, Shriver, Simmons, Smeal, Sotomayor, Stanton, Steinem, Stone, Stowe] 
-11. [Sacagawea, Sanger, Shriver, Simmons, Smeal, Sotomayor, Stanton, Steinem, Stone, Stowe] 
-12. [Feinstein, Ferraro, Fossey] 
 
 «rot=19 column=3, currentPhase=BEFUDDLEMENT»
 1. [Bair, Child, Chisholm, Clinton, Elion, Feinstein, Grimke, Height, Weingarten, Whitman] 
@@ -4367,33 +4255,19 @@
 11. [BourkeWhite] 
 12. [Blackburn, Blackwell, Graham, Stanton] 
 
-«rot=19 column=1, currentPhase=EMPATHICALLY»
-1. [Lange, LeGuin, Liebowitz, Lin, Lockwood, Low, Ludington] 
-2. [Terrell, Truth, Tubman] 
-3. [Warren, Weingarten, Wells, Whitman, Williams] 
-4. [Height, Hooks, Hopper, Huerta] 
-5. [Adams, Addams, Albright, Alsop, Anderson, Angelou, Anthony] 
-6. [OConnor, OKeeffe, Oakley, Obama, Ostrom] 
-7. [Palin, Parks, Paul, Pelosi, Perkins] 
-8. [Jemison, Jordan] 
-9. [Height, Hooks, Hopper, Huerta] 
-10. [Sacagawea, Sanger, Shriver, Simmons, Smeal, Sotomayor, Stanton, Steinem, Stone, Stowe] 
-11. [Sacagawea, Sanger, Shriver, Simmons, Smeal, Sotomayor, Stanton, Steinem, Stone, Stowe] 
-12. [Feinstein, Ferraro, Fossey] 
-
-«rot=20 column=5, currentPhase=MAGNIFICENCE»
-1. [Adams, Boggs, Burns, Feinstein, Hooks, Jemison, Kingston, Parks, Pelosi, Wells] 
-2. [Sacagawea, Weingarten] 
-3. [Addams, Coleman, Edelman, Sotomayor, Whitman] 
-4. [Clinton, Huerta, Stanton] 
-5. [Anthony, Barton, Carson, Liebowitz, Ostrom, Rideout, Simmons] 
-6. [Angelou, Ederle, Mikulski, Smeal] 
-7. [Anthony, Barton, Carson, Liebowitz, Ostrom, Rideout, Simmons] 
-8. [Albright, Collins, Dickinson, Didrikson, LeGuin, Mackinnon, Mankiller, McClintock, Morrison, Perkins, Williams] 
-9. [Blackburn, Blackwell, BourkeWhite, Grimke] 
-10. [Clinton, Huerta, Stanton] 
-11. [Albright, Collins, Dickinson, Didrikson, LeGuin, Mackinnon, Mankiller, McClintock, Morrison, Perkins, Williams] 
-12. [Blackburn, Blackwell, BourkeWhite, Grimke] 
+«rot=19 column=4, currentPhase=APUZZLEEVENT»
+1. [Anthony, Cochran, Earhart, Graham] 
+2. [Stowe] 
+3. [Liebowitz] 
+4. [Boggs, Height, King, Kingston, Lange, Sanger] 
+5. [Boggs, Height, King, Kingston, Lange, Sanger] 
+6. [Carson, Chisholm, Fossey, Ginsburg, Roosevelt] 
+7. [Child, Collins, Edelman, McClintock, Millay, Oakley, Paul, Rowley, Wells, Williams] 
+8. [Child, Collins, Edelman, McClintock, Millay, Oakley, Paul, Rowley, Wells, Williams] 
+9. [Blackburn, Blackwell, Duncan] 
+10. [Child, Collins, Edelman, McClintock, Millay, Oakley, Paul, Rowley, Wells, Williams] 
+11. [LeGuin, Mikulski] 
+12. [Addams, Rosado, Sacagawea, Smeal] 
 
 «rot=20 column=6, currentPhase=GAMESMANSHIP»
 1. [Benjamin, Graham, Ostrom] 
@@ -4409,90 +4283,6 @@
 11. [Angelou, Chisholm, Clinton, Jemison, Lockwood, OConnor, Rosado, Stanton] 
 12. [Roosevelt] 
 
-«rot=20 column=4, currentPhase=MAGNIFICENCE»
-1. [Carson, Chisholm, Fossey, Ginsburg, Roosevelt] 
-2. [Boggs, Height, King, Kingston, Lange, Sanger] 
-3. [Adams, Denmark, Grimke, Obama, Simmons, Tubman] 
-4. [Barton, Catt, Mott, Truth, Whitman] 
-5. [Alsop, Elion, Pelosi, Sotomayor, Yalow] 
-6. [Child, Collins, Edelman, McClintock, Millay, Oakley, Paul, Rowley, Wells, Williams] 
-7. [Alsop, Elion, Pelosi, Sotomayor, Yalow] 
-8. [Greider, Jemison, Ludington, Palin, Rubin, Shriver, Steinem] 
-9. [Buck, Dickinson, Hooks, Lockwood, Mackinnon, Mankiller, Parks, Perkins] 
-10. [Barton, Catt, Mott, Truth, Whitman] 
-11. [Greider, Jemison, Ludington, Palin, Rubin, Shriver, Steinem] 
-12. [Buck, Dickinson, Hooks, Lockwood, Mackinnon, Mankiller, Parks, Perkins] 
-
-«rot=20 column=4, currentPhase=MAGNIFICENCE»
-1. [Carson, Chisholm, Fossey, Ginsburg, Roosevelt] 
-2. [Boggs, Height, Kingston, Lange, Sanger] 
-3. [Adams, Denmark, Grimke, Obama, Simmons, Tubman] 
-4. [Barton, Truth, Whitman] 
-5. [Alsop, Elion, Pelosi, Sotomayor, Yalow] 
-6. [Child, Collins, Edelman, McClintock, Millay, Oakley, Rowley, Wells, Williams] 
-7. [Alsop, Elion, Pelosi, Sotomayor, Yalow] 
-8. [Greider, Jemison, Ludington, Palin, Rubin, Shriver, Steinem] 
-9. [Dickinson, Hooks, Lockwood, Mackinnon, Mankiller, Parks, Perkins] 
-10. [Barton, Truth, Whitman] 
-11. [Greider, Jemison, Ludington, Palin, Rubin, Shriver, Steinem] 
-12. [Dickinson, Hooks, Lockwood, Mackinnon, Mankiller, Parks, Perkins] 
-
-«rot=20 column=4, currentPhase=MAGNIFICENCE»
-1. [Carson, Chisholm, Fossey, Ginsburg, Roosevelt] 
-2. [Height, Kingston, Sanger] 
-3. [Denmark, Grimke, Simmons, Tubman] 
-4. [Barton, Whitman] 
-5. [Pelosi, Sotomayor] 
-6. [Collins, Edelman, McClintock, Millay, Oakley, Rowley, Williams] 
-7. [Pelosi, Sotomayor] 
-8. [Greider, Jemison, Ludington, Shriver, Steinem] 
-9. [Dickinson, Lockwood, Mackinnon, Mankiller, Perkins] 
-10. [Barton, Whitman] 
-11. [Greider, Jemison, Ludington, Shriver, Steinem] 
-12. [Dickinson, Lockwood, Mackinnon, Mankiller, Perkins] 
-
-«rot=20 column=3, currentPhase=MAGNIFICENCE»
-1. [Alsop, Fossey, Rosado] 
-2. [Angelou, Boggs, LeGuin] 
-3. [Jemison, Simmons] 
-4. [Anthony, Ostrom, Sotomayor] 
-5. [Hooks, OConnor, Roosevelt, Stone, Stowe] 
-6. [Coleman, Collins, Millay, Palin, Pelosi, Wells, Williams, Yalow] 
-7. [Hooks, OConnor, Roosevelt, Stone, Stowe] 
-8. [Child, Chisholm, Clinton, Elion, Feinstein, Grimke, Height, Weingarten, Whitman] 
-9. [Mikulski, Oakley] 
-10. [Anthony, Ostrom, Sotomayor] 
-11. [Child, Chisholm, Clinton, Elion, Feinstein, Grimke, Height, Weingarten, Whitman] 
-12. [Mikulski, Oakley] 
-
-«rot=20 column=5, currentPhase=MAGNIFICENCE»
-1. [Feinstein, Jemison, Kingston, Pelosi] 
-2. [Sacagawea, Weingarten] 
-3. [Addams, Coleman, Edelman, Sotomayor, Whitman] 
-4. [Clinton, Huerta, Stanton] 
-5. [Anthony, Barton, Carson, Liebowitz, Ostrom, Rideout, Simmons] 
-6. [Angelou, Ederle, Mikulski] 
-7. [Anthony, Barton, Carson, Liebowitz, Ostrom, Rideout, Simmons] 
-8. [Albright, Collins, Dickinson, Didrikson, LeGuin, Mackinnon, Mankiller, McClintock, Morrison, Perkins, Williams] 
-9. [Blackburn, Blackwell, BourkeWhite, Grimke] 
-10. [Clinton, Huerta, Stanton] 
-11. [Albright, Collins, Dickinson, Didrikson, LeGuin, Mackinnon, Mankiller, McClintock, Morrison, Perkins, Williams] 
-12. [Blackburn, Blackwell, BourkeWhite, Grimke] 
-
-«rot=20 column=5, currentPhase=MAGNIFICENCE»
-1. [Feinstein, Jemison, Kingston] 
-2. [Sacagawea, Weingarten] 
-3. [Coleman, Edelman, Sotomayor, Whitman] 
-4. [Clinton, Stanton] 
-5. [Anthony, Liebowitz, Rideout, Simmons] 
-6. [Angelou, Mikulski] 
-7. [Anthony, Liebowitz, Rideout, Simmons] 
-8. [Albright, Collins, Dickinson, Didrikson, Mackinnon, Mankiller, McClintock, Morrison, Perkins, Williams] 
-9. [Blackburn, Blackwell, BourkeWhite] 
-10. [Clinton, Stanton] 
-11. [Albright, Collins, Dickinson, Didrikson, Mackinnon, Mankiller, McClintock, Morrison, Perkins, Williams] 
-12. [Blackburn, Blackwell, BourkeWhite] 
-
 «rot=20 column=3, currentPhase=MILLIONAIRES»
 1. [Alsop, Fossey, Rosado] 
 2. [Hooks, OConnor, Roosevelt, Stone, Stowe] 
@@ -4506,48 +4296,6 @@
 10. [Dix] 
 11. [Mikulski, Oakley] 
 12. [Bly] 
-
-«rot=20 column=3, currentPhase=MAGNIFICENCE»
-1. [Fossey, Rosado] 
-2. [Angelou, LeGuin] 
-3. [Jemison, Simmons] 
-4. [Anthony, Ostrom, Sotomayor] 
-5. [OConnor, Roosevelt] 
-6. [Coleman, Collins, Millay, Pelosi, Williams] 
-7. [OConnor, Roosevelt] 
-8. [Chisholm, Clinton, Feinstein, Grimke, Height, Weingarten, Whitman] 
-9. [Mikulski, Oakley] 
-10. [Anthony, Ostrom, Sotomayor] 
-11. [Chisholm, Clinton, Feinstein, Grimke, Height, Weingarten, Whitman] 
-12. [Mikulski, Oakley] 
-
-«rot=20 column=3, currentPhase=MAGNIFICENCE»
-1. [Alsop, Fossey, Rosado] 
-2. [Angelou, Boggs, Gage, LeGuin] 
-3. [Jemison, Simmons] 
-4. [Anthony, Catt, Mott, Ostrom, Sotomayor] 
-5. [Hooks, OConnor, Roosevelt, Stone, Stowe] 
-6. [Coleman, Collins, Millay, Palin, Pelosi, Wells, Williams, Yalow] 
-7. [Hooks, OConnor, Roosevelt, Stone, Stowe] 
-8. [Bair, Child, Chisholm, Clinton, Elion, Feinstein, Grimke, Height, Weingarten, Whitman] 
-9. [Mikulski, Oakley] 
-10. [Anthony, Catt, Mott, Ostrom, Sotomayor] 
-11. [Bair, Child, Chisholm, Clinton, Elion, Feinstein, Grimke, Height, Weingarten, Whitman] 
-12. [Mikulski, Oakley] 
-
-«rot=20 column=3, currentPhase=MAGNIFICENCE»
-1. [Alsop, Fossey, Rosado] 
-2. [Angelou, Boggs, Gage, LeGuin] 
-3. [Jemison, Simmons] 
-4. [Anthony, Catt, Mott, Ostrom, Sotomayor] 
-5. [Hooks, OConnor, Roosevelt, Stone, Stowe] 
-6. [Coleman, Collins, Millay, Palin, Pelosi, Wells, Williams, Yalow] 
-7. [Hooks, OConnor, Roosevelt, Stone, Stowe] 
-8. [Bair, Child, Chisholm, Clinton, Elion, Feinstein, Grimke, Height, Weingarten, Whitman] 
-9. [Mikulski, Oakley] 
-10. [Anthony, Catt, Mott, Ostrom, Sotomayor] 
-11. [Bair, Child, Chisholm, Clinton, Elion, Feinstein, Grimke, Height, Weingarten, Whitman] 
-12. [Mikulski, Oakley] 
 
 «rot=22 column=6, currentPhase=CKEXPANSIONS»
 1. [Albright, Ludington] 
@@ -4661,34 +4409,6 @@
 11. [Denmark, Dickinson, Didrikson, Duncan] 
 12. [OConnor, OKeeffe, Oakley, Obama, Ostrom] 
 
-«rot=23 column=5, currentPhase=EMPATHICALLY»
-1. [Chisholm, Height, Truth] 
-2. [Alsop] 
-3. [Adams, Boggs, Burns, Feinstein, Hooks, Jemison, Kingston, Parks, Pelosi, Wells] 
-4. [Child, Greider, Rosado] 
-5. [Lockwood, Yalow] 
-6. [Blackburn, Blackwell, BourkeWhite, Grimke] 
-7. [Angelou, Ederle, Mikulski, Smeal] 
-8. [OKeeffe] 
-9. [Child, Greider, Rosado] 
-10. [Anthony, Barton, Carson, Liebowitz, Ostrom, Rideout, Simmons] 
-11. [Anthony, Barton, Carson, Liebowitz, Ostrom, Rideout, Simmons] 
-12. [Ginsburg] 
-
-«rot=23 column=1, currentPhase=EMPATHICALLY»
-1. [Height, Hopper, Huerta] 
-2. [Pelosi, Perkins] 
-3. [Sacagawea, Sanger, Shriver, Simmons, Sotomayor, Stanton, Steinem] 
-4. [Denmark, Dickinson, Didrikson, Duncan] 
-5. [Warren, Weingarten, Whitman, Williams] 
-6. [Kingston] 
-7. [LeGuin, Liebowitz, Lockwood, Ludington] 
-8. [Feinstein, Ferraro, Fossey] 
-9. [Denmark, Dickinson, Didrikson, Duncan] 
-10. [OConnor, OKeeffe, Oakley, Ostrom] 
-11. [OConnor, OKeeffe, Oakley, Ostrom] 
-12. [Barton, Benjamin, Blackburn, Blackwell, BourkeWhite] 
-
 «rot=23 column=1, currentPhase=ALPHABETICAL»
 1. [Denmark, Dickinson, Didrikson, Dix, Duncan] 
 2. [OConnor, OKeeffe, Oakley, Obama, Ostrom] 
@@ -4716,48 +4436,6 @@
 10. [OKeeffe] 
 11. [Child, Greider, Rosado] 
 12. [Anthony, Barton, Carson, Liebowitz, Ostrom, Rideout, Simmons] 
-
-«rot=23 column=1, currentPhase=EMPATHICALLY»
-1. [Height, Hooks, Hopper, Huerta] 
-2. [Palin, Parks, Paul, Pelosi, Perkins] 
-3. [Sacagawea, Sanger, Shriver, Simmons, Smeal, Sotomayor, Stanton, Steinem, Stone, Stowe] 
-4. [Denmark, Dickinson, Didrikson, Dix, Duncan] 
-5. [Warren, Weingarten, Wells, Whitman, Williams] 
-6. [King, Kingston] 
-7. [Lange, LeGuin, Liebowitz, Lin, Lockwood, Low, Ludington] 
-8. [Feinstein, Ferraro, Fossey] 
-9. [Denmark, Dickinson, Didrikson, Dix, Duncan] 
-10. [OConnor, OKeeffe, Oakley, Obama, Ostrom] 
-11. [OConnor, OKeeffe, Oakley, Obama, Ostrom] 
-12. [Bair, Barton, Benjamin, Blackburn, Blackwell, Bly, Boggs, Born, BourkeWhite, Buck, Burns] 
-
-«rot=23 column=1, currentPhase=EMPATHICALLY»
-1. [Height, Hooks, Hopper, Huerta] 
-2. [Palin, Parks, Paul, Pelosi, Perkins] 
-3. [Sacagawea, Sanger, Shriver, Simmons, Smeal, Sotomayor, Stanton, Steinem, Stone, Stowe] 
-4. [Denmark, Dickinson, Didrikson, Duncan] 
-5. [Warren, Weingarten, Wells, Whitman, Williams] 
-6. [King, Kingston] 
-7. [Lange, LeGuin, Liebowitz, Lockwood, Ludington] 
-8. [Feinstein, Ferraro, Fossey] 
-9. [Denmark, Dickinson, Didrikson, Duncan] 
-10. [OConnor, OKeeffe, Oakley, Obama, Ostrom] 
-11. [OConnor, OKeeffe, Oakley, Obama, Ostrom] 
-12. [Bair, Barton, Benjamin, Blackburn, Blackwell, Boggs, Born, BourkeWhite, Buck, Burns] 
-
-«rot=23 column=1, currentPhase=EMPATHICALLY»
-1. [Height, Hooks, Hopper, Huerta] 
-2. [Palin, Parks, Pelosi, Perkins] 
-3. [Sacagawea, Sanger, Shriver, Simmons, Smeal, Sotomayor, Stanton, Steinem, Stone, Stowe] 
-4. [Denmark, Dickinson, Didrikson, Duncan] 
-5. [Warren, Weingarten, Wells, Whitman, Williams] 
-6. [Kingston] 
-7. [Lange, LeGuin, Liebowitz, Lockwood, Ludington] 
-8. [Feinstein, Ferraro, Fossey] 
-9. [Denmark, Dickinson, Didrikson, Duncan] 
-10. [OConnor, OKeeffe, Oakley, Obama, Ostrom] 
-11. [OConnor, OKeeffe, Oakley, Obama, Ostrom] 
-12. [Barton, Benjamin, Blackburn, Blackwell, Boggs, BourkeWhite, Burns] 
 
 «rot=24 column=4, currentPhase=GAMESMANSHIP»
 1. [Greider, Jemison, Ludington, Palin, Rubin, Shriver, Steinem] 

@@ -167,6 +167,20 @@
 11. [Georgia] 
 12. [Alabama, Alaska, Arizona, Arkansas] 
 
+«rot=12 column=4, currentPhase=APUZZLEEVENT»
+1. [Colorado] 
+2. [RhodeIsland] 
+3. [California, Illinois, Indiana, Louisiana] 
+4. [Connecticut, Minnesota, Pennsylvania, Tennessee] 
+5. [Connecticut, Minnesota, Pennsylvania, Tennessee] 
+6. [Arizona] 
+7. [Massachusetts, Mississippi, Missouri] 
+8. [Massachusetts, Mississippi, Missouri] 
+9. [NewJersey] 
+10. [Massachusetts, Mississippi, Missouri] 
+11. [Alabama] 
+12. [Michigan, NewHampshire, Washington] 
+
 «rot=12 column=4, currentPhase=PUZZLEEVENTS»
 1. [RhodeIsland] 
 2. [California, Illinois, Indiana, Louisiana] 
@@ -223,6 +237,34 @@
 11. [Georgia] 
 12. [SouthCarolina, SouthDakota] 
 
+«rot=12 column=4, currentPhase=APUZZLEEVENT»
+1. [Colorado, Ohio] 
+2. [RhodeIsland] 
+3. [California, Illinois, Indiana, Louisiana] 
+4. [Connecticut, Maine, Minnesota, Pennsylvania, Tennessee] 
+5. [Connecticut, Maine, Minnesota, Pennsylvania, Tennessee] 
+6. [Arizona] 
+7. [Alaska, Kansas, Massachusetts, Mississippi, Missouri] 
+8. [Alaska, Kansas, Massachusetts, Mississippi, Missouri] 
+9. [NewJersey] 
+10. [Alaska, Kansas, Massachusetts, Mississippi, Missouri] 
+11. [Alabama] 
+12. [Idaho, Michigan, NewHampshire, Utah, Washington] 
+
+«rot=12 column=4, currentPhase=APUZZLEEVENT»
+1. [Colorado] 
+2. [RhodeIsland] 
+3. [California, Illinois, Indiana, Louisiana] 
+4. [Connecticut, Maine, Minnesota, Pennsylvania, Tennessee] 
+5. [Connecticut, Maine, Minnesota, Pennsylvania, Tennessee] 
+6. [Arizona] 
+7. [Alaska, Kansas, Massachusetts, Mississippi, Missouri] 
+8. [Alaska, Kansas, Massachusetts, Mississippi, Missouri] 
+9. [NewJersey] 
+10. [Alaska, Kansas, Massachusetts, Mississippi, Missouri] 
+11. [Alabama] 
+12. [Idaho, Michigan, NewHampshire, Washington] 
+
 «rot=12 column=1, currentPhase=METAMORPHISM»
 1. [Alabama, Alaska, Arizona, Arkansas] 
 2. [SouthCarolina, SouthDakota] 
@@ -236,6 +278,20 @@
 10. [Washington, WestVirginia, Wisconsin, Wyoming] 
 11. [Georgia] 
 12. [Alabama, Alaska, Arizona, Arkansas] 
+
+«rot=12 column=4, currentPhase=APUZZLEEVENT»
+1. [Colorado] 
+2. [RhodeIsland] 
+3. [California, Illinois, Indiana, Louisiana] 
+4. [Connecticut, Minnesota, Pennsylvania, Tennessee] 
+5. [Connecticut, Minnesota, Pennsylvania, Tennessee] 
+6. [Arizona] 
+7. [Alaska, Kansas, Massachusetts, Mississippi, Missouri] 
+8. [Alaska, Kansas, Massachusetts, Mississippi, Missouri] 
+9. [NewJersey] 
+10. [Alaska, Kansas, Massachusetts, Mississippi, Missouri] 
+11. [Alabama] 
+12. [Michigan, NewHampshire, Washington] 
 
 «rot=12 column=1, currentPhase=METAMORPHISM»
 1. [Alabama, Alaska, Arizona, Arkansas] 
@@ -278,6 +334,62 @@
 10. [California, Colorado, Connecticut] 
 11. [Georgia] 
 12. [SouthCarolina, SouthDakota] 
+
+«rot=13 column=4, currentPhase=APUZZLEEVENT»
+1. [Connecticut, Minnesota, Pennsylvania, Tennessee] 
+2. [Wisconsin] 
+3. [Michigan, NewHampshire, Washington] 
+4. [NewMexico, Vermont, Wyoming] 
+5. [NewMexico, Vermont, Wyoming] 
+6. [Maryland, NewYork] 
+7. [Florida, Georgia, Nebraska] 
+8. [Florida, Georgia, Nebraska] 
+9. [California, Illinois, Indiana, Louisiana] 
+10. [Florida, Georgia, Nebraska] 
+11. [Arkansas, Delaware, Oklahoma] 
+12. [Virginia] 
+
+«rot=13 column=4, currentPhase=APUZZLEEVENT»
+1. [Connecticut, Maine, Minnesota, Pennsylvania, Tennessee] 
+2. [Wisconsin] 
+3. [Idaho, Michigan, NewHampshire, Utah, Washington] 
+4. [NewMexico, Vermont, Wyoming] 
+5. [NewMexico, Vermont, Wyoming] 
+6. [Maryland, NewYork] 
+7. [Florida, Georgia, Nebraska] 
+8. [Florida, Georgia, Nebraska] 
+9. [California, Illinois, Indiana, Louisiana] 
+10. [Florida, Georgia, Nebraska] 
+11. [Arkansas, Delaware, Hawaii, Iowa, Nevada, Oklahoma, Texas] 
+12. [Oregon, Virginia] 
+
+«rot=13 column=4, currentPhase=APUZZLEEVENT»
+1. [Connecticut, Maine, Minnesota, Pennsylvania, Tennessee] 
+2. [Wisconsin] 
+3. [Idaho, Michigan, NewHampshire, Washington] 
+4. [NewMexico, Vermont, Wyoming] 
+5. [NewMexico, Vermont, Wyoming] 
+6. [Maryland, NewYork] 
+7. [Florida, Georgia, Nebraska] 
+8. [Florida, Georgia, Nebraska] 
+9. [California, Illinois, Indiana, Louisiana] 
+10. [Florida, Georgia, Nebraska] 
+11. [Arkansas, Delaware, Hawaii, Nevada, Oklahoma, Texas] 
+12. [Oregon, Virginia] 
+
+«rot=13 column=4, currentPhase=APUZZLEEVENT»
+1. [Connecticut, Minnesota, Pennsylvania, Tennessee] 
+2. [Wisconsin] 
+3. [Michigan, NewHampshire, Washington] 
+4. [NewMexico, Vermont, Wyoming] 
+5. [NewMexico, Vermont, Wyoming] 
+6. [Maryland, NewYork] 
+7. [Florida, Georgia, Nebraska] 
+8. [Florida, Georgia, Nebraska] 
+9. [California, Illinois, Indiana, Louisiana] 
+10. [Florida, Georgia, Nebraska] 
+11. [Arkansas, Delaware, Hawaii, Nevada, Oklahoma] 
+12. [Oregon, Virginia] 
 
 «rot=17 column=1, currentPhase=BEFUDDLEMENT»
 1. [Kansas, Kentucky] 
@@ -362,32 +474,4 @@
 10. [Connecticut, Minnesota, Pennsylvania, Tennessee] 
 11. [Maryland, NewYork] 
 12. [Alabama] 
-
-«rot=20 column=1, currentPhase=MAGNIFICENCE»
-1. [SouthCarolina, SouthDakota] 
-2. [Georgia] 
-3. [Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana] 
-4. [Tennessee, Texas] 
-5. [Ohio, Oklahoma, Oregon] 
-6. [Louisiana] 
-7. [Ohio, Oklahoma, Oregon] 
-8. [Idaho, Illinois, Indiana, Iowa] 
-9. [Kansas, Kentucky] 
-10. [Tennessee, Texas] 
-11. [Idaho, Illinois, Indiana, Iowa] 
-12. [Kansas, Kentucky] 
-
-«rot=20 column=1, currentPhase=MAGNIFICENCE»
-1. [SouthCarolina, SouthDakota] 
-2. [Georgia] 
-3. [Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana] 
-4. [Tennessee, Texas] 
-5. [Oklahoma, Oregon] 
-6. [Louisiana] 
-7. [Oklahoma, Oregon] 
-8. [Idaho, Illinois, Indiana] 
-9. [Kansas, Kentucky] 
-10. [Tennessee, Texas] 
-11. [Idaho, Illinois, Indiana] 
-12. [Kansas, Kentucky] 
 
