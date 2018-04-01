@@ -2,8 +2,8 @@ import sbt._
 
 object Dependencies {
 
-  val scalatestVersion = "3.0.4"
-  val betterFilesVersion = "3.2.0"
+  val scalatestVersion = "3.0.5"
+  val betterFilesVersion = "3.4.0"
 
   object External {
     lazy val scalactic: ModuleID = "org.scalactic" %% "scalactic" % scalatestVersion
